@@ -20,7 +20,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Neugierigen
@@ -31,7 +31,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: denken
@@ -42,7 +42,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'fühlen '
@@ -53,7 +53,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: erschaffen
@@ -72,7 +72,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'ökologischen Krise'
@@ -108,7 +108,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Nachhaltigkeit '
@@ -119,7 +119,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: '17 Zielen für nachhaltige Entwicklung'
@@ -130,7 +130,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'von Bayreuth'
@@ -141,7 +141,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'von Bingen'
@@ -152,7 +152,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Schumann '
@@ -163,7 +163,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Mayer '
@@ -261,7 +261,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'symphony of change'
@@ -326,8 +326,8 @@ sitemap_priority: 0.5
 select_transition_theme: bechange
 aktuell: true
 template: single_page
-updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1702547809
+updated_by: 7d709850-5c35-4065-be68-b627c348051d
+updated_at: 1738645979
 details:
   -
     id: vP17VDHh
@@ -351,7 +351,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '#bechange'
@@ -422,7 +422,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Abschlusspublikation '
@@ -433,7 +433,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '#bechange - 17 Klänge der Nachhaltigkeit'
@@ -476,12 +476,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Künstlerische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Juri de Marco/Lorenz Blaumer'
@@ -494,12 +494,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Rekomposition/Arrangement
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Nina Kazourian, Tabea Schrenk, Julia Biłat, Helena Weinstock-Montag, Franziska Aller'
@@ -512,12 +512,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Musikalische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Nikola Djurica'
@@ -530,12 +530,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Regie, Choreographie'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'David Fernández'
@@ -548,12 +548,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Lichtdesign
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Vito Walter'
@@ -566,12 +566,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Projektleitung
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Immanuel de Gilde'
@@ -584,12 +584,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Ko-Künstlerische Leitung Komposition'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Alistair Duncan'
@@ -602,12 +602,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Workshopleitung
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Viola Schmitzer, Bartosz Nowak'
@@ -620,12 +620,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Choreographische Mitarbeit'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Lea Hladka'
@@ -638,12 +638,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Projektassistenz & dramaturgische Unterstützung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Catriona Fadke'
@@ -656,12 +656,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Tourassistenz
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Paula Reiz'

@@ -323,6 +323,4 @@ related_termine:
   - 224ebe2c-4cc4-45e8-82df-04435f458c2b
   - 8ec628d9-0a6c-4b9a-bf7c-c8aabacb779a
   - 9cf9887b-df8e-4588-8bcd-81b9761e46ae
-  - 7751b734-7ebd-4c18-a880-e607a05ed9ff
-  - d0b04c04-978d-401d-9881-4478d8ad2b1c
 ---

@@ -17,17 +17,17 @@ article:
         type: text
         text: 'Hildegard von Bingen '
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'bis Clara Schumann '
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Klänge der Nachhaltigkeit'
@@ -43,7 +43,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'symphony of change'
@@ -94,7 +94,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'wie dieser Wandel klingt'
@@ -105,7 +105,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Hildegard von Bingen'
@@ -116,7 +116,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Wilhelmine von Bayreuth'
@@ -127,7 +127,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Emilie Mayer'
@@ -138,7 +138,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Clara Schumann'
@@ -149,7 +149,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'ordo virtutum'
@@ -160,7 +160,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Argenore
@@ -171,7 +171,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Klavierromanze '
@@ -182,7 +182,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: '7. Sinfonie'
@@ -206,7 +206,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '17 Ziele für nachhaltige Entwicklung'
@@ -217,7 +217,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Ziel 5 der Geschlechtergerechtigkeit'
@@ -228,7 +228,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'hochwertige Bildung'
@@ -239,7 +239,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Verringerung von Armut'
@@ -289,7 +289,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Klimawandel
@@ -300,7 +300,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Wir müssen uns verändern, bevor es nicht mehr möglich ist.'
@@ -319,7 +319,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'größte Strahlkraft'
@@ -330,7 +330,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'mitten im Publikum'
@@ -341,7 +341,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'zwischen dir und mir'
@@ -352,7 +352,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Gestalten wir den Wandel zusammen?'
@@ -390,8 +390,8 @@ aktuell: true
 featured: true
 select_type: programm
 template: single_page
-updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1709045052
+updated_by: 7d709850-5c35-4065-be68-b627c348051d
+updated_at: 1738647425
 related_termine:
   - f1aaee5f-116b-4a90-9138-e1373a8d82cf
   - e33b8d76-c48d-4940-8569-61df003d590a
@@ -405,6 +405,7 @@ related_termine:
   - 19d716fc-acad-4fd5-b82a-bb467d24858b
   - 3a54e0c2-a3af-4349-977d-854b907ba13f
   - 38155de8-8dce-457e-a100-626076e9c5c8
+  - 53ddc508-0985-444a-9256-9017fabc5acc
 header_image: 04_was-wir-tun/reihen-und-programme/symphony-of-change/stegreif-orchester_symphony-of-change_musikfest-berlin_(c)_navina-neuschl-194889.jpg
 details:
   -
@@ -442,12 +443,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Künstlerische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Juri de Marco & Lorenz Blaumer'
@@ -460,15 +461,15 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Projektleitung
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
           -
@@ -483,12 +484,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Rekomposition & Arrangement'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Tabea Schrenk, Nina Kazourian, Julia Biłat, Helena Montag, Franziska Aller'
@@ -501,12 +502,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Musikalische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Nikola Djurica'
@@ -519,12 +520,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Ko-Künstlerische Leitung Komposition'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Alistair Duncan'
@@ -537,12 +538,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Regie, Choreographie'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'David Fernández'
@@ -555,12 +556,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Choreographische Mitarbeit'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Lea Hladka'
@@ -573,15 +574,15 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Lichtdesign
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
           -
@@ -596,12 +597,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Bühne & Kostüm'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Anja Kreher'
@@ -614,12 +615,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Dramaturgische Mitarbeit'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Catriona Fadke'

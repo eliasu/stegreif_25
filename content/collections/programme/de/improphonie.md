@@ -24,8 +24,8 @@ related_termine:
   - eaa048c2-863d-46ba-bd60-34fe2a130e89
   - 91171594-ffd7-4a00-834b-c24180c5e6c8
 template: single_page
-updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1702291515
+updated_by: 7d709850-5c35-4065-be68-b627c348051d
+updated_at: 1738646639
 teaser_text: 'Wie kann Musik im Moment und im Kontakt mit dem Publikum entstehen? Wo begegnen sich Improvisation und Komposition? Wie lässt sich mitunter sogar eine Sinfonie improvisieren?'
 headline: 'Eine Sinfonie aus dem Moment'
 article:
@@ -41,7 +41,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Improvisation '
@@ -52,7 +52,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Komposition
@@ -68,7 +68,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Groove – Bewegung – Augenkontakt'
@@ -79,7 +79,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'freien Improvisation'
@@ -90,7 +90,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'eigenständiges Werk'
@@ -109,7 +109,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: ' beruht ausschließlich auf Improvisationskonzepten'
@@ -124,7 +124,7 @@ article:
         type: bard_quotes
         size: small
         quote: '»Prägendster Gesamteindruck war die Atmosphäre: weg vom Spektakulären, Theatralischen, Nur-Unterhaltsamen, hin zu Achtsamkeit, Demut und Wertschätzung.«'
-        author: ' FAZ, 27.09.2022'
+        author: 'FAZ, 27.09.2022'
   -
     type: paragraph
     attrs:
@@ -150,7 +150,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '4 Sätzen'
@@ -161,7 +161,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Melodie
@@ -172,7 +172,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Harmonie '
@@ -183,7 +183,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Rhythmus '
@@ -194,7 +194,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Kontrast zwischen einzelnen Melodiestimmen und vollem Orchesterklang'
@@ -230,7 +230,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Grenze zwischen Komposition und Improvisation'
@@ -241,7 +241,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Klassik '
@@ -252,7 +252,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Jazz
@@ -263,7 +263,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'kollektivem Gesang'
@@ -274,7 +274,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'intensiver Stille'
@@ -311,7 +311,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Künstlerische Leitung'
@@ -319,7 +319,7 @@ details:
             type: text
             text: ' '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Juri de Marco & Lorenz Blaumer'
@@ -332,22 +332,22 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Komposition, Arrangement '
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
           -
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'und Konzeption'
@@ -355,7 +355,7 @@ details:
             type: text
             text: ' '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Bertram Burkert'
@@ -368,30 +368,30 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Regie, Choreographie '
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
           -
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'und Konzeption'
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
           -
@@ -406,12 +406,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Kostüm und Bühne '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Anja Kreher'

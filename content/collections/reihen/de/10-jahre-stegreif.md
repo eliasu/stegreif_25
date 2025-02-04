@@ -401,7 +401,5 @@ aktuell: true
 featured: false
 template: single_page
 updated_by: 7d709850-5c35-4065-be68-b627c348051d
-updated_at: 1738636357
-related_programme:
-  - 70797547-1ba0-41bf-80f5-0020e0973317
+updated_at: 1738641315
 ---

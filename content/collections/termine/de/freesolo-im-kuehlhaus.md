@@ -163,7 +163,6 @@ sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
 updated_at: 1738241826
-related_programm: ce7784db-be0a-479f-8513-9c8a3e781e06
 header_headline: '#freesolo im Kühlhaus'
 details:
   -

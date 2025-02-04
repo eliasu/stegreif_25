@@ -311,7 +311,6 @@ add_section:
 select_transition_theme: bird
 date_field: '2025-07-05'
 time: '20:00'
-related_programm: ce7784db-be0a-479f-8513-9c8a3e781e06
 template: single_page
 bundeslaender:
   - berlin

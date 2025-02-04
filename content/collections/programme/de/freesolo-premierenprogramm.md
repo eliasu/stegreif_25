@@ -621,8 +621,6 @@ related_termine:
   - f26b7b3f-2cd5-4740-83a9-41cc3271afde
   - 3ec6ca3d-01d5-48f5-9495-f0dfa2d0b219
   - ab96ac91-75b1-46fa-8e73-084f605e305f
-  - e23119c0-51ed-4185-b8f2-a55c1e3c6a0a
-  - fce1efb7-86cd-481b-9ff2-7d2f35bd1560
   - 2a5a8aea-b032-4c49-9f81-a54701484d72
 related_reihe: 8d34ea6d-a9c6-4a67-8f75-e2b66c6d2e9a
 ---
