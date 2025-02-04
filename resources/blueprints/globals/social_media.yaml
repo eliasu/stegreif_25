@@ -173,6 +173,24 @@ sections:
                   field:
                     type: hidden
                     default: 'https://www.youtube.com/'
+            TikTok:
+              display: TikTok
+              fields:
+                -
+                  handle: handle
+                  field:
+                    input_type: text
+                    type: text
+                    localizable: true
+                    listable: hidden
+                    prepend: 'https://www.tiktok.com/'
+                    display: Handle
+                    validate: required
+                -
+                  handle: prefix
+                  field:
+                    type: hidden
+                    default: 'https://www.tiktok.com/'
           type: replicator
           listable: hidden
           localizable: true

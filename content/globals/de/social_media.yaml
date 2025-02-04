@@ -1,16 +1,25 @@
 social_media:
   -
+    id: kynMAYyO
     handle: stegreiforchester
     prefix: 'https://www.facebook.com/'
     type: facebook
     enabled: true
   -
+    id: cX724NWI
     handle: stegreif
     prefix: 'https://www.instagram.com/'
     type: instagram
     enabled: true
   -
+    id: 1R09Kh6G
     handle: channel/UCiOT6cSr9H8k4JjzeR7cp6g
     prefix: 'https://www.youtube.com/'
     type: youtube
+    enabled: true
+  -
+    id: m6pxrhkq
+    handle: '@stegreif'
+    prefix: 'https://www.tiktok.com/'
+    type: TikTok
     enabled: true
