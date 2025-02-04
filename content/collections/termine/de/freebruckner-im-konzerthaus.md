@@ -1,6 +1,5 @@
 ---
 id: 7751b734-7ebd-4c18-a880-e607a05ed9ff
-published: false
 blueprint: termine
 title: '#freebruckner im Konzerthaus Berlin'
 header_headline: '#freebruckner im Konzerthaus Berlin'

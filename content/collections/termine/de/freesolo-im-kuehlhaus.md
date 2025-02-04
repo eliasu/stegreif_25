@@ -1,6 +1,5 @@
 ---
 id: e23119c0-51ed-4185-b8f2-a55c1e3c6a0a
-published: false
 blueprint: termine
 title: '#freesolo im Kühlhaus'
 header_theme_selector: dark

@@ -405,7 +405,6 @@ related_termine:
   - 19d716fc-acad-4fd5-b82a-bb467d24858b
   - 3a54e0c2-a3af-4349-977d-854b907ba13f
   - 38155de8-8dce-457e-a100-626076e9c5c8
-  - 53ddc508-0985-444a-9256-9017fabc5acc
 header_image: 04_was-wir-tun/reihen-und-programme/symphony-of-change/stegreif-orchester_symphony-of-change_musikfest-berlin_(c)_navina-neuschl-194889.jpg
 details:
   -

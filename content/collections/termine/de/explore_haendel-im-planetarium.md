@@ -1,6 +1,5 @@
 ---
 id: cf27ddcc-ad0b-4395-9ba6-0dbc8b9c33e5
-published: false
 blueprint: termine
 title: '#explore_händel im Planetarium'
 header_headline: '#explore_händel im Planetarium'
