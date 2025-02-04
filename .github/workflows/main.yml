@@ -64,7 +64,7 @@ jobs:
             cd ${{ vars.REMOTE_PATH }}
 
             # set PHP version on all inkl
-            ln -sfv /usr/bin/php81 /usr/bin/php
+            ln -sfv /usr/bin/php83 /usr/bin/php
 
             # Enter maintenance mode or return true, if already is in maintenance mode
             (php artisan down) || true
