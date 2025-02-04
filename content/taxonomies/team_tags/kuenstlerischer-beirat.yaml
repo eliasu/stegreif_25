@@ -1,0 +1,12 @@
+title: Vorstand
+updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
+updated_at: 1733756460
+blueprint: team_tags
+team_tag_type: dark
+filter_category: vorstand
+localizations:
+  en:
+    title: 'Artistic Board'
+    slug: kuenstlerischer-beirat
+    updated_by: 5c84a3c2-1f9f-4c46-ace2-d9eaf068d261
+    updated_at: 1686045595

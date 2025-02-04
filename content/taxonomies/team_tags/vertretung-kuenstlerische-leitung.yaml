@@ -1,0 +1,12 @@
+title: 'Künstlerisches Management'
+team_tag_type: dark
+filter_category: management
+updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
+updated_at: 1734087316
+blueprint: team_tags
+localizations:
+  en:
+    title: 'Artistic Director'
+    slug: vertretung-kuenstlerische-leitung
+    updated_by: 5c84a3c2-1f9f-4c46-ace2-d9eaf068d261
+    updated_at: 1686045903

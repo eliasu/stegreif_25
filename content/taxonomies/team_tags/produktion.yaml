@@ -1,0 +1,12 @@
+title: Produktion
+updated_by: 7d709850-5c35-4065-be68-b627c348051d
+updated_at: 1656611453
+blueprint: team_tags
+team_tag_type: dark
+filter_category: management
+localizations:
+  en:
+    title: Production
+    slug: produktion
+    updated_by: 5c84a3c2-1f9f-4c46-ace2-d9eaf068d261
+    updated_at: 1686045473

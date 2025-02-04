@@ -1,0 +1,23 @@
+title: Programme
+sites:
+  - de
+  - en
+propagate: true
+template: single_page
+layout: layout
+taxonomies:
+  - tags
+revisions: false
+route: '/programm/{slug}'
+sort_dir: asc
+date_behavior:
+  past: public
+  future: private
+preview_targets:
+  -
+    label: Entry
+    url: '{permalink}'
+    refresh: true
+structure:
+  root: false
+  max_depth: 1

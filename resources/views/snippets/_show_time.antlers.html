@@ -1,0 +1,20 @@
+{{#
+	@name show_time
+	@desc Include this partial if you need a properly formated time
+#}}
+
+<!-- /snippets/_show_time.antlers.html -->
+{{# if there is no translated entry take the german version #}}
+{{ if locales:count < 2 }}
+	{{ partial:typography/p content="Ab { timefield format="H.i" } Uhr" class="mb-0 sm:mb-1" }}
+
+{{# if there are translated entries #}}
+{{ else }}
+{{# iterate over all locales #}}
+	{{ locales self="false" }}
+		{{ if current == "en" }}{{ partial:typography/p content="{ timefield format="G.i a" }" class="mb-0 xs:mb-1" }}
+		{{ else }}{{ partial:typography/p content="Ab { timefield format="H.i" } Uhr" class="mb-0 sm:mb-1" }} {{ /if }}
+	{{ /locales }}
+{{ /if }}
+
+<!-- End: /snippets/_show_time.antlers.html -->

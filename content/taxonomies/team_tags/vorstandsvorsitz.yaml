@@ -1,0 +1,12 @@
+title: Vorstandsvorsitz
+updated_by: 7d709850-5c35-4065-be68-b627c348051d
+updated_at: 1656611504
+blueprint: team_tags
+team_tag_type: dark
+filter_category: vorstand
+localizations:
+  en:
+    title: Chairwoman
+    slug: vorstandsvorsitz
+    updated_by: 5c84a3c2-1f9f-4c46-ace2-d9eaf068d261
+    updated_at: 1686045434

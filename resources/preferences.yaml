@@ -1,0 +1,5 @@
+nav:
+  top_level:
+    'content::collections::pages': '@alias'
+    'content::collections::programme': '@alias'
+    'content::collections::termine': '@alias'

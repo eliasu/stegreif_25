@@ -1,0 +1,9 @@
+name: Cati
+roles:
+  - editor
+id: 5c84a3c2-1f9f-4c46-ace2-d9eaf068d261
+password_hash: $2y$10$vArd50aUkJ4DHsGh6eWFRe26014g6twnVIvhRD/Sen8QW0WWOobQq
+preferences:
+  collections:
+    pages:
+      after_save: continue_editing

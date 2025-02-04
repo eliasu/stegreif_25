@@ -1,0 +1,12 @@
+title: 'Assistenz der Geschäftsführung'
+team_tag_type: dark
+filter_category: management
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1719473955
+blueprint: team_tags
+localizations:
+  en:
+    title: 'Assistant to the managing director'
+    slug: assistenz-der-geschaeftsfuehrung
+    updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+    updated_at: 1719474101

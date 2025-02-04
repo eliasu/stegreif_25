@@ -1,0 +1,34 @@
+name: Paul
+roles:
+  - editor
+id: f6128d7d-0471-44e5-b89a-e3213d7a0925
+password_hash: $2y$10$1eoElimcVpR.nR3IRwUUXuBrqGddes15B58iLHoN6njWij4D8APDm
+preferences:
+  assets:
+    assets:
+      per_page: 500
+  collections:
+    programme:
+      columns:
+        - title
+        - aktuell
+        - select_type
+        - tags
+      after_save: continue_editing
+    reihen:
+      columns:
+        - title
+        - site
+        - aktuell
+        - tags
+    termine:
+      per_page: 500
+      after_save: continue_editing
+    personen:
+      after_save: continue_editing
+  taxonomies:
+    team_tags:
+      after_save: continue_editing
+  forms:
+    contact:
+      per_page: 500
