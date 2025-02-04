@@ -1,4 +1,4 @@
-name: 🖥️ Dev Deploy Website to All-Inkl
+name: 🖥️ MAIN Deploy Website to All-Inkl retrigger again
 
 on:
   push:
@@ -7,87 +7,78 @@ on:
 
 jobs:
   Deploy-AllInkl:
+    # this is the .env var for the deploy to work since it needs it in the vite.config.js
+    env:
+      APP_URL: "https://test.stegreif.org"
 
     runs-on: ubuntu-latest
 
     steps:
-    - name: 🚚 Get Latest Code
-      uses: actions/checkout@v3
-      # with:
-      #   path: /tmp/composer-cache
+      - name: 🚚 Get Latest Code
+        uses: actions/checkout@v3
 
-    - name: 📦 Setup Node
-      uses: actions/setup-node@v3
-      with:
-        node-version: 18
-    
-    - name: 📦 Install Packages
-      run: npm install
-    
-    - name: 🔨 Build
-      run: |
-        npm ci && npm run production
+      - name: 📦 Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
 
-    # - name: 🩺 Composer Diagnose
-    #   run: |
-    #     composer diagnose
+      - name: 📦 Install Packages
+        run: npm install
 
-    # - name: Clear cache:clear
-    #   run: | 
-    #     @php artisan cache:clear
-    #     @php artisan config:clear
-    #     @php artisan view:clear
+      - name: 🔨 Build
+        run: |
+          npm run build
 
-    # - name: storage
-    #   run: | 
-    #     cd storage/
-    #     mkdir -p framework/{sessions,views,cache}
-    #     cd storage/
-    #     chmod -R 775 framework
-    #     chown -R www-data:www-data framework   
-    
-    - name: 📦 Install Composer dependencies
-      uses: php-actions/composer@v6
-      with:
-        # php_version: "8.1.2"
-        # version: 2.2.5
-        php_extensions: exif gd bcmath
-        args: --no-dev
-        # args: --ignore-platform-reqs
-      # uses: "ramsey/composer-install@v2"
-      # with:
-      #   dependency-versions: "highest"
+      - name: 📦 Install Composer dependencies
+        uses: php-actions/composer@v6
+        with:
+          # php_version: "8.1.2"
+          # version: 2.2.5
+          php_extensions: exif gd bcmath
+          args: --no-dev
+          # args: --ignore-platform-reqs
+        # uses: "ramsey/composer-install@v2"
+        # with:
+        #   dependency-versions: "highest"
         # ignore-cache: "no"
-    
 
-    - name: 📂 Deploy to Server
-      uses: easingthemes/ssh-deploy@main
-      env:
+      - name: 📂 Deploy to Server
+        uses: easingthemes/ssh-deploy@main
+        env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
           REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
           REMOTE_USER: ${{ secrets.REMOTE_USER }}
-          TARGET: ${{ secrets.REMOTE_PATH }}
+          TARGET: ${{ vars.REMOTE_PATH }}
+          #TARGET: "www/htdocs/w01a556c/prod/pots.de"
           EXCLUDE: "/node_modules/, /public/img/, /vendor/"
-    
-    - name: 🔨 Execute Deploy Script
-      uses: appleboy/ssh-action@v0.1.6
-      with:
-        host: ${{ secrets.REMOTE_HOST }}
-        username: ${{ secrets.REMOTE_USER }}
-        key: ${{ secrets.SSH_PRIVATE_KEY }}
-        # port: ${{ secrets.PORT_AI }}
-        script: |
-          echo "Dev Deployment started ..."
-          cd ${{ secrets.REMOTE_PATH }}
-          (php artisan down) || true
-          composer install
-          npm install
-          npm run production
-          php please cache:clear
-          php please config:cache
-          php please route:cache
-          php please stache:warm
-          php please queue:restart
-          php please search:update --all
-          php artisan up
-          echo "Dev Deployment finished!"
+
+      - name: 🔨 Execute Deploy Script
+        uses: appleboy/ssh-action@v0.1.6
+        with:
+          host: ${{ secrets.REMOTE_HOST }}
+          username: ${{ secrets.REMOTE_USER }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          # port: ${{ secrets.PORT_AI }}
+          script: |
+            echo "Dev Deployment started ..."
+            cd ${{ vars.REMOTE_PATH }}
+
+            # set PHP version on all inkl
+            ln -sfv /usr/bin/php81 /usr/bin/php
+
+            # Enter maintenance mode or return true, if already is in maintenance mode
+            (php artisan down) || true
+
+            composer install
+            php artisan cache:clear
+            php please cache:clear
+            php please config:cache
+            php please route:cache
+            php please stache:warm
+            php please queue:restart
+            php please search:update --all
+
+            # Exit maintenance mode
+            php artisan up
+
+            echo "Dev Deployment finished!"
