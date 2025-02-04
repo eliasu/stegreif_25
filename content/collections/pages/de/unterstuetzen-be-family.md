@@ -2,7 +2,7 @@
 id: 222e2f37-2d54-4e1a-ae5a-3722ebb11c99
 published: false
 blueprint: page
-title: Unterstützen2
+title: Unterstützen
 header_headline: Unterstützen
 header_theme_selector: yellow
 header_select: image
@@ -310,5 +310,5 @@ sitemap_priority: 0.5
 select_transition_theme: bird
 template: page
 updated_by: 7d709850-5c35-4065-be68-b627c348051d
-updated_at: 1738639671
+updated_at: 1738639686
 ---
