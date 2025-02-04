@@ -173,7 +173,7 @@ sections:
                   field:
                     type: hidden
                     default: 'https://www.youtube.com/'
-            TikTok:
+            tiktok:
               display: TikTok
               fields:
                 -
