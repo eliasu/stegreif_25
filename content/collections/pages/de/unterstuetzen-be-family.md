@@ -2,7 +2,7 @@
 id: 222e2f37-2d54-4e1a-ae5a-3722ebb11c99
 published: false
 blueprint: page
-title: Unterstützen
+title: Unterstützen2
 header_headline: Unterstützen
 header_theme_selector: yellow
 header_select: image
@@ -77,7 +77,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'mehr Gemeinschaft wagen.'
@@ -120,7 +120,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: ' '
@@ -130,7 +130,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Kampagne Be:Family'
@@ -159,7 +159,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: '300  Personen, die unsere Stegreif Family erweitern '
@@ -230,7 +230,7 @@ article:
             type: italic
         text: 'hier noch nicht fertig geschrieben:'
       -
-        type: hard_break
+        type: hardBreak
         marks:
           -
             type: bold
@@ -241,7 +241,7 @@ article:
             type: bold
         text: 'FAQ '
       -
-        type: hard_break
+        type: hardBreak
         marks:
           -
             type: bold
@@ -252,7 +252,7 @@ article:
             type: bold
         text: Infoveranstaltungen
       -
-        type: hard_break
+        type: hardBreak
         marks:
           -
             type: bold
@@ -262,17 +262,17 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: '25.09.2024 19 Uhr online Infoveranstaltung '
       -
-        type: hard_break
+        type: hardBreak
         marks:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
       -
@@ -281,17 +281,17 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: '23.10.2014 19 Uhr online Infoveranstaltung '
       -
-        type: hard_break
+        type: hardBreak
         marks:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
   -
@@ -309,6 +309,6 @@ sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 select_transition_theme: bird
 template: page
-updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
-updated_at: 1724749446
+updated_by: 7d709850-5c35-4065-be68-b627c348051d
+updated_at: 1738639671
 ---
