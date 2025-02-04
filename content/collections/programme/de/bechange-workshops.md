@@ -409,4 +409,6 @@ details:
     enabled: true
 featured: false
 header_image: 04_was-wir-tun/reihen-und-programme/bechange-workshops/bechange-workshop-(c)-catriona-fadke--095.jpg
+related_termine:
+  - 40e1ac09-c7ed-4915-b89d-2b37fa444f5a
 ---
