@@ -41,14 +41,14 @@ class AppServiceProvider extends ServiceProvider
         });
 
         // relationship addon 
-        // Relate::oneToMany(
-        //     'programme.related_reihe',
-        //     'reihen.related_programme'
-        // );
+        Relate::oneToMany(
+            'programme.related_reihe',
+            'reihen.related_programme'
+        );
         
-        // Relate::oneToMany(
-        //     'termine.related_programm',
-        //     'programme.related_termine'
-        // );
+        Relate::oneToMany(
+            'termine.related_programm',
+            'programme.related_termine'
+        );
     }
 }

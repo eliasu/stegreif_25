@@ -233,4 +233,5 @@ updated_at: 1738245187
 header_image: 04_was-wir-tun/reihen-und-programme/explore_haendel/explore_handel_berlin-2024-c)-navina-neuschl-199827.jpg
 teaser_text: 'Eine Jazz-Barock-Fusion auf der Grundlage von Werken Georg Friedrich Händels'
 headline: 'EINE JAZZ-BAROCK-FUSION AUF DER GRUNDLAGE VON WERKEN GEORG FRIEDRICH HÄNDELS'
+related_reihe: 5e8ea375-f842-4f00-9f15-594ba8bb47a2
 ---

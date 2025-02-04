@@ -29,15 +29,15 @@ details:
                   target: null
                   title: null
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '29. März, 20 Uhr'
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
           -
@@ -51,12 +51,12 @@ details:
                   target: null
                   title: null
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '30. März, 20 Uhr'
           -
-            type: hard_break
+            type: hardBreak
     type: detail
     enabled: true
   -
@@ -106,7 +106,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: ' '
@@ -114,7 +114,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: '10-jährigen Geburtstag'
@@ -124,7 +124,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: ' '
@@ -135,7 +135,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Konzertreihe „10 Jahre Stegreif“'
@@ -153,7 +153,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Fünf Programme, zehn Konzerte – mehr Stegreif geht nicht!'
@@ -169,7 +169,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'eine Reise durch Stegreifs musikalische Vergangenheit und Gegenwart.'
@@ -207,7 +207,7 @@ add_section:
               -
                 type: bold
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '#free∃roica'
@@ -217,7 +217,7 @@ add_section:
               -
                 type: bold
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: ': '
@@ -242,7 +242,7 @@ add_section:
               -
                 type: bold
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '#explore_händel:'
@@ -267,7 +267,7 @@ add_section:
               -
                 type: bold
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '#freesolo'
@@ -303,7 +303,7 @@ add_section:
               -
                 type: bold
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '#freebruckner:'
@@ -321,7 +321,7 @@ add_section:
               -
                 type: bold
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '#feel:free: '
@@ -354,7 +354,7 @@ add_section:
               -
                 type: bold
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Lasst uns diesen Geburtstag unvergesslich machen – gemeinsam mit euch!'
@@ -372,7 +372,7 @@ add_section:
               - 04_was-wir-tun/reihen-und-programme/explore_haendel/explore_handel_berlin-2024-c)-navina-neuschl-1600.jpg
               - 04_was-wir-tun/reihen-und-programme/explore_haendel/explore_handel_berlin-2024-c)-navina-neuschl--1518.jpg
               - 04_was-wir-tun/reihen-und-programme/freebruckner/20240810_-freebruckner_(c)oliver_erenyi_linz_brucknerfest(6).JPG
-            gallery_title: 'Impressionen '
+            gallery_title: Impressionen
       -
         type: paragraph
         attrs:
@@ -400,6 +400,8 @@ select_transition_theme: bird
 aktuell: true
 featured: false
 template: single_page
-updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
-updated_at: 1738246699
+updated_by: 7d709850-5c35-4065-be68-b627c348051d
+updated_at: 1738636357
+related_programme:
+  - 70797547-1ba0-41bf-80f5-0020e0973317
 ---
