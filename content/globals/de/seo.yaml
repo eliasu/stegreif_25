@@ -24,6 +24,10 @@ og_image: social-image.jpg
 twitter_image: twitter-image.jpg
 sitemap_collections:
   - pages
+  - termine
+  - reihen
+  - programme
+  - neuigkeiten
 trackers_local: false
 trackers_staging: false
 trackers_production: true
