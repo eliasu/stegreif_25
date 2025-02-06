@@ -29,6 +29,8 @@ details:
                   target: null
                   title: null
               -
+                type: underline
+              -
                 type: btsSpan
                 attrs:
                   class: text-skin-primary
@@ -36,6 +38,8 @@ details:
           -
             type: hardBreak
             marks:
+              -
+                type: underline
               -
                 type: btsSpan
                 attrs:
@@ -51,12 +55,19 @@ details:
                   target: null
                   title: null
               -
+                type: underline
+              -
                 type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '30. März, 20 Uhr'
           -
             type: hardBreak
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
     type: detail
     enabled: true
   -
@@ -87,6 +98,11 @@ details:
         type: paragraph
         attrs:
           class: null
+    type: detail
+    enabled: true
+  -
+    id: m6rq7qwz
+    headline: 'feel:free im Radialsystem Vorverkauf demnächst'
     type: detail
     enabled: true
 theme_selector: yellow
@@ -388,9 +404,10 @@ add_section:
           values:
             type: bard_partners
             headline: Förderung
-            text: 'Zum Anlass unseres 10-jährigen Ensemble Jubiläums veranstalten wir eine Konzertreihe mit insgesamt 10 Konzerten in Berlin. Das Projekt 10xStegreif wird gefördert durch den Hauptstadtkulturfonds.'
+            text: 'Die Reihe 10xStegreif wird gefördert durch den Hauptstadtkulturfonds und die Karl-Schlecht Stiftung.'
             entires:
               - 20a05032-00e6-4400-8208-da4eb1b47312
+              - 0ada25f7-f85a-48fb-b3ad-cbeb7aa45ce7
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -400,6 +417,6 @@ select_transition_theme: bird
 aktuell: true
 featured: false
 template: single_page
-updated_by: 7d709850-5c35-4065-be68-b627c348051d
-updated_at: 1738641315
+updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
+updated_at: 1738749005
 ---

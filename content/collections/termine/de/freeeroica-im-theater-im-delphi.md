@@ -21,12 +21,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Musikalische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Sebastian Caspar'
@@ -39,12 +39,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Rekomposition, Arrangement'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Mike Conrad, Alistair Duncan'
@@ -57,12 +57,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Regie, Szenographie'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'David Fernández, Franziska Ritter'
@@ -75,12 +75,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Lichtdesign
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Arnaud Poumarat'
@@ -107,17 +107,17 @@ details:
                   title: 'Website des Theaters im Delphi'
             text: 'Theater im Delphi'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Gustav-Adolf-Straße 2'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '13086 Berlin'
           -
-            type: hard_break
+            type: hardBreak
     type: detail
     enabled: true
   -
@@ -133,7 +133,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '25 '
@@ -141,17 +141,17 @@ details:
             type: text
             text: '€ regulär'
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
           -
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '16 '
@@ -167,7 +167,7 @@ details:
             buttons:
               -
                 id: m5nnqput
-                label: 'Buchen '
+                label: Buchen
                 target_blank: true
                 button_type: background
                 link_type: url
@@ -204,7 +204,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: '10 jährigen Geburtstag'
@@ -214,7 +214,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: ' '
@@ -236,7 +236,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'die Ursprünge und Visionen von Stegreif auf einzigartige Weise verkörpert:'
@@ -268,7 +268,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Ohne Noten, ohne Dirigentin und ohne Sitzordnung '
@@ -289,7 +289,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'performativer wie musikalischer Aufbruch,'
@@ -302,7 +302,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'neue Interpretation von Beethovens Meisterwerk:'
@@ -323,7 +323,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Und wie steht es um Stegreifs eigene Revolution der klassischen Musik?'
@@ -341,7 +341,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'das Jubiläumsjahr 2025 lädt zu 10 Konzerten mit 5 verschiedenen Programmen ein,'
@@ -359,7 +359,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Wir laden euch herzlich ein, diesen Auftakt unseres'
@@ -376,7 +376,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: ' 10 jährigen Geburtstages '
@@ -386,7 +386,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'zusammen zu feiern!'
@@ -434,7 +434,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
-updated_at: 1738141063
+updated_at: 1738745219
 bundeslaender:
   - berlin
 add_section:
@@ -449,9 +449,10 @@ add_section:
           values:
             type: bard_partners
             headline: Förderung
-            text: '#freeeroica findet im Rahmen des Projekts 10xStegreif, gefördert durch den Hauptstadtkulturfonds, statt. '
+            text: 'Die Reihe 10xStegreif wird gefördert durch den Hauptstadtkulturfonds und die Karl-Schlecht Stiftung.'
             entires:
               - 20a05032-00e6-4400-8208-da4eb1b47312
+              - 0ada25f7-f85a-48fb-b3ad-cbeb7aa45ce7
       -
         type: paragraph
         attrs:

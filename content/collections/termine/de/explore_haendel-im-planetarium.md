@@ -21,12 +21,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Rekomposition, Arrangement & Musikalische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Alistair Duncan'
@@ -39,12 +39,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Regie, Szenographie '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Gineke Pranger'
@@ -57,15 +57,15 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Kostüm
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
           -
@@ -80,12 +80,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Lichtdesign
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Arnaud Poumarat'
@@ -112,12 +112,12 @@ details:
                   title: null
             text: 'Zeiss-Großplanetarium '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Prenzlauer Allee 80 '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '10405 Berlin'
@@ -204,7 +204,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Alistair Duncan'
@@ -232,7 +232,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'persönliche Vertiefung auf musikalische Qualität und die Kunst des filigranen Zusammenspiels '
@@ -281,9 +281,10 @@ add_section:
           values:
             type: bard_partners
             headline: Förderung
-            text: '#explore_händel findet im Rahmen des Projekts 10xStegreif, gefördert durch den Hauptstadtkulturfonds, statt. '
+            text: 'Die Reihe 10xStegreif wird gefördert durch den Hauptstadtkulturfonds und die Karl-Schlecht Stiftung.'
             entires:
               - 20a05032-00e6-4400-8208-da4eb1b47312
+              - 0ada25f7-f85a-48fb-b3ad-cbeb7aa45ce7
       -
         type: paragraph
         attrs:
@@ -299,7 +300,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
-updated_at: 1738245137
+updated_at: 1738745273
 teaser_text: 'Stegreif ganz intim und nah erleben bei #explore_händel im Planetarium.'
 bundeslaender:
   - berlin

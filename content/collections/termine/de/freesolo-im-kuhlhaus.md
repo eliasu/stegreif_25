@@ -22,12 +22,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Komposition
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Noam Siva '
@@ -40,12 +40,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Ko-Komposition
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Alistair Duncan'
@@ -58,12 +58,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Musikalische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Lorenz Blaumer'
@@ -76,12 +76,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Projektleitung, Produktion'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Lea Hladka'
@@ -94,12 +94,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Lichtdesign
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Arnaud Poumarat'
@@ -112,12 +112,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Produktions Assistenz'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Sarah Ströbele'
@@ -144,12 +144,12 @@ details:
                   title: null
             text: KühlhausBerlin
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Luckenwalder Strasse 3'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '10963 Berlin'
@@ -299,10 +299,11 @@ add_section:
           id: m6gpewnb
           values:
             type: bard_partners
-            headline: 'Förderung '
-            text: '#freesolo findet im Rahmen des Projekts 10xStegreif, gefördert durch den Hauptstadtkulturfonds, statt.'
+            headline: Förderung
+            text: 'Die Reihe 10xStegreif wird gefördert durch den Hauptstadtkulturfonds und die Karl-Schlecht Stiftung.'
             entires:
               - 20a05032-00e6-4400-8208-da4eb1b47312
+              - 0ada25f7-f85a-48fb-b3ad-cbeb7aa45ce7
       -
         type: paragraph
         attrs:
@@ -319,5 +320,5 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
-updated_at: 1738241851
+updated_at: 1738745338
 ---

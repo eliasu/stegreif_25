@@ -34,7 +34,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'beratendes Gremium'
@@ -45,7 +45,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Ehrenamt '
@@ -56,7 +56,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Expertise
@@ -67,7 +67,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Erfahrung '
@@ -78,7 +78,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Netzwerk '
@@ -97,7 +97,7 @@ article:
             type: bold
         text: 'Hella Dunger-Löper'
       -
-        type: hard_break
+        type: hardBreak
         marks:
           -
             type: bold
@@ -116,7 +116,7 @@ article:
             type: bold
         text: 'Alexander Farenholtz'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Gründungsvorstand Kulturstiftung des Bundes (2002-2020)'
@@ -139,7 +139,7 @@ article:
             type: bold
         text: 'Rüdiger Nolte'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Vorsitzender des Hochschulrats der HfM Franz Liszt Weimar; ehem. Rektor Hochschule für Musik Freiburg'
@@ -162,7 +162,7 @@ article:
             type: bold
         text: 'Thomas Rietschel'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: Kulturberater
@@ -178,7 +178,7 @@ article:
             type: bold
         text: 'Brigitte Russ-Scherer '
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Vorsitzende Vorstand PODIUM Musikstiftung Esslingen / Oberbürgermeisterin a.D.'
@@ -201,7 +201,7 @@ article:
             type: bold
         text: 'Dr. Katrin Schlecht'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Vorstandsvorsitzende der Karl Schlecht Stiftung / Rechtsanwältin'
@@ -217,7 +217,7 @@ article:
             type: bold
         text: 'Albert Schmitt'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Geschäftsführer Deutsche Kammerphilharmonie Bremen'
@@ -240,7 +240,7 @@ article:
             type: bold
         text: 'Andrea Thilo'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Journalistin, Moderatorin, Trainerin'
@@ -263,7 +263,7 @@ article:
             type: bold
         text: 'Folkert Uhde'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Co-Gründer Radialsystem Berlin, Konzertdesigner, Festivalintendant'
@@ -368,7 +368,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Koproduktionspartner*innen'
@@ -381,32 +381,32 @@ add_section:
             type: text
             text: 'Neuköllner Oper Berlin'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'PODIUM Festival Esslingen'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Konzerthaus Dortmund'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Konzerthaus Berlin'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Deutsches Symphonie-Orchester Berlin'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'junge norddeutsche philharmonie (jnp)'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Radialsystem Berlin'
@@ -419,7 +419,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Kooperationspartner*innen'
@@ -432,52 +432,52 @@ add_section:
             type: text
             text: 'Beethovenfest Bonn'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'exploratorium Berlin'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Säälchen am Holzmarkt 25'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Kunst Uni Graz'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Staatstheater Augsburg'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Internationale Händelfestspiele Karlsruhe'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Dresdner Philharmonie'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Alte Oper Frankfurt'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Kissinger Sommer'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Ludwigsburger Schlossfestspiele'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: TONALi
@@ -490,7 +490,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Weitere Partner*innen'
@@ -503,43 +503,35 @@ add_section:
             type: text
             text: 'Andreas Richter Cultural Consulting'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'FREO | Freie Ensembles und Orchester in Deutschland e.V.'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Netzwerk Junge Ohren'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Orchester des Wandels e.V.'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'command+g | Grafik- und Webdesign'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'KLANG & BILDER WELTEN Stephan Böhme'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Noam Sivan | Komponist, Pianist, Improvisateur'
-  -
-    id: m2na6dn9
-    theme_selector: light
-    article:
-      -
-        type: heading
-        attrs:
-          level: 2
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -547,8 +539,8 @@ sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 select_transition_theme: bird
 template: page
-updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
-updated_at: 1734447019
+updated_by: 7d709850-5c35-4065-be68-b627c348051d
+updated_at: 1738699175
 header_headline: 'Förder*innen'
 header_image: 05_unterstuezen/00_header_(c)_ludwignikulski_lowres.jpg
 show_social: true
