@@ -540,7 +540,7 @@ sitemap_priority: 0.5
 select_transition_theme: bird
 template: page
 updated_by: 7d709850-5c35-4065-be68-b627c348051d
-updated_at: 1738699175
+updated_at: 1738873316
 header_headline: 'Förder*innen'
 header_image: 05_unterstuezen/00_header_(c)_ludwignikulski_lowres.jpg
 show_social: true

@@ -4,5 +4,5 @@ blueprint: partnerinnen
 title: 'FAMA Kunststiftung'
 logo: partner_innen/fama_logo_ohne_hintergrund.png
 updated_by: 7d709850-5c35-4065-be68-b627c348051d
-updated_at: 1738699067
+updated_at: 1738873312
 ---
