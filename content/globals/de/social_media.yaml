@@ -23,3 +23,8 @@ social_media:
     prefix: 'https://www.facebook.com/'
     type: facebook
     enabled: true
+  -
+    id: m8vjjn52
+    handle: 'https://open.spotify.com/intl-de/artist/0TvwIUyH4HnLXU7z3KIBxr?si=21iY1AAzSlewwvaWop-xLQ'
+    type: spotify
+    enabled: true

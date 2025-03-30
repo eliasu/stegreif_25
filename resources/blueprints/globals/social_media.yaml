@@ -1,197 +1,207 @@
-sections:
+tabs:
   social_media:
     display: 'Social Media'
-    fields:
+    sections:
       -
-        handle: section_social
-        field:
-          type: section
-          listable: hidden
-          display: 'Social media links'
-      -
-        handle: social_media
-        field:
-          sets:
-            email:
-              display: Email
-              fields:
-                -
-                  handle: handle
-                  field:
-                    input_type: text
-                    type: text
-                    localizable: true
-                    listable: hidden
-                    display: Email
-                    validate: required
-                -
-                  handle: prefix
-                  field:
-                    type: hidden
-                    default: 'mailto:'
-            facebook:
-              display: Facebook
-              fields:
-                -
-                  handle: handle
-                  field:
-                    input_type: text
-                    type: text
-                    localizable: true
-                    listable: hidden
-                    prepend: 'https://www.facebook.com/'
-                    display: Handle
-                    validate: required
-                -
-                  handle: prefix
-                  field:
-                    type: hidden
-                    default: 'https://www.facebook.com/'
-            github:
-              display: GitHub
-              fields:
-                -
-                  handle: handle
-                  field:
-                    input_type: text
-                    type: text
-                    localizable: true
-                    listable: hidden
-                    prepend: 'https://www.github.com/'
-                    display: Handle
-                    validate: required
-                -
-                  handle: prefix
-                  field:
-                    type: hidden
-                    default: 'https://www.github.com/'
-            instagram:
-              display: Instagram
-              fields:
-                -
-                  handle: handle
-                  field:
-                    input_type: text
-                    type: text
-                    localizable: true
-                    listable: hidden
-                    prepend: 'https://www.instagram.com/'
-                    display: Handle
-                    validate: required
-                -
-                  handle: prefix
-                  field:
-                    type: hidden
-                    default: 'https://www.instagram.com/'
-            linkedin:
-              display: LinkedIn
-              fields:
-                -
-                  handle: handle
-                  field:
-                    input_type: text
-                    type: text
-                    localizable: true
-                    listable: hidden
-                    prepend: 'https://www.linkedin.com/'
-                    display: Handle
-                    validate: required
-                -
-                  handle: prefix
-                  field:
-                    type: hidden
-                    default: 'https://www.linkedin.com/'
-            Pinterest:
-              display: Pinterest
-              fields:
-                -
-                  handle: handle
-                  field:
-                    input_type: text
-                    type: text
-                    localizable: true
-                    listable: hidden
-                    prepend: 'https://www.pinterest.com/'
-                    display: URL
-                    validate: required
-                -
-                  handle: prefix
-                  field:
-                    type: hidden
-                    default: 'https://www.pinterest.com/'
-            twitter:
-              display: Twitter
-              fields:
-                -
-                  handle: handle
-                  field:
-                    input_type: text
-                    type: text
-                    localizable: true
-                    listable: hidden
-                    prepend: 'https://www.twitter.com/'
-                    display: Handle
-                    validate: required
-                -
-                  handle: prefix
-                  field:
-                    type: hidden
-                    default: 'https://www.twitter.com/'
-            vimeo:
-              display: Vimeo
-              fields:
-                -
-                  handle: handle
-                  field:
-                    input_type: text
-                    type: text
-                    localizable: true
-                    listable: hidden
-                    prepend: 'https://www.vimeo.com/'
-                    display: Handle
-                    validate: required
-                -
-                  handle: prefix
-                  field:
-                    type: hidden
-                    default: 'https://www.vimeo.com/'
-            youtube:
-              display: YouTube
-              fields:
-                -
-                  handle: handle
-                  field:
-                    input_type: text
-                    type: text
-                    localizable: true
-                    listable: hidden
-                    prepend: 'https://www.youtube.com/'
-                    display: Handle
-                    validate: required
-                -
-                  handle: prefix
-                  field:
-                    type: hidden
-                    default: 'https://www.youtube.com/'
-            tiktok:
-              display: TikTok
-              fields:
-                -
-                  handle: handle
-                  field:
-                    input_type: text
-                    type: text
-                    localizable: true
-                    listable: hidden
-                    prepend: 'https://www.tiktok.com/'
-                    display: Handle
-                    validate: required
-                -
-                  handle: prefix
-                  field:
-                    type: hidden
-                    default: 'https://www.tiktok.com/'
-          type: replicator
-          listable: hidden
-          localizable: true
-          display: 'Social media'
+        fields:
+          -
+            handle: section_social
+            field:
+              type: section
+              display: 'Social media links'
+              localizable: false
+          -
+            handle: social_media
+            field:
+              type: replicator
+              localizable: true
+              display: 'Social media'
+              sets:
+                main:
+                  display: Main
+                  sets:
+                    email:
+                      display: Email
+                      fields:
+                        -
+                          handle: handle
+                          field:
+                            type: text
+                            localizable: true
+                            display: Email
+                            validate: required
+                        -
+                          handle: prefix
+                          field:
+                            type: hidden
+                            default: 'mailto:'
+                            localizable: false
+                    facebook:
+                      display: Facebook
+                      fields:
+                        -
+                          handle: handle
+                          field:
+                            type: text
+                            localizable: true
+                            prepend: 'https://www.facebook.com/'
+                            display: Handle
+                            validate: required
+                        -
+                          handle: prefix
+                          field:
+                            type: hidden
+                            default: 'https://www.facebook.com/'
+                            localizable: false
+                    github:
+                      display: GitHub
+                      fields:
+                        -
+                          handle: handle
+                          field:
+                            type: text
+                            localizable: true
+                            prepend: 'https://www.github.com/'
+                            display: Handle
+                            validate: required
+                        -
+                          handle: prefix
+                          field:
+                            type: hidden
+                            default: 'https://www.github.com/'
+                            localizable: false
+                    instagram:
+                      display: Instagram
+                      fields:
+                        -
+                          handle: handle
+                          field:
+                            type: text
+                            localizable: true
+                            prepend: 'https://www.instagram.com/'
+                            display: Handle
+                            validate: required
+                        -
+                          handle: prefix
+                          field:
+                            type: hidden
+                            default: 'https://www.instagram.com/'
+                            localizable: false
+                    linkedin:
+                      display: LinkedIn
+                      fields:
+                        -
+                          handle: handle
+                          field:
+                            type: text
+                            localizable: true
+                            prepend: 'https://www.linkedin.com/'
+                            display: Handle
+                            validate: required
+                        -
+                          handle: prefix
+                          field:
+                            type: hidden
+                            default: 'https://www.linkedin.com/'
+                            localizable: false
+                    Pinterest:
+                      display: Pinterest
+                      fields:
+                        -
+                          handle: handle
+                          field:
+                            type: text
+                            localizable: true
+                            prepend: 'https://www.pinterest.com/'
+                            display: URL
+                            validate: required
+                        -
+                          handle: prefix
+                          field:
+                            type: hidden
+                            default: 'https://www.pinterest.com/'
+                            localizable: false
+                    twitter:
+                      display: Twitter
+                      fields:
+                        -
+                          handle: handle
+                          field:
+                            type: text
+                            localizable: true
+                            prepend: 'https://www.twitter.com/'
+                            display: Handle
+                            validate: required
+                        -
+                          handle: prefix
+                          field:
+                            type: hidden
+                            default: 'https://www.twitter.com/'
+                            localizable: false
+                    vimeo:
+                      display: Vimeo
+                      fields:
+                        -
+                          handle: handle
+                          field:
+                            type: text
+                            localizable: true
+                            prepend: 'https://www.vimeo.com/'
+                            display: Handle
+                            validate: required
+                        -
+                          handle: prefix
+                          field:
+                            type: hidden
+                            default: 'https://www.vimeo.com/'
+                            localizable: false
+                    youtube:
+                      display: YouTube
+                      fields:
+                        -
+                          handle: handle
+                          field:
+                            type: text
+                            localizable: true
+                            prepend: 'https://www.youtube.com/'
+                            display: Handle
+                            validate: required
+                        -
+                          handle: prefix
+                          field:
+                            type: hidden
+                            default: 'https://www.youtube.com/'
+                            localizable: false
+                    tiktok:
+                      display: TikTok
+                      fields:
+                        -
+                          handle: handle
+                          field:
+                            type: text
+                            localizable: true
+                            prepend: 'https://www.tiktok.com/'
+                            display: Handle
+                            validate:
+                              - required
+                        -
+                          handle: prefix
+                          field:
+                            type: hidden
+                            default: 'https://www.tiktok.com/'
+                            localizable: false
+                    spotify:
+                      display: Spotify
+                      fields:
+                        -
+                          handle: handle
+                          field:
+                            type: text
+                            localizable: true
+                            display: Handle
+                            validate: required
+                        -
+                          handle: prefix
+                          field:
+                            type: hidden
+                            localizable: false
