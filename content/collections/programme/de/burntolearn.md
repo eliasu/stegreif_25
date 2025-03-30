@@ -1,8 +1,8 @@
 ---
 id: 621c770b-c050-4119-8d62-d3e666eed8ad
 blueprint: programme
-title: '#burntolearn'
-header_headline: '#burntolearn'
+title: burntolearn
+header_headline: burntolearn
 header_theme_selector: dark
 header_select: image
 quicklinks_enabled: false
@@ -19,7 +19,7 @@ related_termine:
   - 11f4f529-63b7-4f45-8353-fb86b54583de
 template: single_page
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1696507470
+updated_at: 1741961395
 header_image: 04_was-wir-tun/reihen-und-programme/burntolearn/220305_news_burntolearn_(c)-navina-neuschl_lowres-02.jpg
 teaser_text: 'Vier Säulen machen Stegreif aus: Improvisation, Interpretation, Komposition und Körperarbeit. Wir brennen dafür, uns in all diesen Disziplinen weiterzuentwickeln und stetig voneinander zu lernen.'
 headline: 'Ein Jahr lang gemeinsam wachsen'
@@ -31,7 +31,7 @@ article:
     content:
       -
         type: text
-        text: '#burntolearn ist für Stegreif etwas ganz Besonderes: eine kreative Oase, ein Ort zum Ausprobieren und Experimentieren. Denn im Rahmen dieses Projekts arbeitet das Orchester an sich selbst.'
+        text: 'burntolearn ist für Stegreif etwas ganz Besonderes: eine kreative Oase, ein Ort zum Ausprobieren und Experimentieren. Denn im Rahmen dieses Projekts arbeitet das Orchester an sich selbst.'
   -
     type: paragraph
     attrs:
@@ -44,7 +44,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Interpretation '
@@ -55,7 +55,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Improvisation '
@@ -66,7 +66,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Komposition '
@@ -77,7 +77,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Körperarbeit
@@ -111,12 +111,12 @@ article:
     content:
       -
         type: text
-        text: '#burntolearn ist der brennende Wunsch zur Weiterentwicklung, zum gemeinsamen Wachsen: Ein Jahr lang können die Musiker*innen voneinander und von externen Dozenten lernen. In mehreren LABs zu den inhaltlichen Schwerpunkten Improvisation & Groove, Komposition & Arrangement, Performance und Interpretation werden  die '
+        text: 'burntolearn ist der brennende Wunsch zur Weiterentwicklung, zum gemeinsamen Wachsen: Ein Jahr lang können die Musiker*innen voneinander und von externen Dozenten lernen. In mehreren LABs zu den inhaltlichen Schwerpunkten Improvisation & Groove, Komposition & Arrangement, Performance und Interpretation werden  die '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'vier Säulen'
@@ -141,7 +141,7 @@ article:
               rel: null
               target: null
               title: null
-        text: '#improFests'
+        text: improFests
       -
         type: text
         text: ' präsentiert.'
@@ -159,7 +159,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Künstlerische Leitung'
@@ -167,17 +167,17 @@ details:
             type: text
             text: ' '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Anne-Sophie Bereuter'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Juri de Marco'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Lorenz Blaumer'
@@ -190,12 +190,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Projektleitung '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Lorina Strange'
@@ -226,7 +226,7 @@ add_section:
           values:
             type: bard_partners
             headline: 'Förder*innen'
-            text: '#burntolearn wird im Rahmen der NEUSTART KULTUR Ensembleförderung gefördert von: Die Beauftragte der Bundesregierung für Kultur und Medien sowie von der GVL - Gesellschaft zur Verwertung von Leistungsschutzrechten mbH unterstützt:'
+            text: 'burntolearn wird im Rahmen der NEUSTART KULTUR Ensembleförderung gefördert von: Die Beauftragte der Bundesregierung für Kultur und Medien sowie von der GVL - Gesellschaft zur Verwertung von Leistungsschutzrechten mbH unterstützt:'
             entires:
               - 530d7673-e742-4ee9-be5d-3750c4220019
               - 90cc8a9e-1837-46bb-88f3-1bda9a49c29e

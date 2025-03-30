@@ -320,6 +320,7 @@ add_section:
               - 26b2f31d-bc53-48d6-a321-a98646875e2a
               - e432526a-78dd-4bfe-8150-70bc3a1d9643
               - c429f77f-fe3e-417e-8555-f5a3d64b6e35
+              - abf9d61a-63e3-4748-8a2f-e8fbd1badc8f
       -
         type: set
         attrs:
@@ -344,10 +345,15 @@ add_section:
               - d6e39384-14db-4641-a6a0-b730df9085c0
               - 338aff19-b0fc-40ec-8c2d-b34025f99ce2
               - 48be385a-1829-4c20-af4f-fe378bc12318
+              - 27e5643d-c013-4148-81a4-80658a209818
+  -
+    id: m7kai2ud
+    theme_selector: dark
+    article:
       -
         type: set
         attrs:
-          id: m2nb3wen
+          id: m7kaia9a
           values:
             type: anchor
             anchor: Partner
@@ -539,8 +545,8 @@ sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 select_transition_theme: bird
 template: page
-updated_by: 7d709850-5c35-4065-be68-b627c348051d
-updated_at: 1738873316
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1740747146
 header_headline: 'Förder*innen'
 header_image: 05_unterstuezen/00_header_(c)_ludwignikulski_lowres.jpg
 show_social: true

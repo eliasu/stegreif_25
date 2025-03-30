@@ -1,8 +1,8 @@
 ---
 id: 74866466-bb33-4d86-9f24-79e620ccc2f4
 origin: ce7784db-be0a-479f-8513-9c8a3e781e06
-title: '#freesolo - Premiere programme'
-teaser_text: 'How do modern forms of leading and following work in the orchestra? #freesolo examines this using the musical genre of the solo concerto and develops a contemporary, collaborative work form.'
+title: 'freesolo - Premiere programme'
+teaser_text: 'How do modern forms of leading and following work in the orchestra? freesolo examines this using the musical genre of the solo concerto and develops a contemporary, collaborative work form.'
 details:
   -
     id: lguu5imh
@@ -17,12 +17,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'artistic director'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Lorenz Blaumer'
@@ -35,12 +35,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'composer in residence'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Noam Sivan '
@@ -53,12 +53,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'co-composer Stegreif'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Alistair Duncan'
@@ -71,12 +71,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: director
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Tristan Braun'
@@ -89,12 +89,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'light design'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Arnaud Poumarat'
@@ -107,12 +107,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: scenography
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Johanna Meyer'
@@ -125,12 +125,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'directors assistant'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Sarah Lucey'
@@ -143,12 +143,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'project management #freesolo'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Immanuel de Gilde'
@@ -161,12 +161,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'production management #freesolo'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Anna von Gehren'
@@ -186,7 +186,7 @@ details:
             text: 'September 28th, 2024'
     type: detail
     enabled: true
-headline: '#freesolo - Redefining the solo concerto'
+headline: 'freesolo - Redefining the solo concerto'
 article:
   -
     type: heading
@@ -197,12 +197,12 @@ article:
         type: text
         text: 'with recompositions from '
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Bach
@@ -213,7 +213,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Bartok
@@ -229,7 +229,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'competition '
@@ -240,7 +240,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: collaboration
@@ -251,18 +251,18 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'different styles of leadership'
       -
         type: text
-        text: '. The #freesolo programme tells its very own story - both in terms of musical structure and expression - of the development from autocracy to competition and anarchy to '
+        text: '. The freesolo programme tells its very own story - both in terms of musical structure and expression - of the development from autocracy to competition and anarchy to '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: collaboration
@@ -273,7 +273,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'solo '
@@ -284,7 +284,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'group improvisation'
@@ -295,7 +295,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Doppelkonzert
@@ -306,7 +306,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Sinfonia Concertante'
@@ -317,7 +317,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Concerto for Orchestra'
@@ -349,18 +349,18 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Noam Sivan'
           -
             type: text
-            text: ' devotes himself to the influences of improvisation on the composition of #freesolo together with Stegreif Orchestra. Together they examine the influences of '
+            text: ' devotes himself to the influences of improvisation on the composition of freesolo together with Stegreif Orchestra. Together they examine the influences of '
           -
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'improvisation '
@@ -371,18 +371,18 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'composition '
           -
             type: text
-            text: 'of #freesolo. Different musicians from the orchestra present a variety of solos and thus remain true to the '
+            text: 'of freesolo. Different musicians from the orchestra present a variety of solos and thus remain true to the '
           -
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'impromptu approach'
@@ -393,7 +393,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'rethinking the musical heritage of classical music'
@@ -431,7 +431,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'revival of improvisation'
@@ -442,7 +442,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'Artistic Piano Improvisation'
@@ -461,13 +461,13 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'composer in residence '
                   -
                     type: text
-                    text: "for the Stegreif Orchestra's #freesolo project in 2023/2024."
+                    text: "for the Stegreif Orchestra's freesolo project in 2023/2024."
             reference_content: false
   -
     id: liel25zv
@@ -496,10 +496,10 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
-                    text: '#freesolo'
+                    text: freesolo
               -
                 type: paragraph
                 attrs:
@@ -507,12 +507,12 @@ add_section:
                 content:
                   -
                     type: text
-                    text: '#freesolo deals with these '
+                    text: 'freesolo deals with these '
                   -
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'forms of social coexistence'
@@ -523,7 +523,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'autocracy '
@@ -534,7 +534,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: democracy
@@ -545,7 +545,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'loud demands'
@@ -556,7 +556,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'careful listening'
@@ -567,7 +567,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'classical orchestral system'
@@ -602,9 +602,9 @@ add_section:
           values:
             type: bard_partners
             headline: 'Förder*innen'
-            text: '#freesolo ist die Abschlussproduktion eines zweijährigen Projekts, in dessen Rahmen an orchestralen Improvisationsformen und Techniken für Kollektive Kompositionsprozesse geforscht sowie neue Methoden der Vermittlung dieser Inhalte erprobt wurden. #freesolo wird im Rahmen des Programms Exzellente Orchesterlandschaft gefördert durch:  Die Beauftragte der Bundesregierung für Kultur und Medien.'
+            text: 'freesolo ist die Abschlussproduktion eines zweijährigen Projekts, in dessen Rahmen an orchestralen Improvisationsformen und Techniken für Kollektive Kompositionsprozesse geforscht sowie neue Methoden der Vermittlung dieser Inhalte erprobt wurden. freesolo wird im Rahmen des Programms Exzellente Orchesterlandschaft gefördert durch:  Die Beauftragte der Bundesregierung für Kultur und Medien.'
             entires:
               - 530d7673-e742-4ee9-be5d-3750c4220019
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1716988639
+updated_at: 1741961073
 ---

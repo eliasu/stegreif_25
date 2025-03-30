@@ -1,5 +1,6 @@
 ---
 id: 1f5ab249-8327-49ea-8626-72bf8c209701
+published: false
 blueprint: personen
 title: 'Ricardo Tovar'
 thumbnail: 03_wer-wir-sind/personenbilder_neu_c_navinafotografiert/ricardo-tovar_navina-neuschl_7130-b-a.jpg

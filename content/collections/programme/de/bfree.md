@@ -1,7 +1,7 @@
 ---
 id: 664ef359-555e-43dc-81f1-7c6bbabe2cd6
 blueprint: programme
-title: '#bfree'
+title: bfree
 header_theme_selector: dark
 header_select: image
 header_image: 04_was-wir-tun/reihen-und-programme/bfree/header_bfree-(c)-navina-neuschl-07_lowres.jpg
@@ -22,12 +22,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Künstlerische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Juri de Marco'
@@ -40,15 +40,15 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Musikalische Leitung'
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
           -
@@ -63,12 +63,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Rekomposition/Arrangement
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Uri Caine, Juri de Marco, Alistair Duncan, Bertram Burkert'
@@ -81,12 +81,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Regie, Choreographie'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'David Fernández'
@@ -99,12 +99,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Lichtdesign
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Andreas Harder'
@@ -117,12 +117,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Kostüm
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Sophie Schliemann'
@@ -142,7 +142,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Grenzen '
@@ -153,7 +153,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Europa-Sinfonie
@@ -164,7 +164,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'folk music'
@@ -187,18 +187,18 @@ article:
     content:
       -
         type: text
-        text: '#bfree entstand im Rahmen des Projekts '
+        text: 'bfree entstand im Rahmen des Projekts '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: '#bebeethoven'
       -
         type: text
-        text: ' als Beitrag zum Beethovenjahr 2020. #bfree wuchs in der Krise. Es ist eine andere Produktion geworden, als ursprünglich geplant. Nicht nur der Prozess, sondern auch das Ergebnis sind durch Corona geprägt: durch Auflagen und Abstand, wo Stegreif sonst Nähe und Bewegung sucht. Die Aktionsmöglichkeiten auf der Bühne waren eingeschränkt, direkter Kontakt mit dem Publikum unmöglich. Und doch ist es ein Werk über Freiheit geworden, über die Sehnsucht nach Nähe und Miteinander, über das Fliegen, über alle Grenzen hinweg.'
+        text: ' als Beitrag zum Beethovenjahr 2020. bfree wuchs in der Krise. Es ist eine andere Produktion geworden, als ursprünglich geplant. Nicht nur der Prozess, sondern auch das Ergebnis sind durch Corona geprägt: durch Auflagen und Abstand, wo Stegreif sonst Nähe und Bewegung sucht. Die Aktionsmöglichkeiten auf der Bühne waren eingeschränkt, direkter Kontakt mit dem Publikum unmöglich. Und doch ist es ein Werk über Freiheit geworden, über die Sehnsucht nach Nähe und Miteinander, über das Fliegen, über alle Grenzen hinweg.'
   -
     type: paragraph
     attrs:
@@ -259,8 +259,8 @@ aktuell: false
 select_type: programm
 template: single_page
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1709207388
-header_headline: '#bfree'
+updated_at: 1741961348
+header_headline: bfree
 extend_section:
   -
     id: n3xBNNtu
@@ -274,7 +274,7 @@ extend_section:
             size: big
             select_type: video
             video: 'https://youtu.be/x1UWpBR0LPc'
-            media_caption: '#bfree Teaser | YouTube-Kanal von Stegreif'
+            media_caption: 'bfree Teaser | YouTube-Kanal von Stegreif'
 quicklinks_enabled: false
 headline: 'Connecting European cultures through Beethoven‘s 9th Symphony'
 related_termine:

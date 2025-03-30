@@ -34,17 +34,17 @@ article:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'Stegreif e.V.'
               -
-                type: hard_break
+                type: hardBreak
               -
                 type: text
                 text: 'Marienburger Straße 29'
               -
-                type: hard_break
+                type: hardBreak
               -
                 type: text
                 text: '10405 Berlin'
@@ -57,6 +57,78 @@ article:
                 type: text
                 text: 'Auf dieser Seite findet ihr die passende Ansprechperson für euer Anliegen. Wir freuen uns auf die Kontaktaufnahme!'
         reference_content: false
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: Initiativbewerbungen
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Lust mitzuspielen? Gerne nehmen wir auch Initiativbewerbungen von Musiker*innen entgegen. Meldet euch gerne per Mail bei uns unter '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:info@stegreif.org'
+              rel: null
+              target: null
+              title: null
+        text: info@stegreif.org
+      -
+        type: text
+        text: ' und sendet uns neben eurem '
+      -
+        type: text
+        marks:
+          -
+            type: btsSpan
+            attrs:
+              class: text-skin-primary
+        text: 'Motivationsschreiben '
+      -
+        type: text
+        text: 'bitte auch einige '
+      -
+        type: text
+        marks:
+          -
+            type: btsSpan
+            attrs:
+              class: text-skin-primary
+        text: 'Hör- und Videobeispielen'
+      -
+        type: text
+        text: ' zu, damit wir einen Eindruck von eurer künstlerischen Tätigkeit bekommen können.'
+  -
+    type: set
+    attrs:
+      id: m7lxg09l
+      values:
+        type: bard_buttons
+        buttons:
+          -
+            id: m7lxg1e4
+            label: E-Mail
+            target_blank: true
+            button_type: lined
+            link_type: email
+            email: info@stegreif.org
+            type: button
+            enabled: true
+  -
+    type: paragraph
+    attrs:
+      class: null
   -
     type: heading
     attrs:
@@ -82,17 +154,17 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Lorenz Blaumer'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: lorenz@stegreif.org
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: '+49 177 2383632'
@@ -138,22 +210,22 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Lorina Strange'
       -
-        type: hard_break
+        type: hardBreak
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
       -
         type: text
         text: lorina@stegreif.org
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: '+49 157 32481410'
@@ -205,7 +277,7 @@ article:
     content:
       -
         type: text
-        text: 'Tourmanagement & Produktion'
+        text: 'Tourmanagement und Produktion'
   -
     type: paragraph
     attrs:
@@ -215,17 +287,17 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Lea Hladka'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: lea@stegreif.org
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: '‭+49 176 20769384‬'
@@ -255,51 +327,13 @@ article:
             type: button
             enabled: true
   -
-    type: paragraph
-    attrs:
-      class: 'text-2xl leading-l'
-    content:
-      -
-        type: text
-        text: Initiativbewerbungen
-  -
-    type: paragraph
-    attrs:
-      class: null
-    content:
-      -
-        type: text
-        text: 'Lust mitzuspielen? Gerne nehmen wir auch Initiativbewerbungen von Musiker*innen entgegen. Lea Hladka ist genau dafür eure Ansprechperson. Sendet ihr bitte neben einem '
-      -
-        type: text
-        marks:
-          -
-            type: bts_span
-            attrs:
-              class: text-skin-primary
-        text: 'Motivationsschreiben '
-      -
-        type: text
-        text: 'auch einige '
-      -
-        type: text
-        marks:
-          -
-            type: bts_span
-            attrs:
-              class: text-skin-primary
-        text: 'Hör- und Videobeispielen'
-      -
-        type: text
-        text: ' zu, damit wir einen Eindruck von eurer künstlerischen Tätigkeit bekommen können.'
-  -
     type: heading
     attrs:
       level: 4
     content:
       -
         type: text
-        text: Projektassistenz
+        text: 'Marketing & Fundraising'
   -
     type: paragraph
     attrs:
@@ -309,81 +343,20 @@ article:
         type: text
         marks:
           -
-            type: bts_span
-            attrs:
-              class: text-skin-primary
-        text: 'Julius Graupner'
-      -
-        type: hard_break
-        marks:
-          -
-            type: bts_span
-            attrs:
-              class: text-skin-primary
-      -
-        type: text
-        text: julius@stegreif.org
-  -
-    type: set
-    attrs:
-      id: N1Oep5Gh
-      values:
-        type: bard_buttons
-        buttons:
-          -
-            id: XuCCKlga
-            label: Mail
-            target_blank: true
-            button_type: background
-            link_type: email
-            email: julius@stegreif.org
-            type: button
-            enabled: true
-  -
-    type: heading
-    attrs:
-      level: 4
-    content:
-      -
-        type: text
-        text: 'Öffentlichkeitsarbeit, Marketing, Fundraising'
-  -
-    type: paragraph
-    attrs:
-      class: null
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Paul Saint-Paul'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: paul@stegreif.org
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
-        marks:
-          -
-            type: bts_span
-            attrs:
-              class: text-skin-primary
-        text: ' '
-      -
-        type: text
-        text: (
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'in Elternzeit bis Februar 2025. In Vertretung wenden Sie sich bitte an Elena Wein)'
+        text: '+49 157 34269863'
   -
     type: set
     attrs:
@@ -408,7 +381,7 @@ article:
             link_type: tel
             tel: '+49 157 34269863'
             type: button
-            enabled: false
+            enabled: true
   -
     type: heading
     attrs:
@@ -416,7 +389,7 @@ article:
     content:
       -
         type: text
-        text: 'Öffentlichkeitsarbeit, Marketing, Fundraising und Presse'
+        text: 'Presse-  & Öffentlichkeitsarbeit'
   -
     type: paragraph
     attrs:
@@ -426,20 +399,15 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Elena Wein'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: elena@stegreif.org
-      -
-        type: hard_break
-      -
-        type: text
-        text: '+49 157 34269863'
   -
     type: set
     attrs:
@@ -464,7 +432,7 @@ article:
             link_type: tel
             tel: '+49 157 34269863'
             type: button
-            enabled: true
+            enabled: false
   -
     type: heading
     attrs:
@@ -482,12 +450,12 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Sebastian Lange'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: Sebastian@stegreif.org
@@ -504,9 +472,70 @@ article:
             target_blank: true
             button_type: background
             link_type: email
-            email: ricardo@stegreif.org
+            email: sebastian@stegreif.org
             type: button
             enabled: true
+  -
+    type: heading
+    attrs:
+      level: 4
+    content:
+      -
+        type: text
+        text: 'Finanzadministration und Projektassistenz'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: btsSpan
+            attrs:
+              class: text-skin-primary
+        text: 'Julius Graupner'
+      -
+        type: hardBreak
+        marks:
+          -
+            type: btsSpan
+            attrs:
+              class: text-skin-primary
+      -
+        type: text
+        text: julius@stegreif.org
+      -
+        type: hardBreak
+      -
+        type: text
+        text: '+49 1520 9326970'
+  -
+    type: set
+    attrs:
+      id: m7lxaji2
+      values:
+        type: bard_buttons
+        buttons:
+          -
+            id: XuCCKlga
+            label: Mail
+            target_blank: true
+            button_type: background
+            link_type: email
+            email: julius@stegreif.org
+            type: button
+            enabled: true
+          -
+            id: m6uocpeq
+            target_blank: true
+            button_type: background
+            link_type: tel
+            tel: '+49 1520 9326970'
+            type: button
+            enabled: true
+            label: Telefon
   -
     type: heading
     attrs:
@@ -524,17 +553,17 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Immanuel de Gilde'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: immanuel@stegreif.org
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: '+49 177 6039435'
@@ -575,49 +604,6 @@ article:
     type: heading
     attrs:
       level: 4
-    content:
-      -
-        type: text
-        text: 'Verwaltung & Rechnungswesen'
-  -
-    type: paragraph
-    attrs:
-      class: null
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bts_span
-            attrs:
-              class: text-skin-primary
-        text: 'Anna Katharina Meißner'
-      -
-        type: hard_break
-        marks:
-          -
-            type: bts_span
-            attrs:
-              class: text-skin-primary
-      -
-        type: text
-        text: anna.katharina@stegreif.org
-  -
-    type: set
-    attrs:
-      id: CLEmvfkA
-      values:
-        type: bard_buttons
-        buttons:
-          -
-            id: QS8XEMEo
-            label: Mail
-            target_blank: true
-            button_type: background
-            link_type: email
-            email: anna.katharina@stegreif.org
-            type: button
-            enabled: true
   -
     type: heading
     attrs:
@@ -632,12 +618,12 @@ article:
       class: null
     content:
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Michael Riemer'
@@ -645,17 +631,17 @@ article:
         type: text
         text: ' (Vorstandsvorsitzender)'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: vorstand@stegreif.org
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Nuría Rodríguez Díaz (Stellv. Vorsitzende)'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Konstantin Döben, Sebastian Caspar, Alistair Duncan, Tadashi Forck, Bartosz Nowak'
@@ -672,7 +658,7 @@ article:
             target_blank: true
             button_type: background
             link_type: email
-            email: "\_vorstand@stegreif.org"
+            email: vorstand@stegreif.org
             type: button
             enabled: true
   -
@@ -692,27 +678,27 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Dr. Andrea Palent'
       -
-        type: hard_break
+        type: hardBreak
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Elena Wein '
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: family@stegreif.org
@@ -774,8 +760,8 @@ sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 select_transition_theme: bird
 template: page
-updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
-updated_at: 1737385419
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1740575635
 og_image: kontakt-og-1656608760.png
 twitter_image: kontakt-twitter-1656608760.png
 quicklinks_enabled: false

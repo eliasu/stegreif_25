@@ -1,7 +1,7 @@
 ---
 id: a0c274ba-b17d-4ada-98bd-c2ae0ae1d4ce
 origin: dfdfb3b5-0e09-4346-854e-e825d2782acb
-teaser_text: 'Recomposition, sound performance and improvisation based on the music of Clara Schumann. The third programme of the #bechange series is dedicated to the interplay between social change and technological progress.'
+teaser_text: 'Recomposition, sound performance and improvisation based on the music of Clara Schumann. The third programme of the bechange series is dedicated to the interplay between social change and technological progress.'
 headline: 'Recomposition, sound performance and improvisation'
 article:
   -
@@ -13,12 +13,12 @@ article:
         type: text
         text: 'based on the music of '
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Clara Schumann'
@@ -29,7 +29,7 @@ article:
     content:
       -
         type: text
-        text: "Progress, digress, regress? #bechange: Thinking, the third installment of the Stegreif Orchester's "
+        text: "Progress, digress, regress? bechange: Thinking, the third installment of the Stegreif Orchester's "
       -
         type: text
         marks:
@@ -40,7 +40,7 @@ article:
               rel: null
               target: _blank
               title: null
-        text: '#bechange series'
+        text: 'bechange series'
       -
         type: text
         text: ', tells of times of upheaval, deceleration and examines the value of ubiquitous innovation. What is life like in the age of higher, faster, further? Can sustainable technologies also create '
@@ -48,7 +48,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'sustainable social structures'
@@ -59,7 +59,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: transformation
@@ -75,10 +75,10 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
-        text: '#bechange: Thinking'
+        text: 'bechange: Thinking'
       -
         type: text
         text: ' takes this historical period as a starting point and transfers it to modern times. More relevant than ever is the question of the balance between '
@@ -86,7 +86,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: innovation
@@ -97,18 +97,18 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: reflection
       -
         type: text
-        text: ', between retrospection and progress. As the name suggests, #bechange:Thinking examines the thinking patterns, both '
+        text: ', between retrospection and progress. As the name suggests, bechange:Thinking examines the thinking patterns, both '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: individual
@@ -119,7 +119,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: collective
@@ -138,7 +138,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Helena Weinstock-Montag '
@@ -149,7 +149,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Piano Romance op. 21, No. 1 '
@@ -160,7 +160,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Piano Concerto in A minor'
@@ -171,7 +171,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'David Fernández'
@@ -200,7 +200,7 @@ add_section:
             size: medium
             select_type: video
             video: 'https://youtu.be/VbDbVlDBi9E'
-            media_caption: 'Teaser #bechange | Youtube-Kanal von Stegreif'
+            media_caption: 'Teaser bechange | Youtube-Kanal von Stegreif'
       -
         type: set
         attrs:
@@ -221,7 +221,7 @@ add_section:
           values:
             type: bard_partners
             headline: 'Förder*innen'
-            text: '#bechange wird gefördert von: Die Beauftragte der Bundesregierung für Kultur und Medien'
+            text: 'bechange wird gefördert von: Die Beauftragte der Bundesregierung für Kultur und Medien'
             entires:
               - 530d7673-e742-4ee9-be5d-3750c4220019
       -
@@ -235,5 +235,5 @@ add_section:
             reference_content: true
             select_content: 455ef639-911c-4d07-b57e-ed09648ff5e3
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1680266830
+updated_at: 1741961314
 ---

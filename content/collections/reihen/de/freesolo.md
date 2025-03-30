@@ -1,7 +1,7 @@
 ---
 id: 8d34ea6d-a9c6-4a67-8f75-e2b66c6d2e9a
 blueprint: reihen
-title: '#freesolo'
+title: freesolo
 header_theme_selector: yellow
 header_select: image
 quicklinks_enabled: false
@@ -12,11 +12,11 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 select_transition_theme: bird
-aktuell: true
-featured: true
+aktuell: false
+featured: false
 template: single_page
-updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
-updated_at: 1729678939
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1741962651
 header_image: 04_was-wir-tun/reihen-und-programme/freesolo/20240928_-freesolo_premiere_theaterimdelphi_(c)navinafotografiert_navina_neuschl(2).jpg
 related_programme:
   - ce7784db-be0a-479f-8513-9c8a3e781e06
@@ -38,12 +38,12 @@ article:
     content:
       -
         type: text
-        text: '#freesolo setzt sich mit diesen '
+        text: 'freesolo setzt sich mit diesen '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Formen des gesellschaftlichen Zusammenlebens'
@@ -54,7 +54,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Autokratie '
@@ -65,7 +65,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Demokratie '
@@ -76,7 +76,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'lautstarkem Fordern'
@@ -87,7 +87,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'behutsamen Zuhören'
@@ -98,7 +98,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Solokonzert '
@@ -109,14 +109,14 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'klassischen Orchesterapparat'
       -
         type: text
         text: ' auf seine kontrastreichen Führungsformen. Die Improvisation nimmt dabei eine Hauptrolle ein und bildet durch die Entwicklung von individuellen Solo- bis kollaborativen Gruppenimprovisationen das musikalische Mittel dieses Projekts.'
-teaser_text: 'Wie funktionieren moderne Formen des Führens und Folgens im Orchester? #freesolo untersucht dies an Hand der musikalischen Gattung Solokonzert und entwickelt eine zeitgemäße, kollaborative Werkform.'
+teaser_text: 'Wie funktionieren moderne Formen des Führens und Folgens im Orchester? freesolo untersucht dies an Hand der musikalischen Gattung Solokonzert und entwickelt eine zeitgemäße, kollaborative Werkform.'
 add_section:
   -
     id: lhixrcnq
@@ -139,12 +139,12 @@ add_section:
                 content:
                   -
                     type: text
-                    text: '#freesolo '
+                    text: 'freesolo '
                   -
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: Konzertprogramme
@@ -155,15 +155,15 @@ add_section:
                 content:
                   -
                     type: text
-                    text: 'Das Projekt #freesolo umfasst drei '
+                    text: 'Das Projekt freesolo umfasst drei '
                   -
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
-                    text: '#improCerti'
+                    text: improCerti
                   -
                     type: text
                     text: ', in denen das Stegreif Orchester den aktuellen Stand seiner künstlerischen Forschung zu verschiedenen improvisativen Stilen in'
@@ -171,13 +171,13 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: ' verschiedenen Epochen'
                   -
                     type: text
-                    text: ' des menschlichen Zusammenlebens präsentiert. Die drei Konzertprogramme mit Aufführung im Exploratorium Berlin bilden einen aufeinanderfolgenden und werkstattartigen Einblick in die Entstehung der großen Abschlusspremiere #freesolo, die die künstlerischen Ergebnisse des Projekts bündelt und zu einem eigenständigen Werk verarbeitet.'
+                    text: ' des menschlichen Zusammenlebens präsentiert. Die drei Konzertprogramme mit Aufführung im Exploratorium Berlin bilden einen aufeinanderfolgenden und werkstattartigen Einblick in die Entstehung der großen Abschlusspremiere freesolo, die die künstlerischen Ergebnisse des Projekts bündelt und zu einem eigenständigen Werk verarbeitet.'
               -
                 type: set
                 attrs:
@@ -187,7 +187,7 @@ add_section:
                     buttons:
                       -
                         id: lieko5fy
-                        label: 'Premierenprogramm #freesolo '
+                        label: 'Premierenprogramm #freesolo'
                         target_blank: true
                         button_type: lined
                         link_type: entry
@@ -211,7 +211,7 @@ add_section:
         content:
           -
             type: text
-            text: 'Als Composer in Residence entwickelt der Komponist, Pianist und Improvisateur Noam Sivan ein eigenständiges Curriculum für die Musiker*innen des Orchesters und widmet sich gemeinsam mit ihnen den Einflüssen der Improvisation auf die Komposition von #freesolo.'
+            text: 'Als Composer in Residence entwickelt der Komponist, Pianist und Improvisateur Noam Sivan ein eigenständiges Curriculum für die Musiker*innen des Orchesters und widmet sich gemeinsam mit ihnen den Einflüssen der Improvisation auf die Komposition von freesolo.'
   -
     id: liejy5fc
     theme_selector: dark
@@ -233,12 +233,12 @@ add_section:
                 content:
                   -
                     type: text
-                    text: '#freesolo '
+                    text: 'freesolo '
                   -
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: Workshops
@@ -254,18 +254,18 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
-                    text: 'acht #freesolo-Workshops mit Jugend- und Nachwuchsorchestern'
+                    text: 'acht freesolo-Workshops mit Jugend- und Nachwuchsorchestern'
                   -
                     type: text
-                    text: ' einen wichtigen Bestandteil des Projekts #freesolo. Dort wird gemeinsam erforscht, wie sich die einzelnen '
+                    text: ' einen wichtigen Bestandteil des Projekts freesolo. Dort wird gemeinsam erforscht, wie sich die einzelnen '
                   -
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'Führungsstile '
@@ -276,7 +276,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'Improvisationsmethoden '
@@ -287,7 +287,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'symphonisches Orchester'
@@ -298,7 +298,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: Stegreif-Workbook
@@ -309,7 +309,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'didaktischen Grundstein'
@@ -345,7 +345,7 @@ add_section:
           values:
             type: bard_partners
             headline: 'Förder*innen'
-            text: '#freesolo wird im Rahmen des Programms Exzellente Orchesterlandschaft gefördert durch:  Die Beauftragte der Bundesregierung für Kultur und Medien sowie durch die Karl Schlecht Stiftung.'
+            text: 'freesolo wird im Rahmen des Programms Exzellente Orchesterlandschaft gefördert durch:  Die Beauftragte der Bundesregierung für Kultur und Medien sowie durch die Karl Schlecht Stiftung.'
             entires:
               - 530d7673-e742-4ee9-be5d-3750c4220019
               - 0ada25f7-f85a-48fb-b3ad-cbeb7aa45ce7
@@ -363,12 +363,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Künstlerische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Lorenz Blaumer'
@@ -381,12 +381,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'composer in residence'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Noam Sivan '
@@ -399,12 +399,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Ko-Komposition
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Alistair Duncan'
@@ -417,12 +417,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Regie
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Tristan Braun'
@@ -435,12 +435,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Licht Design'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Arnaud Poumarat'
@@ -453,12 +453,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Szenografie
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Johanna Meyer'
@@ -471,12 +471,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Regieassistenz
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Sarah Lucey'
@@ -489,12 +489,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Projektleitung #freesolo'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Immanuel de Gilde'
@@ -507,12 +507,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Produktionsmanagement
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Anna von Gehren'

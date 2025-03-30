@@ -16,15 +16,15 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
-            text: 'artistic lead'
+            text: 'musical lead'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: 'Juri de Marco'
+            text: 'Sebastian Caspar'
       -
         type: paragraph
         attrs:
@@ -34,15 +34,15 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
-            text: 'recomposition & arrangement'
+            text: 'recomposition, arrangement'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: 'Alistair Duncan, Mike Conrad'
+            text: 'Mike Conrad, Alistair Duncan'
       -
         type: paragraph
         attrs:
@@ -52,15 +52,15 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
-            text: 'direction, choreography'
+            text: statging
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: 'David Fernandez'
+            text: 'David Fernández, Franziska Ritter'
       -
         type: paragraph
         attrs:
@@ -70,51 +70,15 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
-            text: 'productions manager'
+            text: 'light design'
           -
-            type: hard_break
-          -
-            type: text
-            text: 'Lea Hladka'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
+            type: hardBreak
           -
             type: text
-            marks:
-              -
-                type: bts_span
-                attrs:
-                  class: text-skin-primary
-            text: 'communications manager'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Catriona Fadke'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bts_span
-                attrs:
-                  class: text-skin-primary
-            text: 'office manager'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Ronja Ruppert'
+            text: 'Arnaud Poumarat'
     type: detail
     enabled: true
 headline: 'WITHOUT SHEET MUSIC, CONDUCTOR AND CHAIRS'
@@ -126,7 +90,7 @@ article:
     content:
       -
         type: text
-        text: 'Stegreif loves those free spirits, revolutionaries and dissenters. All those who had their own ideas about the world and were courageous enough to live them. After #freebeethoven, the orchestra once again dedicates itself to the first self-determined freelance composer in the history of classical music and his third symphony.'
+        text: 'Stegreif loves those free spirits, revolutionaries and dissenters. All those who had their own ideas about the world and were courageous enough to live them. After freebeethoven, the orchestra once again dedicates itself to the first self-determined freelance composer in the history of classical music and his third symphony.'
   -
     type: paragraph
     attrs:
@@ -139,7 +103,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Eroica
@@ -158,7 +122,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'revolutions '
@@ -169,7 +133,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'destroyed orchestra positions'
@@ -180,7 +144,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'expectations of the listener'
@@ -218,5 +182,5 @@ add_section:
               - 04_was-wir-tun/reihen-und-programme/freeeroica/freeeroica_neubrandenburg_(c)-oliver-borchert-(82)_lowres.jpg
               - 04_was-wir-tun/reihen-und-programme/freeeroica/header_freeeroica_neubrandenburg_(c)-oliver-borchert-(38)_lowres.jpg
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1709295035
+updated_at: 1741960780
 ---

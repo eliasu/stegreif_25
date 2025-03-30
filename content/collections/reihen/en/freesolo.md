@@ -1,7 +1,7 @@
 ---
 id: 0a9ca5b2-947b-499d-bbe3-9309992a553c
 origin: 8d34ea6d-a9c6-4a67-8f75-e2b66c6d2e9a
-teaser_text: 'How do modern forms of leading and following work in the orchestra? #freesolo examines this using the musical genre of the solo concerto and develops a contemporary, collaborative work form.'
+teaser_text: 'How do modern forms of leading and following work in the orchestra? freesolo examines this using the musical genre of the solo concerto and develops a contemporary, collaborative work form.'
 details:
   -
     id: lwq86kxn
@@ -16,12 +16,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'artistic director'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Lorenz Blaumer'
@@ -34,12 +34,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'composer in residence'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Noam Sivan '
@@ -52,12 +52,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'co-composer Stegreif'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Alistair Duncan'
@@ -70,12 +70,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: director
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Tristan Braun'
@@ -88,12 +88,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'light design'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Arnaud Poumarat'
@@ -106,12 +106,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: scenography
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Johanna Meyer'
@@ -124,12 +124,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'directors assistant'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Sarah Lucey'
@@ -142,12 +142,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'project management #freesolo'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Immanuel de Gilde'
@@ -160,12 +160,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'production management #freesolo'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Anna von Gehren'
@@ -187,12 +187,12 @@ article:
     content:
       -
         type: text
-        text: '#freesolo deals with these '
+        text: 'freesolo deals with these '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'forms of social coexistence'
@@ -203,7 +203,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'autocracy '
@@ -214,7 +214,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: democracy
@@ -225,7 +225,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'loud demands'
@@ -236,7 +236,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'careful listening'
@@ -247,7 +247,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'classical orchestral system'
@@ -276,12 +276,12 @@ add_section:
                 content:
                   -
                     type: text
-                    text: '#freesolo '
+                    text: 'freesolo '
                   -
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'concert programmes'
@@ -292,18 +292,18 @@ add_section:
                 content:
                   -
                     type: text
-                    text: 'The #freesolo project includes three '
+                    text: 'The freesolo project includes three '
                   -
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
-                    text: '#improcerti'
+                    text: improcerti
                   -
                     type: text
-                    text: ' in which Stegreif presents the current state of its artistic research on various improvisational styles in different epochs of human coexistence. The three concert programs with live performances at the Exploratorium Berlin form a continuous and studio-like insight into the creation of the grand final premiere of #freesolo, which combines the artistic results of the project and processes them into an independent work. '
+                    text: ' in which Stegreif presents the current state of its artistic research on various improvisational styles in different epochs of human coexistence. The three concert programs with live performances at the Exploratorium Berlin form a continuous and studio-like insight into the creation of the grand final premiere of freesolo, which combines the artistic results of the project and processes them into an independent work. '
               -
                 type: set
                 attrs:
@@ -313,7 +313,7 @@ add_section:
                     buttons:
                       -
                         id: lieko5fy
-                        label: 'Premierenprogramm #freesolo '
+                        label: 'Premierenprogramm #freesolo'
                         target_blank: true
                         button_type: lined
                         link_type: entry
@@ -342,13 +342,13 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Noam Sivan'
           -
             type: text
-            text: ' devotes himself to the influences of improvisation on the composition of #freesolo together with Stegreif Orchestra. Together they examine the influences of improvisation on the composition of #freesolo.'
+            text: ' devotes himself to the influences of improvisation on the composition of freesolo together with Stegreif Orchestra. Together they examine the influences of improvisation on the composition of freesolo.'
   -
     id: liejy5fc
     theme_selector: dark
@@ -370,12 +370,12 @@ add_section:
                 content:
                   -
                     type: text
-                    text: '#freesolo '
+                    text: 'freesolo '
                   -
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: Workshops
@@ -386,23 +386,23 @@ add_section:
                 content:
                   -
                     type: text
-                    text: 'In addition to the concert formats, eight #freesolo workshops with '
+                    text: 'In addition to the concert formats, eight freesolo workshops with '
                   -
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'youth and up-and-coming orchestras'
                   -
                     type: text
-                    text: ' form an important part of the #freesolo project. There, they will collectively explore how individual'
+                    text: ' form an important part of the freesolo project. There, they will collectively explore how individual'
                   -
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: ' leadership styles'
@@ -413,7 +413,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: ' improvisational methods'
@@ -424,7 +424,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: Stegreif-Workbook
@@ -435,7 +435,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'didactic foundation'
@@ -471,9 +471,9 @@ add_section:
           values:
             type: bard_partners
             headline: 'Förder*innen'
-            text: '#freesolo wird im Rahmen des Programms Exzellente Orchesterlandschaft gefördert durch:  Die Beauftragte der Bundesregierung für Kultur und Medien.'
+            text: 'freesolo wird im Rahmen des Programms Exzellente Orchesterlandschaft gefördert durch:  Die Beauftragte der Bundesregierung für Kultur und Medien.'
             entires:
               - 530d7673-e742-4ee9-be5d-3750c4220019
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1716890707
+updated_at: 1741961822
 ---

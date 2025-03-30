@@ -1,12 +1,11 @@
 ---
 id: 9dd3f3f5-2ee7-4cdd-beb6-8a047ccfb273
 blueprint: programme
-title: '#freebeethoven'
-header_headline: '#freebeethoven'
+title: freebeethoven
+header_headline: freebeethoven
 header_theme_selector: dark
 header_select: image
 quicklinks_enabled: false
-show_social: false
 teaser_text: 'Für das Gründungskonzert von Stegreif im Oktober 2015 widmete sich das Orchester Ludwig van Beethovens 4. Sinfonie in B-Dur.'
 theme_selector: dark
 seo_noindex: false
@@ -19,15 +18,17 @@ aktuell: false
 select_type: programm
 template: single_page
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1657463367
+updated_at: 1741961499
 header_image: 04_was-wir-tun/reihen-und-programme/freebeethoven/header-freebeethoven_(c)-stephan-boehme_03-01_01.jpg
 add_section:
   -
+    id: 2a0r0QYp
     theme_selector: yellow
     article:
       -
         type: set
         attrs:
+          id: 6lwpS1aw
           values:
             type: bard_gallery
             size: big
@@ -58,7 +59,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Gründungskonzert '
@@ -77,7 +78,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Improvisationen '
@@ -88,7 +89,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Kammermusik
@@ -99,7 +100,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Tanzrhythmen
@@ -110,7 +111,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'technoiden Klängen'
@@ -121,7 +122,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Tanz
@@ -130,6 +131,7 @@ article:
         text: .
 details:
   -
+    id: c856bK8P
     headline: Team
     description:
       -
@@ -141,12 +143,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Künstlerische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Juri de Marco'
@@ -159,12 +161,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Dramaturgie
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Viola Schmitzer'
@@ -177,7 +179,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Produktionsleitung
@@ -185,7 +187,7 @@ details:
             type: text
             text: ' '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Clemens Seemann'
@@ -198,7 +200,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Öffentlichkeitsarbeit
@@ -206,7 +208,7 @@ details:
             type: text
             text: ' '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Nina Eckhardt'
@@ -219,7 +221,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Presse & Social Media'
@@ -227,7 +229,7 @@ details:
             type: text
             text: ' '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Jamila Al-Yousef'
@@ -235,18 +237,21 @@ details:
     enabled: true
 extend_section:
   -
+    id: HDxFgVOm
     article:
       -
         type: set
         attrs:
+          id: iVaozRGm
           values:
             type: bard_media
             size: big
             select_type: video
             video: 'https://youtu.be/2Bcx3MjwL0s'
-            media_caption: '#freebeethoven-Trailer | YouTube-Kanal von Stegreif'
+            media_caption: 'freebeethoven-Trailer | YouTube-Kanal von Stegreif'
       -
         type: paragraph
         attrs:
           class: null
+featured: false
 ---

@@ -1,7 +1,7 @@
 ---
 id: 564e2d1d-4c49-41f4-bc36-128cd71f5b35
 blueprint: programme
-title: '#improCerti Werkstattkonzerte'
+title: 'improCerti Werkstattkonzerte'
 header_theme_selector: dark
 header_select: image
 quicklinks_enabled: false
@@ -12,12 +12,12 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 select_transition_theme: bird
-aktuell: true
+aktuell: false
 featured: false
 select_type: programm
 template: single_page
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1713448909
+updated_at: 1741962753
 header_image: 04_was-wir-tun/reihen-und-programme/freesolo/stegreif-orchester_improphonie-(c)-navina-neuschl_nf195488.jpg
 article:
   -
@@ -34,15 +34,15 @@ article:
           -
             type: italic
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
-        text: '#freesolo'
+        text: freesolo
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: ' '
@@ -53,7 +53,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Autokratie und Demokratie'
@@ -75,7 +75,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'kontrastreichen Führungsformen'
@@ -95,7 +95,7 @@ article:
         marks:
           -
             type: italic
-        text: '#improcerto'
+        text: improcerto
       -
         type: text
         text: ' widmet sich dabei der musikalischen '
@@ -103,7 +103,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Epoche des Barock'
@@ -114,7 +114,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'aktuelle Formen der Improvisation'
@@ -126,7 +126,7 @@ article:
         marks:
           -
             type: italic
-        text: '#freesolo'
+        text: freesolo
       -
         type: text
         text: .
@@ -137,12 +137,12 @@ article:
     content:
       -
         type: text
-        text: 'Das zweite #improcerto widmet sich dabei den musikalischen Epochen Klassik und Romantik. Zwischen ausnotierter Formsprache, motivisch-thematischer Entwicklung und dem Aufbrechen der '
+        text: 'Das zweite improcerto widmet sich dabei den musikalischen Epochen Klassik und Romantik. Zwischen ausnotierter Formsprache, motivisch-thematischer Entwicklung und dem Aufbrechen der '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Sonatenhauptsatzform '
@@ -161,10 +161,10 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
-        text: 'dritte #improcerto '
+        text: 'dritte improcerto '
       -
         type: text
         text: 'widmet sich einer Epoche der klassischen Musik, in der die musikalischen Konventionen auf vielerlei Ebenen aufgebrochen werden: '
@@ -172,7 +172,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'dem 20. Jahrhundert'
@@ -183,18 +183,18 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Harmonie, Klang, Melodie und Geräusch'
       -
         type: text
-        text: '. An dieser Stelle setzt das #improcerto 3 an und fragt, wie die Improvisation hier ihren Platz findet und dadurch ausgewählte Werke des 20. Jahrhunderts neu kontextualisiert und hinterfragt. Unterschiedliche kammermusikalische Besetzungen sowie Tutti-Passagen wechseln sich mit Solo-Improvisationen ab und versprechen so einen '
+        text: '. An dieser Stelle setzt das improcerto 3 an und fragt, wie die Improvisation hier ihren Platz findet und dadurch ausgewählte Werke des 20. Jahrhunderts neu kontextualisiert und hinterfragt. Unterschiedliche kammermusikalische Besetzungen sowie Tutti-Passagen wechseln sich mit Solo-Improvisationen ab und versprechen so einen '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'abwechslungsreichen Konzertabend'
@@ -215,7 +215,7 @@ article:
           -
             type: italic
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Composer in Residence'
@@ -261,7 +261,7 @@ add_section:
           values:
             type: bard_partners
             headline: 'Parter*innen'
-            text: '#freesolo wird im Rahmen des Programms Exzellente Orchesterlandschaft gefördert durch: Die Beauftragte der Bundesregierung für Kultur und Medien sowie durch die Karl Schlecht Stiftung.'
+            text: 'freesolo wird im Rahmen des Programms Exzellente Orchesterlandschaft gefördert durch: Die Beauftragte der Bundesregierung für Kultur und Medien sowie durch die Karl Schlecht Stiftung.'
             entires:
               - 530d7673-e742-4ee9-be5d-3750c4220019
               - 0ada25f7-f85a-48fb-b3ad-cbeb7aa45ce7
@@ -279,7 +279,7 @@ add_section:
             feature_type: bird
             reference_content: true
             select_content: 8d34ea6d-a9c6-4a67-8f75-e2b66c6d2e9a
-teaser_text: 'Die #improcerti sind Teil des Projekts #freesolo. Mit der Werkstattkonzertreihe der #improcerti hinterfragt das Stegreif Orchester das "Solokonzert" und den klassischen Orchesterapparat auf seine kontrastreichen Führungsformen.'
+teaser_text: 'Die improcerti sind Teil des Projekts freesolo. Mit der Werkstattkonzertreihe der improcerti hinterfragt das Stegreif Orchester das "Solokonzert" und den klassischen Orchesterapparat auf seine kontrastreichen Führungsformen.'
 details:
   -
     id: lnd9luvf
@@ -294,12 +294,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Künstlerische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Lorenz Blaumer'
@@ -312,12 +312,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Composer in Residence'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Noam Sivan'
@@ -330,12 +330,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Projektleitung
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Immanuel de Gilde'

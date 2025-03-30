@@ -4,7 +4,7 @@ blueprint: page
 title: Unterstützen
 header_theme_selector: yellow
 header_select: image
-header_image: 05_unterstuezen/00_header_(c)_ludwignikulski_lowres.jpg
+header_image: 03_wer-wir-sind/organisatorisch_(c)_ludwig-nikulski_lowres.jpg
 theme_selector: yellow
 article:
   -
@@ -14,6 +14,14 @@ article:
       values:
         type: anchor
         anchor: 'Stegreif Family'
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'Stegreif Family'
   -
     type: paragraph
     attrs:
@@ -33,7 +41,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Werde Teil der Stegreif Family:'
@@ -59,7 +67,7 @@ article:
       id: m48memdf
       values:
         type: bard_code
-        code: |
+        code: |-
           <!-- twingle -->
           <script type="text/javascript">
           	(function() {
@@ -105,7 +113,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'alle Künstler*innen und Mitarbeitenden fair zu bezahlen.'
@@ -118,7 +126,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'erfordert eine Struktur, die nicht durch kurzfristige, immer neue Projekte angetrieben ist.'
@@ -170,7 +178,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Dein Beitrag für eine Mitgliedschaft ist frei wählbar und jeder Euro hilft! '
@@ -186,32 +194,32 @@ article:
             type: bold
         text: 'Als Teil der Stegreif Family erhältst du: '
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: '• exklusive Einblicke hinter die Kulissen von Stegreif'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: '• Vorabinformationen zu Konzerten'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: '• gemeinsame Family-Treffen und Probenbesuche'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: '• exklusive Gewinnspiele für Freikarten'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: '• Rabattaktionen an unserem Merchstand '
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: '• eine persönliche Ansprechperson '
@@ -236,7 +244,7 @@ article:
         size: small
         select_type: video
         video: 'https://youtu.be/6vdoI6OBl0A?si=ybY8jamjK1AsgZjE'
-        media_caption: 'Family Video '
+        media_caption: 'Family Video'
   -
     type: heading
     attrs:
@@ -290,8 +298,8 @@ sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 select_transition_theme: bird
 template: page
-updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
-updated_at: 1733925952
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1740476645
 header_headline: Unterstützen
 add_section:
   -
@@ -341,12 +349,12 @@ add_section:
             type: text
             text: "STEGREIF e.V.\L"
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: "IBAN: DE31 1005 0000 0190 5712 25\_\_\_\_\L"
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'BIC: BELADEBEXXX'
@@ -390,7 +398,7 @@ add_section:
           id: m48n73ay
           values:
             type: bard_code
-            code: |
+            code: |-
               <!-- twingle -->
               <script type="text/javascript">
               	(function() {

@@ -5,7 +5,7 @@ title: 'symphony of change'
 header_theme_selector: yellow
 header_select: image
 quicklinks_enabled: false
-teaser_text: 'Die Nachhaltigkeitssinfonie "symphony of change" des Stegreif Orchesters ist die Abschlussproduktion der zweijährigen Konzert- und Workshopreihe #bechange - 17 Klänge der Nachhaltigkeit.'
+teaser_text: 'Die Nachhaltigkeitssinfonie "symphony of change" des Stegreif Orchesters ist die Abschlussproduktion der zweijährigen Konzert- und Workshopreihe bechange - 17 Klänge der Nachhaltigkeit.'
 theme_selector: dark
 article:
   -
@@ -49,7 +49,7 @@ article:
         text: 'symphony of change'
       -
         type: text
-        text: ': als Abschluss der Reihe'
+        text: ': als Abschluss der Reihe '
       -
         type: text
         marks:
@@ -60,7 +60,7 @@ article:
               rel: null
               target: null
               title: null
-        text: ' #bechange'
+        text: bechange
       -
         type: text
         text: '. Dabei stellt es das Spannungsfeld zwischen Musik und Nachhaltigkeit in den Fokus und entwickelt eine musikalische Aufforderung, sich einzubringen und den Wandel anzustoßen, der für die großen Fragen unserer Zeit notwendig ist.'
@@ -347,7 +347,7 @@ add_section:
             text: 'zwischen dir und mir'
           -
             type: text
-            text: '.  So stellt Stegreif das letzte der 17 Ziele für nachhaltige Entwicklung bewusst an das Ende seiner Reihe #bechange und fragt ganz direkt: Bist du ein Partner im Erreichen dieser Ziele? '
+            text: '.  So stellt Stegreif das letzte der 17 Ziele für nachhaltige Entwicklung bewusst an das Ende seiner Reihe bechange und fragt ganz direkt: Bist du ein Partner im Erreichen dieser Ziele? '
           -
             type: text
             marks:
@@ -367,7 +367,7 @@ add_section:
           values:
             type: bard_partners
             headline: 'Förder*innen'
-            text: '#bechange wird gefördert von: Die Beauftragte der Bundesregierung für Kultur und Medien'
+            text: 'bechange wird gefördert von: Die Beauftragte der Bundesregierung für Kultur und Medien'
             entires:
               - 530d7673-e742-4ee9-be5d-3750c4220019
       -
@@ -386,12 +386,12 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 select_transition_theme: bechange
-aktuell: true
-featured: true
+aktuell: false
+featured: false
 select_type: programm
 template: single_page
-updated_by: 7d709850-5c35-4065-be68-b627c348051d
-updated_at: 1738647425
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1741962763
 related_termine:
   - f1aaee5f-116b-4a90-9138-e1373a8d82cf
   - e33b8d76-c48d-4940-8569-61df003d590a

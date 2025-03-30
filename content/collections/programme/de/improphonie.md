@@ -1,7 +1,7 @@
 ---
 id: 434cd158-842b-430a-9081-8f0d87a853f0
 blueprint: programme
-title: '#Improphonie'
+title: Improphonie
 header_theme_selector: dark
 header_select: image
 header_image: 04_was-wir-tun/reihen-und-programme/improphonie/220915_improfest_(c)-navina-neuschl-4161.jpg
@@ -23,9 +23,10 @@ related_termine:
   - db2d5f5c-2178-44d7-ae8d-5a731c4c652a
   - eaa048c2-863d-46ba-bd60-34fe2a130e89
   - 91171594-ffd7-4a00-834b-c24180c5e6c8
+  - 519e37ce-fe87-4b8d-87f4-0a2191f5b244
 template: single_page
-updated_by: 7d709850-5c35-4065-be68-b627c348051d
-updated_at: 1738646639
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1741960958
 teaser_text: 'Wie kann Musik im Moment und im Kontakt mit dem Publikum entstehen? Wo begegnen sich Improvisation und Komposition? Wie lässt sich mitunter sogar eine Sinfonie improvisieren?'
 headline: 'Eine Sinfonie aus dem Moment'
 article:
@@ -74,7 +75,7 @@ article:
         text: 'Groove – Bewegung – Augenkontakt'
       -
         type: text
-        text: '. Ziel der #improphonie ist es, die Magie der kollektiven, '
+        text: '. Ziel der improphonie ist es, die Magie der kollektiven, '
       -
         type: text
         marks:
@@ -104,7 +105,7 @@ article:
     content:
       -
         type: text
-        text: 'Anders als bei den meisten Programmen von Stegreif bezieht sich die #improphonie nicht auf ein bestehendes sinfonisches Werk, das rekomponiert wird, sondern'
+        text: 'Anders als bei den meisten Programmen von Stegreif bezieht sich die improphonie nicht auf ein bestehendes sinfonisches Werk, das rekomponiert wird, sondern'
       -
         type: text
         marks:
@@ -145,7 +146,7 @@ add_section:
         content:
           -
             type: text
-            text: 'Wie eine klassischen Sinfonie besteht die #improphonie aus '
+            text: 'Wie eine klassischen Sinfonie besteht die improphonie aus '
           -
             type: text
             marks:
@@ -292,7 +293,7 @@ add_section:
           values:
             type: bard_partners
             headline: 'Förder*innen'
-            text: '#Improphonie wird gefördert von:'
+            text: 'Improphonie wird gefördert von:'
             entires:
               - 7319da4b-3664-4dd3-9898-cd672a5328a0
               - 0ada25f7-f85a-48fb-b3ad-cbeb7aa45ce7

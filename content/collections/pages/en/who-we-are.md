@@ -21,7 +21,7 @@ introduction_content:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: STEGREIF
@@ -48,7 +48,7 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'Musical '
@@ -67,7 +67,7 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'without a conductor, chairs or sheet music'
@@ -78,7 +78,7 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'improvisation and movement'
@@ -89,7 +89,7 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'everything becomes a stage'
@@ -130,7 +130,7 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'Organisational '
@@ -149,7 +149,7 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'collective way of working'
@@ -160,7 +160,7 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'collaborative processes'
@@ -171,7 +171,7 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'new forms of (collective) collaboration'
@@ -199,7 +199,7 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: Social
@@ -218,7 +218,7 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'mindful '
@@ -229,7 +229,7 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: ' social entity'
@@ -240,18 +240,18 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'sustainable development'
               -
                 type: text
-                text: ' with projects such as "#bechange - 17 Sounds of Sustainability". Our work is shaped by the following values: mission - instead of distraction, dynamic decision - instead of stagnation, wisdom - instead of ego, valuing diversities - instead of blurring them out, '
+                text: ' with projects such as "bechange - 17 Sounds of Sustainability". Our work is shaped by the following values: mission - instead of distraction, dynamic decision - instead of stagnation, wisdom - instead of ego, valuing diversities - instead of blurring them out, '
               -
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'responsible freedom'
@@ -287,12 +287,12 @@ add_section:
         content:
           -
             type: text
-            text: 'Would you like to play with us? We are also happy to receive unsolicited applications from musicians. Lea Hladka is your contact person for this. In addition to a'
+            text: 'Would you like to play with us? We are also happy to receive unsolicited applications from musicians. In addition to a'
           -
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: ' letter of motivation'
@@ -303,7 +303,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'audio and video samples'
@@ -324,6 +324,15 @@ add_section:
                 button_type: background
                 link_type: email
                 email: lea@stegreif.org
+                type: button
+                enabled: false
+              -
+                id: m7lwi9ns
+                label: E-Mail
+                target_blank: true
+                button_type: background
+                link_type: email
+                email: info@stegreif.org
                 type: button
                 enabled: true
   -
@@ -349,7 +358,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Story
@@ -379,7 +388,7 @@ add_section:
                   rel: null
                   target: _blank
                   title: null
-            text: '#freebeethoven'
+            text: freebeethoven
           -
             type: text
             text: ', '
@@ -393,7 +402,7 @@ add_section:
                   rel: null
                   target: _blank
                   title: null
-            text: '#freeschubert'
+            text: freeschubert
           -
             type: text
             text: ', '
@@ -407,7 +416,7 @@ add_section:
                   rel: null
                   target: _blank
                   title: null
-            text: '#freebrahms'
+            text: freebrahms
           -
             type: text
             text: ', '
@@ -421,7 +430,7 @@ add_section:
                   rel: null
                   target: _blank
                   title: null
-            text: '#free∃roica'
+            text: free∃roica
           -
             type: text
             text: ', '
@@ -435,7 +444,7 @@ add_section:
                   rel: null
                   target: _blank
                   title: null
-            text: '#bfree'
+            text: bfree
           -
             type: text
             text: ', '
@@ -449,10 +458,24 @@ add_section:
                   rel: null
                   target: _blank
                   title: null
-            text: '#freemahler'
+            text: freemahler
           -
             type: text
-            text: ', #explore_mozart, #explorefreischütz. In addition, the group has been involved in co-productions with the Neuköllner Oper ('
+            text: ', '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::5ecaa299-fd14-45b5-8b2d-cb3f43401d09'
+                  rel: null
+                  target: null
+                  title: null
+            text: explore_mozart
+          -
+            type: text
+            text: ', explorefreischütz. In addition, the group has been involved in co-productions with the Neuköllner Oper ('
           -
             type: text
             marks:
@@ -491,7 +514,7 @@ add_section:
                   rel: null
                   target: null
                   title: null
-            text: '#bfree'
+            text: bfree
           -
             type: text
             text: ', '
@@ -505,7 +528,7 @@ add_section:
                   rel: null
                   target: null
                   title: null
-            text: '#freebrahms'
+            text: freebrahms
           -
             type: text
             text: '), Deutsches Symphonie-Orchester Berlin and the junge norddeutsche Philharmonie ('
@@ -572,13 +595,13 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'music education programmes'
           -
             type: text
-            text: ". The orchestra regularly gives workshops and children's concerts, has on multiple occasions performed joint concert programs with amateurs and students, such as #Carmen with the Weimar Stadtstreichern or "
+            text: ". The orchestra regularly gives workshops and children's concerts, has on multiple occasions performed joint concert programs with amateurs and students, such as Carmen with the Weimar Stadtstreichern or "
           -
             type: text
             marks:
@@ -627,7 +650,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Startup-Music-Preis Berlin 2016'
@@ -638,13 +661,13 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Europäische Trendmarke des Jahres 2019'
           -
             type: text
             text: ' beim 14. Europäischen Kulturmarken-Award.'
-updated_by: 5c84a3c2-1f9f-4c46-ace2-d9eaf068d261
-updated_at: 1680092920
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1741962303
 ---

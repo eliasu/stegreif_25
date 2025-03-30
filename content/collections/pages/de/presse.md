@@ -35,15 +35,63 @@ article:
                 marks:
                   -
                     type: bold
-                text: 'Immanuel de Gilde'
+                text: 'Elena Wein'
               -
-                type: hard_break
-                marks:
-                  -
-                    type: bold
+                type: hardBreak
               -
                 type: text
-                text: 'Projektleitung & Presse'
+                text: 'Presse-& Öffentlichkeitsarbeit'
+              -
+                type: hardBreak
+              -
+                type: text
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'mailto:elena@stegreif.org'
+                      rel: null
+                      target: null
+                      title: null
+                text: elena@stegreif.org
+          -
+            type: set
+            attrs:
+              id: m7lwqi6f
+              values:
+                type: bard_buttons
+                buttons:
+                  -
+                    id: m7lwqj8s
+                    label: E-Mail
+                    target_blank: true
+                    button_type: lined
+                    link_type: email
+                    email: elena@stegreif.org
+                    type: button
+                    enabled: true
+          -
+            type: heading
+            attrs:
+              level: 4
+            content:
+              -
+                type: text
+                text: 'Presseanfragen zu '
+              -
+                type: text
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'statamic://entry::5e8ea375-f842-4f00-9f15-594ba8bb47a2'
+                      rel: null
+                      target: _blank
+                      title: null
+                text: '10 Jahren Stegreif'
+              -
+                type: text
+                text: ' an:'
           -
             type: paragraph
             attrs:
@@ -51,12 +99,28 @@ article:
             content:
               -
                 type: text
-                text: immanuel@stegreif.org
+                marks:
+                  -
+                    type: bold
+                text: 'Nora Gores '
               -
-                type: hard_break
+                type: hardBreak
               -
                 type: text
-                text: '+49 177 6039435'
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'mailto:nora@kunst-PR-ojekte.de'
+                      rel: null
+                      target: null
+                      title: null
+                text: nora@kunst-PR-ojekte.de
+              -
+                type: hardBreak
+              -
+                type: text
+                text: '+49 176 - 49304885'
           -
             type: set
             attrs:
@@ -66,11 +130,11 @@ article:
                 buttons:
                   -
                     id: mo6vgeND
-                    label: Mail
+                    label: E-Mail
                     target_blank: true
                     button_type: lined
                     link_type: email
-                    email: immanuel@stegreif.org
+                    email: nora@kunst-PR-ojekte.de
                     type: button
                     enabled: true
                   -
@@ -79,7 +143,7 @@ article:
                     target_blank: true
                     button_type: lined
                     link_type: tel
-                    tel: '+49 177 6039435'
+                    tel: '+49 176 49304885'
                     type: button
                     enabled: true
         reference_content: false
@@ -127,7 +191,7 @@ sitemap_priority: 0.5
 select_transition_theme: bird
 template: page
 updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
-updated_at: 1724157714
+updated_at: 1742998058
 og_image: presse-og-1656608770.png
 twitter_image: presse-twitter-1656608770.png
 quicklinks_enabled: false
@@ -148,6 +212,37 @@ add_section:
         type: paragraph
         attrs:
           class: 'text-2xl leading-l'
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'PM NR.1/2025'
+      -
+        type: paragraph
+        attrs:
+          class: 'text-2xl leading-l'
+        content:
+          -
+            type: text
+            text: '10 Jahre Stegreif Orchester - Ein Orchester-Kollektiv zwischen Klassik und Improvisation '
+      -
+        type: set
+        attrs:
+          id: m8pzts9a
+          values:
+            type: bard_buttons
+            buttons:
+              -
+                id: m02ecou5
+                label: download
+                target_blank: true
+                button_type: background
+                link_type: asset
+                asset: 06_presse/pressemitteilungen/202503_pm_stegreiforchester_10-jahre-stegreif_nora_gores.pdf
+                type: button
+                enabled: true
       -
         type: paragraph
         attrs:
@@ -160,7 +255,7 @@ add_section:
                 type: bold
             text: 'PM NR.5/2024'
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
                 type: bold
@@ -171,7 +266,7 @@ add_section:
         content:
           -
             type: text
-            text: 'Stegreif setzt mit #freesolo neue Maßstäbe für das Solokonzert'
+            text: 'Stegreif setzt mit freesolo neue Maßstäbe für das Solokonzert'
       -
         type: set
         attrs:
@@ -206,7 +301,7 @@ add_section:
         content:
           -
             type: text
-            text: '#freebruckner feiert Premiere am Brucknerhaus Linz.'
+            text: 'freebruckner feiert Premiere am Brucknerhaus Linz.'
       -
         type: set
         attrs:
@@ -239,7 +334,7 @@ add_section:
                 type: bold
             text: 'PM NR.3/2024'
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
                 type: bold
@@ -285,7 +380,7 @@ add_section:
         content:
           -
             type: text
-            text: 'Exzellente Orchesterlandschaft des BKMs fördert Stegreif-Projekt #be:one'
+            text: 'Exzellente Orchesterlandschaft des BKMs fördert Stegreif-Projekt be:one'
       -
         type: set
         attrs:
@@ -320,7 +415,7 @@ add_section:
         content:
           -
             type: text
-            text: 'Stegreif startet das neue Jahr mit Premiere #explore_händel'
+            text: 'Stegreif startet das neue Jahr mit Premiere explore_händel'
       -
         type: set
         attrs:
@@ -349,13 +444,13 @@ add_section:
                 type: bold
             text: 'PM NR.4/2023'
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
                 type: bold
           -
             type: text
-            text: 'Stegreif startet das Projekt #freesolo mit #improcerto 1'
+            text: 'Stegreif startet das Projekt freesolo mit improcerto 1'
       -
         type: set
         attrs:
@@ -384,7 +479,7 @@ add_section:
                 type: bold
             text: 'PM NR.3/2023'
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
                 type: bold
@@ -419,10 +514,10 @@ add_section:
                 type: bold
             text: 'PM Nr. 02/2023 - 14.03.2023'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: '#improphonie im Säälchen | Holzmarkt25, Berlin & PREMIERE #bechange: acting am Staatstheater Augsburg | Augsburger Klimafest'
+            text: 'improphonie im Säälchen | Holzmarkt25, Berlin & PREMIERE bechange: acting am Staatstheater Augsburg | Augsburger Klimafest'
       -
         type: set
         attrs:
@@ -451,10 +546,10 @@ add_section:
                 type: bold
             text: 'PM Nr. 01/2023 - 16.01.2023'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: 'PREMIERE #bechange: thinking in der Dresdner Philharmonie'
+            text: 'PREMIERE bechange: thinking in der Dresdner Philharmonie'
       -
         type: set
         attrs:
@@ -483,10 +578,10 @@ add_section:
                 type: bold
             text: 'PM Nr. 04/2022 - 20.12.2022'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: '#freesolo - Stegreifs neue Konzertreihe '
+            text: 'freesolo - Stegreifs neue Konzertreihe '
       -
         type: set
         attrs:
@@ -515,10 +610,10 @@ add_section:
                 type: bold
             text: 'PM Nr. 03/2022 - 28.08.2022'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: '#improFest und Neue Lieder von der Erde | Das Stegreif Orchester präsentiert zwei neue Programme in Berlin'
+            text: 'improFest und Neue Lieder von der Erde | Das Stegreif Orchester präsentiert zwei neue Programme in Berlin'
       -
         type: set
         attrs:
@@ -547,10 +642,10 @@ add_section:
                 type: bold
             text: 'PM Nr. 02/2022 - 22.06.2022'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: 'Premiere! #bechange: Feeling beim Kissinger Sommer'
+            text: 'Premiere! bechange: Feeling beim Kissinger Sommer'
       -
         type: set
         attrs:
@@ -579,10 +674,10 @@ add_section:
                 type: bold
             text: 'PM Nr. 01/2022 - 14.04.2022'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: 'Sabbatical von Juri de Marco | Premiere! #bechange:awakening bei den Ludwigsburger Schlossfestspielen'
+            text: 'Sabbatical von Juri de Marco | Premiere! bechange: awakening bei den Ludwigsburger Schlossfestspielen'
       -
         type: set
         attrs:
@@ -611,10 +706,10 @@ add_section:
                 type: bold
             text: 'PM Nr. 02/2021 - 10.05.2021'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: '#explore_mozart premiert als binaurales 360°-Konzert'
+            text: 'explore_mozart premiert als binaurales 360°-Konzert'
       -
         type: set
         attrs:
@@ -643,10 +738,10 @@ add_section:
                 type: bold
             text: 'PM Nr. 01/2021 - 13.04.2021'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: '#explorefreischütz im Konzerthaus Berlin'
+            text: 'explorefreischütz im Konzerthaus Berlin'
       -
         type: set
         attrs:

@@ -1,91 +1,13 @@
 ---
 id: c58869e5-9441-49a7-abae-cc83fdd84a24
 blueprint: termine
-title: '#FREE∃ROICA im Theater im Delphi'
-header_headline: '#FREE∃ROICA im Theater im Delphi'
+title: 'FREE∃ROICA im Theater im Delphi | Berlin'
+header_headline: 'FREE∃ROICA im Theater im Delphi'
 header_theme_selector: dark
 header_select: image
 header_image: 04_was-wir-tun/reihen-und-programme/freeeroica/freeeroica_neubrandenburg_(c)-oliver-borchert-(73)_lowres.jpg
 quicklinks_enabled: false
 details:
-  -
-    id: m5l0a86w
-    headline: Team
-    description:
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-skin-primary
-            text: 'Musikalische Leitung'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Sebastian Caspar'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-skin-primary
-            text: 'Rekomposition, Arrangement'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Mike Conrad, Alistair Duncan'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-skin-primary
-            text: 'Regie, Szenographie'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'David Fernández, Franziska Ritter'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-skin-primary
-            text: Lichtdesign
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Arnaud Poumarat'
-    type: detail
-    enabled: true
   -
     id: m5l0aewy
     headline: 'Wo?'
@@ -180,8 +102,104 @@ details:
           class: null
     type: detail
     enabled: true
-theme_selector: dark
-headline: '#FREE∃ROICA im Theater im Delphi'
+  -
+    id: m5l0a86w
+    headline: Team
+    description:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: 'Musikalische Leitung'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Sebastian Caspar'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: 'Rekomposition, Arrangement'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Mike Conrad, Alistair Duncan'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: Inszenierung
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'David Fernández, Franziska Ritter'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: Lichtdesign
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Arnaud Poumarat'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: 'Projektleitung 10 Jahre Stegreif'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Lea Hladka'
+    type: detail
+    enabled: true
+theme_selector: light
+headline: 'FREE∃ROICA im Theater im Delphi'
 article:
   -
     type: paragraph
@@ -253,7 +271,7 @@ article:
               rel: null
               target: null
               title: null
-        text: '#free∃roica.'
+        text: free∃roica.
   -
     type: paragraph
     attrs:
@@ -261,7 +279,7 @@ article:
     content:
       -
         type: text
-        text: '#free∃roica widmet sich Revolutionen und Aufbrüchen – historisch wie musikalisch. Die Gründungsvision von Stegreif zeigt sich in #free∃roica deutlicher als in jedem anderen unserer Projekte: '
+        text: 'free∃roica widmet sich Revolutionen und Aufbrüchen – historisch wie musikalisch. Die Gründungsvision von Stegreif zeigt sich in free∃roica deutlicher als in jedem anderen unserer Projekte: '
       -
         type: text
         marks:
@@ -282,7 +300,7 @@ article:
     content:
       -
         type: text
-        text: '#free∃roica ist ein '
+        text: 'free∃roica ist ein '
       -
         type: text
         marks:
@@ -416,10 +434,6 @@ article:
     type: paragraph
     attrs:
       class: null
-  -
-    type: paragraph
-    attrs:
-      class: null
     content:
       -
         type: text
@@ -433,19 +447,33 @@ seo_nofollow: false
 seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
-updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
-updated_at: 1738745219
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1743168441
 bundeslaender:
   - berlin
 add_section:
   -
     id: m5wm10ls
-    theme_selector: yellow
+    theme_selector: dark
     article:
       -
         type: set
         attrs:
-          id: m5wm16ce
+          id: m88tszk2
+          values:
+            type: bard_media
+            size: medium
+            select_type: video
+            video: 'https://youtu.be/mjyPpPwhwmU?si=TiLuNH2TJkXYivGn'
+            media_caption: 'YouTube Kanal von Stegreif'
+  -
+    id: m88tsrk6
+    theme_selector: light
+    article:
+      -
+        type: set
+        attrs:
+          id: m88tsu54
           values:
             type: bard_partners
             headline: Förderung
@@ -453,10 +481,20 @@ add_section:
             entires:
               - 20a05032-00e6-4400-8208-da4eb1b47312
               - 0ada25f7-f85a-48fb-b3ad-cbeb7aa45ce7
+  -
+    id: m88ttjge
+    theme_selector: yellow
+    article:
       -
-        type: paragraph
+        type: set
         attrs:
-          class: null
-teaser_text: 'Einladung, den Auftakt des 10 jährigen Geburtstages von Stegreif zusammen zu feiern mit #free∃roica im Theater im Delphi am 29. und 30. März 2025.'
+          id: m88ttmbu
+          values:
+            type: bard_feature
+            alternate: false
+            feature_type: bird
+            reference_content: true
+            select_content: 5e8ea375-f842-4f00-9f15-594ba8bb47a2
+teaser_text: 'Einladung, den Auftakt des 10 jährigen Geburtstages von Stegreif zusammen zu feiern mit free∃roica im Theater im Delphi am 29. und 30. März 2025.'
 related_programm: 18ff1954-886b-4096-aefd-60e416f0d59e
 ---

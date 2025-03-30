@@ -21,10 +21,20 @@ preferences:
         - site
         - aktuell
         - tags
+      after_save: continue_editing
     termine:
       per_page: 500
+      columns:
+        - title
+        - site
+        - slug
+        - status
+        - date_field
+        - section_sitemap
       after_save: continue_editing
     personen:
+      after_save: continue_editing
+    pages:
       after_save: continue_editing
   taxonomies:
     team_tags:

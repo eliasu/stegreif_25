@@ -16,12 +16,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'artistic lead'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Juri de Marco, Lorenz Blaumer '
@@ -34,12 +34,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'recomposition & arrangement'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Alistair Duncan '
@@ -52,12 +52,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'direction, scenography'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Franziska Ritter'
@@ -70,12 +70,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'light design'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Vito Walter'
@@ -88,12 +88,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'costume '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: tba
@@ -112,7 +112,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'September 8th, 2024'
@@ -134,7 +134,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: "Bruckner's 7th Symphony in E major "
@@ -145,7 +145,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: "200th anniversary of Bruckner's birth"
@@ -156,12 +156,12 @@ article:
     content:
       -
         type: text
-        text: "In #freebruckner, the ensemble, in cooperation with the International Brucknerfest Linz, seeks to explore Anton Bruckner's 7th Symphony. Today, Bruckner is primarily known as a composer of great symphonies in the concert repertoire, but during his lifetime he was also famous for his "
+        text: "In freebruckner, the ensemble, in cooperation with the International Brucknerfest Linz, seeks to explore Anton Bruckner's 7th Symphony. Today, Bruckner is primarily known as a composer of great symphonies in the concert repertoire, but during his lifetime he was also famous for his "
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'improvisation on the organ'
@@ -172,7 +172,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Trauermusik '
@@ -183,7 +183,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'experiences of loss '
@@ -202,7 +202,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'vocal music'
@@ -213,7 +213,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'original passages '
@@ -224,7 +224,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'cross-genre arrangements '
@@ -235,7 +235,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: improvisations.
@@ -248,7 +248,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Freely moving in the concert hall'
@@ -259,7 +259,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'without a conductor'
@@ -270,7 +270,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: "great composer's esteemed legacy to be heard in a new light"
@@ -288,31 +288,54 @@ article:
 add_section:
   -
     id: lr5de214
-    theme_selector: yellow
-    article:
-      -
-        type: set
-        attrs:
-          id: lr5de7oa
-          values:
-            type: bard_quotes
-            size: small
-            quote: 'So junge Leute mit solchem Riesentalent, das gibt Hoffnung für die Zukunft, das begeistert das Publikum. Dieser Ausbruch von unbändiger Musizierlust wirkte wie ein Aufschrei vor dem erzwungenen Verstummen. Animiert gehen die Menschen nachhause.'
-            author: 'Klassikinfo.de, 1.11.2020'
-  -
-    id: lr5dfon8
     theme_selector: light
     article:
       -
         type: set
         attrs:
-          id: lr5dfrr2
+          id: m8rfv85r
+          values:
+            type: bard_media
+            size: big
+            select_type: video
+            video: 'https://youtu.be/btOyuUMl9eI?si=8QloF0XEjr6FlNKk'
+            media_caption: 'Trailer freebruckner | Stegreif YouTube'
+  -
+    id: lr5dfon8
+    theme_selector: yellow
+    article:
+      -
+        type: set
+        attrs:
+          id: m8rfw9kl
+          values:
+            type: bard_gallery
+            size: big
+            images:
+              - 04_was-wir-tun/reihen-und-programme/freebruckner/20240810_-freebruckner_(c)oliver_erenyi_linz_brucknerfest(1).JPG
+              - 04_was-wir-tun/reihen-und-programme/freebruckner/20240810_-freebruckner_(c)oliver_erenyi_linz_brucknerfest(4).JPG
+              - 04_was-wir-tun/reihen-und-programme/freebruckner/20240810_-freebruckner_(c)oliver_erenyi_linz_brucknerfest.JPG
+              - 04_was-wir-tun/reihen-und-programme/freebruckner/20240910_-freebruckner_(c)patrick-hurlimann_luzern_festival(1).jpg
+              - 04_was-wir-tun/reihen-und-programme/freebruckner/20240910_-freebruckner_(c)patrick-hurlimann_luzern_festival(2).jpg
+              - 04_was-wir-tun/reihen-und-programme/freebruckner/20240910_-freebruckner_(c)patrick-hurlimann_luzern_festival(3).jpg
+              - 04_was-wir-tun/reihen-und-programme/freebruckner/20240910_-freebruckner_(c)patrick-hurlimann_luzern_festival(4).jpg
+              - 04_was-wir-tun/reihen-und-programme/freebruckner/20240910_-freebruckner_(c)patrick-hurlimann_luzern_festival(5).jpg
+              - 04_was-wir-tun/reihen-und-programme/freebruckner/20240910_-freebruckner_(c)patrick-hurlimann_luzern_festival.jpg
+  -
+    id: m8rfqwio
+    theme_selector: light
+    article:
+      -
+        type: set
+        attrs:
+          id: m8rfto55
           values:
             type: bard_partners
-            headline: 'Partner*innen'
-            text: '#freebruckner is a commissioned composition by and in collaboration with the Brucknerhaus Linz'
+            headline: Partners
+            text: 'freebruckner is a commissioned composition by and in collaboration with the Brucknerhaus Linz and ist supported by the Rudolf Augstein Stiftung.'
             entires:
-              - afd4c1be-8778-42e9-8fab-b1933c18c25f
+              - fce1cba4-b099-423d-ba40-c904c00a3b88
+              - 040cbbb0-9f85-4034-8556-31c60b231f51
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1715598195
+updated_at: 1743085351
 ---

@@ -1,13 +1,12 @@
 ---
 id: 29d3fa3d-e913-4721-ab4c-ccbea408045b
 blueprint: programme
-title: '#explore_mozart'
-header_headline: '#explore_mozart'
+title: explore_mozart
+header_headline: explore_mozart
 header_theme_selector: dark
 header_select: image
 quicklinks_enabled: false
-show_social: false
-teaser_text: 'Wofür steht Moza­rt? Mit dem Konzertprogramm #explore_mozart widmet sich das Stegreif Orchester dem freigeistigen und freimaurerischen Denken und Musizieren des 18. Jahrhunderts im Umfeld des Komponisten.'
+teaser_text: 'Wofür steht Moza­rt? Mit dem Konzertprogramm explore_mozart widmet sich das Stegreif Orchester dem freigeistigen und freimaurerischen Denken und Musizieren des 18. Jahrhunderts im Umfeld des Komponisten.'
 theme_selector: dark
 seo_noindex: false
 seo_nofollow: false
@@ -19,18 +18,20 @@ aktuell: false
 select_type: programm
 template: single_page
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1657810245
+updated_at: 1741961609
 tags:
   - chamber
   - digital
 header_image: 04_was-wir-tun/reihen-und-programme/explore-mozart/explore_mozart_header-(c)-catriona-fadke-05_lowres.jpg
 add_section:
   -
+    id: zf8uGQrv
     theme_selector: yellow
     article:
       -
         type: set
         attrs:
+          id: 77OqvjuQ
           values:
             type: bard_gallery
             size: big
@@ -41,28 +42,32 @@ add_section:
               - 04_was-wir-tun/reihen-und-programme/explore-mozart/explore_mozart_(c)-catriona-fadke-03_lowres.jpg
               - 04_was-wir-tun/reihen-und-programme/explore-mozart/explore_mozart_(c)-catriona-fadke(1)_lowres.jpg
   -
+    id: YPsk0Pgj
     theme_selector: light
     article:
       -
         type: set
         attrs:
+          id: K8uIMBCf
           values:
             type: bard_partners
             headline: 'In Kooperation mit:'
-            text: '#explore_mozart entstand in Koproduktion mit den Ludwigsburger Schlossfestspielen.'
+            text: 'explore_mozart entstand in Koproduktion mit den Ludwigsburger Schlossfestspielen.'
             entires:
               - f7d837d0-3ea7-4e70-a796-53778f084f47
       -
         type: set
         attrs:
+          id: pQ2jDYZi
           values:
             type: bard_partners
             headline: 'Förder*innen'
-            text: '#explore_mozart wurde gefördert durch die Karl Schlecht Stiftung.'
+            text: 'explore_mozart wurde gefördert durch die Karl Schlecht Stiftung.'
             entires:
               - 0ada25f7-f85a-48fb-b3ad-cbeb7aa45ce7
 details:
   -
+    id: Vlc74lOy
     headline: Team
     description:
       -
@@ -74,7 +79,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Künstlerische Leitung'
@@ -82,7 +87,7 @@ details:
             type: text
             text: ' '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Juri de Marco'
@@ -95,12 +100,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Ton
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Patrick Leuchter (Zauberflöte)'
@@ -113,12 +118,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Kamera
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Maximilian Feldmann (Klarafestival)'
@@ -131,12 +136,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Tourmanagement
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Lea Hladka'
@@ -146,7 +151,7 @@ details:
           class: null
         content:
           -
-            type: hard_break
+            type: hardBreak
     type: detail
     enabled: true
 headline: 'Von 5 Anfängen und inneren Zielen'
@@ -158,12 +163,12 @@ article:
     content:
       -
         type: text
-        text: 'Wofür steht Moza­rt? Mit dem Konzertprogramm #explore_mozart setzt sich das Stegreif Orchester mit dem freigeistigen und freimaurerischen Denken und Musizieren des 18. Jahrhunderts im Umfeld des Komponisten Wolfgang Amadeus Mozart auseinander und fragt sich, wie dieses Brücken zu aktuellen politischen und gesellschaftlichen Fragen schlagen kann. '
+        text: 'Wofür steht Moza­rt? Mit dem Konzertprogramm explore_mozart setzt sich das Stegreif Orchester mit dem freigeistigen und freimaurerischen Denken und Musizieren des 18. Jahrhunderts im Umfeld des Komponisten Wolfgang Amadeus Mozart auseinander und fragt sich, wie dieses Brücken zu aktuellen politischen und gesellschaftlichen Fragen schlagen kann. '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Mozarts Ideale'
@@ -174,7 +179,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Freiheit
@@ -185,7 +190,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Gleichheit
@@ -196,7 +201,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Brüderlichkeit
@@ -207,7 +212,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Toleranz '
@@ -218,7 +223,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Humanität
@@ -232,16 +237,17 @@ article:
     content:
       -
         type: text
-        text: 'Am 16.05.2021 streamte das Stegreif Orchester die Premiere von #explore_mozart in Form eines digitalen '
+        text: 'Am 16.05.2021 streamte das Stegreif Orchester die Premiere von explore_mozart in Form eines digitalen '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 360°-Konzertspaziergangs
       -
         type: text
         text: '. Dabei ludt das Orchester seine Zuschauer*innen zu einer neuartigen, binauralen Sound-Erfahrung ein. 360° Sound- und Videoaufnahmen ermöglichen die Erkundung eines digitalen Konzertraums mit mehreren Sinnen. Nicht nur das Publikum kann seine Aufmerksamkeit durch den Mausklick am Computer oder die Bewegung des Handys in verschiedene Richtungen lenken, auch die Musiker*innen, und damit die Musik selbst, bewegen sich frei um die binaurale Mikrofonierung und die 360°-Kamera herum.'
+featured: false
 ---

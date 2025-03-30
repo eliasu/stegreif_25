@@ -1,7 +1,7 @@
 ---
 id: 5823a46a-e53f-4b1e-87ea-3c598b3a6d26
 blueprint: programme
-title: '#freesolo - Workshops'
+title: 'freesolo - Workshops'
 header_theme_selector: yellow
 header_select: image
 header_image: 04_was-wir-tun/reihen-und-programme/bechange-workshops/220623_news_bechange-workshop-(c)-viola-schmitzer_lowres-02.jpg
@@ -20,7 +20,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Kollektives
@@ -31,7 +31,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'demokratisches '
@@ -42,7 +42,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'gemeinschaftliches Arbeiten'
@@ -53,7 +53,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'fehlt das notwendige Know-How'
@@ -64,13 +64,13 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'kollektiven musikalischen Zusammenarbeit'
       -
         type: text
-        text: ' und gibt diese Erfahrungen nun mit dem Projekt #freesolo weiter. '
+        text: ' und gibt diese Erfahrungen nun mit dem Projekt freesolo weiter. '
   -
     type: paragraph
     attrs:
@@ -83,7 +83,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Improvisationsworkshops '
@@ -94,7 +94,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Nachwuchs- und Jugendorchestern'
@@ -105,7 +105,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Anforderungen jedes Klangapparats'
@@ -116,7 +116,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Improvisations- und Kompositionsprofessor Noam Sivan'
@@ -141,10 +141,10 @@ aktuell: true
 featured: true
 select_type: education
 template: single_page
-updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
-updated_at: 1729676599
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1741960490
 related_reihe: 8d34ea6d-a9c6-4a67-8f75-e2b66c6d2e9a
-teaser_text: '8 Workshops mit Nachwuchsorchestern bilden das Fundament des Projekts #freesolo. Dort wird gemeinsam erforscht, wie sich einzelne Führungsstile und Improvisationsmethoden auf ein symphonisches Orchester anwenden lassen'
+teaser_text: '8 Workshops mit Nachwuchsorchestern bilden das Fundament des Projekts freesolo. Dort wird gemeinsam erforscht, wie sich einzelne Führungsstile und Improvisationsmethoden auf ein symphonisches Orchester anwenden lassen'
 add_section:
   -
     id: lieleu8j
@@ -162,7 +162,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Workbook
@@ -178,7 +178,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Stegreif-Workbook
@@ -189,7 +189,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'didaktischen Grundstein'
@@ -200,7 +200,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Jugend- und Nachwuchsorchestern'
@@ -211,7 +211,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'musikalischen Bildung'
@@ -241,10 +241,10 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
-                    text: '#freesolo'
+                    text: freesolo
               -
                 type: paragraph
                 attrs:
@@ -252,12 +252,12 @@ add_section:
                 content:
                   -
                     type: text
-                    text: '#freesolo betrachtet das Spannungsfeld zwischen '
+                    text: 'freesolo betrachtet das Spannungsfeld zwischen '
                   -
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'Autokratie '
@@ -268,7 +268,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: Demokratie
@@ -279,7 +279,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'lautstarkem Fordern '
@@ -290,7 +290,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'behutsamen Zuhören'
@@ -301,7 +301,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'Solokonzert '
@@ -312,7 +312,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'klassischen Orchesterapparat '
@@ -323,7 +323,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'kontrastreichen Führungsformen'
@@ -358,7 +358,7 @@ add_section:
           values:
             type: bard_partners
             headline: 'Förder*innen'
-            text: '#freesolo wird im Rahmen des Programms Exzellente Orchesterlandschaft gefördert von: Die Beauftragte der Bundesregierung für Kultur und Medien sowie die Karl Schlecht Stiftung.'
+            text: 'freesolo wird im Rahmen des Programms Exzellente Orchesterlandschaft gefördert von: Die Beauftragte der Bundesregierung für Kultur und Medien sowie die Karl Schlecht Stiftung.'
             entires:
               - 530d7673-e742-4ee9-be5d-3750c4220019
               - 0ada25f7-f85a-48fb-b3ad-cbeb7aa45ce7

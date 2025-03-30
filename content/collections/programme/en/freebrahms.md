@@ -1,7 +1,7 @@
 ---
 id: d1beb27a-2bde-43e0-aa5e-c3dd8e00bd8c
 origin: a9cd4074-8acb-41c9-bcc3-bb90321b62db
-teaser_text: '"Symphony" means to make something sound together - and that is exactly what the 30 young, cross-genre musicians of the Stegreif Orchester do in #freebrahms.'
+teaser_text: '"Symphony" means to make something sound together - and that is exactly what the 30 young, cross-genre musicians of the Stegreif Orchester do in freebrahms.'
 details:
   -
     id: xYwqfhm6
@@ -16,12 +16,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Artistic Director and Recomposition'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Juri de Marco '
@@ -34,15 +34,15 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Musical Director'
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
           -
@@ -57,12 +57,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Director, Choreography'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Ela Baumann'
@@ -75,12 +75,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Director, Choreography'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Viola Schmitzer'
@@ -93,12 +93,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Recomposition
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Alistair Duncan '
@@ -111,12 +111,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Arrangement
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Wolf Kerschek'
@@ -129,12 +129,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Project Manager '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Lea Hladka'
@@ -147,12 +147,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Communications Manager'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Catriona Fadke'
@@ -165,12 +165,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Office Manager'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Ronja Ruppert'
@@ -185,7 +185,7 @@ article:
     content:
       -
         type: text
-        text: '"Symphony" means to make something sound together - and that is exactly what the 30 young, cross-genre musicians of the Stegreif Orchester do in #freebrahms. The starting point for the re-composition of Brahms'' 3rd Symphony is the orchestra’s own voice - metaphorically and literally, because #freebrahms begins and ends with singing. Spanning four 15-minute movements whose sounds range from rock and Balkan music, meditative soundscapes and ballads to salsa rhythms, the symphony also features the electric guitar, drumset and saxophone alongside the typical orchestral instruments.'
+        text: '"Symphony" means to make something sound together - and that is exactly what the 30 young, cross-genre musicians of the Stegreif Orchester do in freebrahms. The starting point for the re-composition of Brahms'' 3rd Symphony is the orchestra’s own voice - metaphorically and literally, because freebrahms begins and ends with singing. Spanning four 15-minute movements whose sounds range from rock and Balkan music, meditative soundscapes and ballads to salsa rhythms, the symphony also features the electric guitar, drumset and saxophone alongside the typical orchestral instruments.'
   -
     type: set
     attrs:
@@ -193,7 +193,7 @@ article:
       values:
         type: bard_quotes
         size: small
-        quote: '#freebrahms is a brilliantly successful balancing act, free and adventurous, peppered with great ideas and a successful mix of performance, staging and improvisation.'
+        quote: 'freebrahms is a brilliantly successful balancing act, free and adventurous, peppered with great ideas and a successful mix of performance, staging and improvisation.'
         author: 'Esslinger Zeitung, 01.05.2018'
   -
     type: paragraph
@@ -225,7 +225,7 @@ add_section:
             size: big
             select_type: video
             video: 'https://youtu.be/AcyhI4OEdhY'
-            media_caption: 'Trailer #freebrahms | Stegreif YouTube-Channel'
+            media_caption: 'Trailer freebrahms | Stegreif YouTube-Channel'
       -
         type: set
         attrs:
@@ -263,11 +263,11 @@ add_section:
           values:
             type: bard_partners
             headline: Partners
-            text: '#freebrahms was supported by Le Ministère de la Culture Luxembourg, PODIUM Esslingen and the Kulturstiftung des Bundes.'
+            text: 'freebrahms was supported by Le Ministère de la Culture Luxembourg, PODIUM Esslingen and the Kulturstiftung des Bundes.'
             entires:
               - 1cfad058-be0e-484b-bdf5-326c029d5707
               - 79f4ff5b-7604-4354-93ab-64358ac646a1
               - 82113a72-28ad-4a56-8979-cb3bfd8e05b3
-updated_by: 5c84a3c2-1f9f-4c46-ace2-d9eaf068d261
-updated_at: 1686050611
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1741960616
 ---

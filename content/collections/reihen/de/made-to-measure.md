@@ -1,7 +1,7 @@
 ---
 id: 09b7a50f-b2c0-413a-b623-a2d7e74c83ac
 blueprint: reihen
-title: '#made-to-measure'
+title: made-to-measure
 header_theme_selector: dark
 header_select: image
 header_image: 04_was-wir-tun/reihen-und-programme/made-to-measure/header_made-to-measure_(c)-matthias-heuermann-8.jpg
@@ -22,10 +22,10 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
-        text: '#made-to-measure '
+        text: 'made-to-measure '
       -
         type: text
         text: 'reagierte das Stegreif Orchester auf die Maßnahmen und Hygienekonzepte mit innovativem, '
@@ -33,7 +33,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'vernetztem Musizieren'
@@ -44,7 +44,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'interaktiven Online-Konzerten'
@@ -83,7 +83,7 @@ article:
               rel: null
               target: null
               title: null
-        text: '#freemahler - what the earth tells us'
+        text: 'freemahler - what the earth tells us'
       -
         type: text
         text: ',  das am 29.11.2020 als Interaktives Online-Konzert via Zoom uraufgeführt wurde.'
@@ -99,7 +99,7 @@ add_section:
           values:
             type: bard_partners
             headline: 'Förder*innen'
-            text: '#made-to-measure wird gefördert von: Die Beauftragte der Regierung für Kultur und Medien und NEUSTART Kultur.'
+            text: 'made-to-measure wird gefördert von: Die Beauftragte der Regierung für Kultur und Medien und NEUSTART Kultur.'
             entires:
               - 530d7673-e742-4ee9-be5d-3750c4220019
               - 90cc8a9e-1837-46bb-88f3-1bda9a49c29e
@@ -128,7 +128,7 @@ tags:
   - digital
 template: single_page
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1686051495
+updated_at: 1741961845
 details:
   -
     id: yVKzYHZ3
@@ -143,12 +143,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Künstlerische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Juri de Marco'
@@ -161,12 +161,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Künstlerische Assistenz'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Madeleine Onwuzulike'
@@ -179,12 +179,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Projektleitung
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Lorina Strange'
@@ -194,7 +194,7 @@ related_programme:
   - c0c4ac0a-71be-4e04-b312-271ed61025da
   - f6b44e75-0873-467b-a43a-f31dabea1b73
 quicklinks_enabled: false
-header_headline: '#made-to-measure'
+header_headline: made-to-measure
 headline: 'Aus Krisen kann neue Kreativität entstehen'
 featured: false
 ---

@@ -1,8 +1,8 @@
 ---
 id: aca9766a-cd6f-4d89-8fdf-a88185a9ac00
 blueprint: programme
-title: '#bechange: Acting'
-header_headline: '#bechange: Acting'
+title: 'bechange: Acting'
+header_headline: 'bechange: Acting'
 header_theme_selector: yellow
 header_select: image
 quicklinks_enabled: false
@@ -16,7 +16,7 @@ article:
     content:
       -
         type: text
-        text: 'Vom Fühlen zum Denken zum Handeln - mit #bechange: Acting widmet sich das Stegreif Orchester der vierten und letzten Komponistin der #bechange-Reihe: Emilie Mayer. Kein Attribut wird der großen Komponistin der Klassik dabei gerechter als das Handeln, hinterließ sie doch ein umfangreiches symphonisches und kammermusikalisches Werk und gilt somit als eine der produktivsten Komponistinnen ihrer Zeit.'
+        text: 'Vom Fühlen zum Denken zum Handeln - mit bechange: Acting widmet sich das Stegreif Orchester der vierten und letzten Komponistin der #bechange-Reihe: Emilie Mayer. Kein Attribut wird der großen Komponistin der Klassik dabei gerechter als das Handeln, hinterließ sie doch ein umfangreiches symphonisches und kammermusikalisches Werk und gilt somit als eine der produktivsten Komponistinnen ihrer Zeit.'
   -
     type: paragraph
     attrs:
@@ -24,12 +24,12 @@ article:
     content:
       -
         type: text
-        text: 'In #bechange: Acting legt die Rekomponistin '
+        text: 'In bechange: Acting legt die Rekomponistin '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Franziska Aller'
@@ -40,7 +40,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Alistair Duncan'
@@ -51,7 +51,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Sinfonie in F-Moll'
@@ -62,29 +62,29 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Emilie Mayer'
       -
         type: text
-        text: '. Daneben soll vor allem die instrumentale Improvisation als unmittelbarer Ausdrucks des Handelns eine Hauptrolle in #bechange: Acting spielen. Viele unterschiedliche Stile, Instrumente und Improvisationsformen werden dabei in die musikalische Dramaturgie eingewoben. Diese künstlerische Herangehensweise wird ebenfalls von Regisseur David Fernández aufgegriffen, der die Überlegungen als Ausgangspunkt einer Beschäftigung mit '
+        text: '. Daneben soll vor allem die instrumentale Improvisation als unmittelbarer Ausdrucks des Handelns eine Hauptrolle in bechange: Acting spielen. Viele unterschiedliche Stile, Instrumente und Improvisationsformen werden dabei in die musikalische Dramaturgie eingewoben. Diese künstlerische Herangehensweise wird ebenfalls von Regisseur David Fernández aufgegriffen, der die Überlegungen als Ausgangspunkt einer Beschäftigung mit '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'körperlichen Handlungsmechanismen'
       -
         type: text
-        text: ' und aktionistischen Formen in den gesellschaftlichen Kontext setzt. Vor dem Hintergrund des fortschreitenden Klimawandels stellt sich #bechange: Acting die Frage, welche Handlungen '
+        text: ' und aktionistischen Formen in den gesellschaftlichen Kontext setzt. Vor dem Hintergrund des fortschreitenden Klimawandels stellt sich bechange: Acting die Frage, welche Handlungen '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'zur Lösung beitragen'
@@ -100,7 +100,7 @@ article:
         size: medium
         select_type: video
         video: 'https://youtu.be/ORpmWSRoJjg'
-        media_caption: 'Trailer #bechange: acting | Youtube-Kanal von Stegreif'
+        media_caption: 'Trailer bechange: acting | Youtube-Kanal von Stegreif'
 add_section:
   -
     id: leo508cc
@@ -134,7 +134,7 @@ add_section:
           values:
             type: bard_partners
             headline: 'Förder*innen'
-            text: '#bechange wird gefördert von: Die Beauftragte der Bundesregierung für Kultur und Medien'
+            text: 'bechange wird gefördert von: Die Beauftragte der Bundesregierung für Kultur und Medien'
             entires:
               - 530d7673-e742-4ee9-be5d-3750c4220019
       -
@@ -159,7 +159,7 @@ select_type: programm
 related_reihe: 455ef639-911c-4d07-b57e-ed09648ff5e3
 template: single_page
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1709207340
+updated_at: 1741961109
 header_image: 04_was-wir-tun/reihen-und-programme/bechange_acting/202304_stegreif-orchester_bechange-acting3_(c)_helena-gladen.jpg
 details:
   -
@@ -201,12 +201,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Künstlerische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Juri de Marco & Lorenz Blaumer'
@@ -219,12 +219,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Projektleitung
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Immanuel de Gilde'
@@ -237,12 +237,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Rekomposition & Arrangement'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Franziska Aller'
@@ -255,12 +255,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Musikalische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Nikola Djurica'
@@ -273,12 +273,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Ko-Künstlerische Leitung (Komposition)'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Alistair Duncan'
@@ -291,12 +291,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Regie & Choreographie'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'David Fernandez'
@@ -309,12 +309,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Choreographische Mitarbeit'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Lea Hladka'
@@ -327,12 +327,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Lichtdesign
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Arnaud Poumarat'
@@ -345,12 +345,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Bühne & Kostüm'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Anja Kreher '
@@ -363,12 +363,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Dramaturgische Mitarbeit'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Catriona Fadke'
@@ -376,5 +376,5 @@ details:
     enabled: true
 related_termine:
   - 9410c347-1ae1-4090-ad2e-ca8b5187ddd7
-teaser_text: 'Rekomposition, Klangperformance und Improvisation auf der Grundlage der Musik von Emilie Mayer. Vom Fühlen zum Denken zum Handeln - mit #bechange: Acting widmet sich das Stegreif Orchester der vierten und letzten Komponistin der #bechange-Reihe.'
+teaser_text: 'Rekomposition, Klangperformance und Improvisation auf der Grundlage der Musik von Emilie Mayer. Vom Fühlen zum Denken zum Handeln - mit bechange: Acting widmet sich das Stegreif Orchester der vierten und letzten Komponistin der bechange-Reihe.'
 ---

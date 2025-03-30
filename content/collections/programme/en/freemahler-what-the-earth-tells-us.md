@@ -18,12 +18,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Artistic Director '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Juri de Marco'
@@ -36,12 +36,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Musical Director '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Franziska Aller'
@@ -54,12 +54,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Choreography
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Viola Schmitzer'
@@ -72,12 +72,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Costume Design'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Sophie Schliemann'
@@ -93,10 +93,10 @@ details:
                 type: bold
             text: RECOMPOSITION
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
           -
@@ -106,17 +106,17 @@ details:
                 type: bold
             text: '1st Movement: Arrangement #1'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Sebastian Caspar '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             marks:
@@ -135,17 +135,17 @@ details:
                 type: bold
             text: '2nd Movement: Ablösung im Sommer'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Malte Schiller '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             marks:
@@ -164,7 +164,7 @@ details:
                 type: bold
             text: '3rd Movement: Your Majesty, Earth'
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
                 type: bold
@@ -172,17 +172,17 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Franziska Aller & Alistair Duncan'
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
                 type: italic
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
           -
@@ -203,17 +203,17 @@ details:
                 type: bold
             text: '4th Movement: Arrangement #2'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Sebastian Caspar'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'based on 1st Symphony'
@@ -229,12 +229,12 @@ details:
                 type: bold
             text: '5th Movement: Eure Kinder wären aus bloßem Feuer mit Messern als Finger'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Claas Krause'
@@ -242,7 +242,7 @@ details:
             type: text
             text: ' '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             marks:
@@ -265,7 +265,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'beauty of nature '
@@ -276,7 +276,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'man-made climate change'
@@ -295,7 +295,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Stegreif Orchestra'
@@ -306,7 +306,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Song of the Earth'
@@ -317,7 +317,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Wunderhorn songs'
@@ -336,7 +336,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'solutions '
@@ -347,7 +347,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'change in consciousness'
@@ -360,7 +360,7 @@ article:
       class: null
     content:
       -
-        type: hard_break
+        type: hardBreak
 add_section:
   -
     id: pKH1uM3D
@@ -402,11 +402,11 @@ add_section:
           id: HMytGZTH
           values:
             type: bard_partners
-            headline: 'PARTNERS '
-            text: '#freemahler - what the earth tells us was premiered as an interactive online concert as part of the #made-to-measure series, funded by: Die Beauftragte der Regierung für Kultur und Medien.'
+            headline: PARTNERS
+            text: 'freemahler - what the earth tells us was premiered as an interactive online concert as part of the made-to-measure series, funded by: Die Beauftragte der Regierung für Kultur und Medien.'
             entires:
               - 530d7673-e742-4ee9-be5d-3750c4220019
               - 90cc8a9e-1837-46bb-88f3-1bda9a49c29e
-updated_by: 5c84a3c2-1f9f-4c46-ace2-d9eaf068d261
-updated_at: 1686050566
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1741961548
 ---

@@ -1,9 +1,9 @@
 ---
 id: 376aac13-a090-426a-ac18-03aae7e76d0c
 origin: eb2ba480-d785-46df-8377-5bd82190e14f
-title: '#FREE∃ROICA at Theater im Delphi'
-header_headline: '#FREE∃ROICA at Theater im Delphi'
-teaser_text: 'Invitation to celebrate the start of the 10th anniversary of Stegreif together with #free∃roica at the Theater im Delphi on March 29 and 30, 2025.'
+title: 'FREE∃ROICA at Theater im Delphi'
+header_headline: 'FREE∃ROICA at Theater im Delphi'
+teaser_text: 'Invitation to celebrate the start of the 10th anniversary of Stegreif together with free∃roica at the Theater im Delphi on March 29 and 30, 2025.'
 details:
   -
     id: m5l0a86w
@@ -18,12 +18,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Musical Lead'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Sebastian Caspar'
@@ -36,12 +36,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Recomposition, Arrangement'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Mike Conrad, Alistair Duncan'
@@ -54,12 +54,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Direction, Scenography'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'David Fernández, Franziska Ritter'
@@ -72,12 +72,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Lightdesign
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Arnaud Poumarat'
@@ -104,17 +104,17 @@ details:
                   title: 'Website des Theaters im Delphi'
             text: 'Theater im Delphi'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Gustav-Adolf-Straße 2'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '13086 Berlin'
           -
-            type: hard_break
+            type: hardBreak
     type: detail
     enabled: true
   -
@@ -130,7 +130,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '25'
@@ -138,12 +138,12 @@ details:
             type: text
             text: " €\_regular"
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '16'
@@ -159,7 +159,7 @@ details:
             buttons:
               -
                 id: m5nnv5cr
-                label: 'buchen '
+                label: buchen
                 target_blank: true
                 button_type: background
                 link_type: url
@@ -194,7 +194,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: '10th anniversary'
@@ -204,7 +204,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: ','
@@ -221,7 +221,7 @@ article:
               rel: null
               target: null
               title: null
-        text: '#free∃roica.'
+        text: free∃roica.
   -
     type: paragraph
     attrs:
@@ -229,7 +229,7 @@ article:
     content:
       -
         type: text
-        text: "#free∃roica is dedicated to revolutions and new beginnings - both historically and musically. Stegreif's founding vision is more evident in #free∃roica than in any other of our projects: Without sheet music, without a conductor and without seating arrangements, the orchestra breaks with the conventions of the classical concert from the very beginning and opens up new perspectives."
+        text: "free∃roica is dedicated to revolutions and new beginnings - both historically and musically. Stegreif's founding vision is more evident in free∃roica than in any other of our projects: Without sheet music, without a conductor and without seating arrangements, the orchestra breaks with the conventions of the classical concert from the very beginning and opens up new perspectives."
   -
     type: paragraph
     attrs:
@@ -237,7 +237,7 @@ article:
     content:
       -
         type: text
-        text: "#free∃roica is a performative and musical departure, inspired by Beethoven's Eroica - a symbol of Stegreif's revolutionary approach to traditional concepts of classical music. The familiar is deconstructed, recomposed and presented in a surprising light through improvisation. The result is a completely new interpretation of Beethoven's masterpiece: bars are broken up, oversized props set accents and the orchestra's positioning is constantly rethought."
+        text: "free∃roica is a performative and musical departure, inspired by Beethoven's Eroica - a symbol of Stegreif's revolutionary approach to traditional concepts of classical music. The familiar is deconstructed, recomposed and presented in a surprising light through improvisation. The result is a completely new interpretation of Beethoven's masterpiece: bars are broken up, oversized props set accents and the orchestra's positioning is constantly rethought."
   -
     type: paragraph
     attrs:
@@ -245,7 +245,7 @@ article:
     content:
       -
         type: text
-        text: "This program makes Beethoven's quest for the unexpected just as tangible as Stegreif's own vision of a musical awakening. #free∃roica is a tribute to the beginnings of Stegreif and at the same time a revolutionary journey through time - from the French Revolution of the 18th century to the present day."
+        text: "This program makes Beethoven's quest for the unexpected just as tangible as Stegreif's own vision of a musical awakening. free∃roica is a tribute to the beginnings of Stegreif and at the same time a revolutionary journey through time - from the French Revolution of the 18th century to the present day."
   -
     type: paragraph
     attrs:
@@ -260,7 +260,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: '10 concerts with 5 different programs '
@@ -298,17 +298,28 @@ add_section:
       -
         type: set
         attrs:
-          id: m5wm26jp
+          id: m8h9k3yv
+          values:
+            type: bard_media
+            size: medium
+            select_type: video
+            video: 'https://youtu.be/mjyPpPwhwmU?si=Aw5sQmFYX2XZ8vXQ'
+            media_caption: 'free∃roica Trailer | YouTube Kanal von Stegreif'
+  -
+    id: m8h9hhrh
+    theme_selector: dark
+    article:
+      -
+        type: set
+        attrs:
+          id: m8h9hkoa
           values:
             type: bard_partners
             headline: Support
-            text: '#freeeroica takes place as part of the project 10xStegreif, funded by the Hauptstadtkulturfonds. '
+            text: 'freeeroica takes place as part of the project 10xStegreif, funded by the Hauptstadtkulturfonds and the Karl Schlecht Stiftung'
             entires:
               - 20a05032-00e6-4400-8208-da4eb1b47312
-      -
-        type: paragraph
-        attrs:
-          class: null
-updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
-updated_at: 1737374031
+              - 2df23599-4ef8-44d1-bef8-f6d91c3d85cb
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1742469897
 ---

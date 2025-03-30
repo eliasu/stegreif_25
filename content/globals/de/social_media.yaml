@@ -1,11 +1,5 @@
 social_media:
   -
-    id: kynMAYyO
-    handle: stegreiforchester
-    prefix: 'https://www.facebook.com/'
-    type: facebook
-    enabled: true
-  -
     id: cX724NWI
     handle: stegreif
     prefix: 'https://www.instagram.com/'
@@ -22,4 +16,10 @@ social_media:
     handle: '@stegreif'
     prefix: 'https://www.tiktok.com/'
     type: tiktok
+    enabled: true
+  -
+    id: kynMAYyO
+    handle: stegreiforchester
+    prefix: 'https://www.facebook.com/'
+    type: facebook
     enabled: true

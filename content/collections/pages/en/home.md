@@ -14,7 +14,7 @@ introduction_content:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Stegreif.
@@ -73,7 +73,7 @@ support_us_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: Stegreif
@@ -106,19 +106,27 @@ support_us_content:
   -
     type: set
     attrs:
-      id: mF3iId7f
+      id: m88v9p4l
       values:
         type: bard_partners
         headline: 'Stegreif Supporters'
-        text: 'We want to thank our current supporters for their great contribution '
+        text: 'We want to thank our current supporters for their great contribution'
         entires:
           - 530d7673-e742-4ee9-be5d-3750c4220019
-          - 90cc8a9e-1837-46bb-88f3-1bda9a49c29e
-          - 20a05032-00e6-4400-8208-da4eb1b47312
-          - eb680d69-989e-454a-a9c7-c5ecabae4c2a
           - 0ada25f7-f85a-48fb-b3ad-cbeb7aa45ce7
           - 7319da4b-3664-4dd3-9898-cd672a5328a0
           - 1ca1e23b-8c62-484f-967b-ee98ff09cc86
-updated_by: 5c84a3c2-1f9f-4c46-ace2-d9eaf068d261
-updated_at: 1680090357
+          - 911d3735-69fe-442f-b64c-a5776796c232
+          - ef5ab1f0-49d7-48f8-b371-2e096c3564ac
+          - 7118708f-3836-4e7c-8ede-ebc299d42f69
+          - 26b2f31d-bc53-48d6-a321-a98646875e2a
+          - f38c938f-0e62-45b1-8739-4415e6d9c23e
+          - abf9d61a-63e3-4748-8a2f-e8fbd1badc8f
+          - 235bfd85-13bb-4597-88cd-69af3f40af5b
+          - 20a05032-00e6-4400-8208-da4eb1b47312
+          - 3254f831-2e9f-40c7-baca-a409a561be18
+          - e432526a-78dd-4bfe-8150-70bc3a1d9643
+          - c429f77f-fe3e-417e-8555-f5a3d64b6e35
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1741962136
 ---

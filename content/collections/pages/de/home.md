@@ -9,6 +9,45 @@ header_image: 01_home/headerbild-(c)-andreas-beetz-jpg.jpg
 select_section_theme_intro: dark
 introduction_content:
   -
+    type: paragraph
+    attrs:
+      class: 'text-2xl leading-l'
+    content:
+      -
+        type: text
+        text: 'Wir feiern 2025 unseren '
+      -
+        type: text
+        marks:
+          -
+            type: btsSpan
+            attrs:
+              class: text-skin-primary
+        text: '10-jährigen Geburtstag'
+      -
+        type: text
+        text: ' mit fünf Programmen und zehn Konzerten in Berlin – mehr Stegreif geht nicht!'
+  -
+    type: set
+    attrs:
+      id: m6up4ke6
+      values:
+        type: bard_buttons
+        buttons:
+          -
+            id: m6up4lac
+            label: '10 Jahre Stegreif'
+            target_blank: true
+            button_type: background
+            link_type: entry
+            entry: 5e8ea375-f842-4f00-9f15-594ba8bb47a2
+            type: button
+            enabled: true
+  -
+    type: paragraph
+    attrs:
+      class: null
+  -
     type: heading
     attrs:
       level: 5
@@ -20,7 +59,7 @@ introduction_content:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Stegreif.
@@ -45,7 +84,7 @@ introduction_content:
         buttons:
           -
             id: m1g6d3cf
-            label: 'Wer wir sind '
+            label: 'Wer wir sind'
             target_blank: true
             button_type: background
             link_type: entry
@@ -69,7 +108,7 @@ introduction_content:
         buttons:
           -
             id: Jt2o0328
-            label: 'Be:Family '
+            label: 'Be:Family'
             target_blank: false
             button_type: background
             link_type: entry
@@ -105,7 +144,7 @@ support_us_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: Stegreif
@@ -169,15 +208,15 @@ support_us_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'Stegreif '
               -
-                type: hard_break
+                type: hardBreak
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
               -
@@ -195,7 +234,7 @@ support_us_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'Lorina Strange'
@@ -232,11 +271,17 @@ support_us_content:
           - 0ada25f7-f85a-48fb-b3ad-cbeb7aa45ce7
           - 7319da4b-3664-4dd3-9898-cd672a5328a0
           - 1ca1e23b-8c62-484f-967b-ee98ff09cc86
-          - 338aff19-b0fc-40ec-8c2d-b34025f99ce2
           - 911d3735-69fe-442f-b64c-a5776796c232
           - ef5ab1f0-49d7-48f8-b371-2e096c3564ac
-          - 27e5643d-c013-4148-81a4-80658a209818
           - 7118708f-3836-4e7c-8ede-ebc299d42f69
+          - 26b2f31d-bc53-48d6-a321-a98646875e2a
+          - f38c938f-0e62-45b1-8739-4415e6d9c23e
+          - abf9d61a-63e3-4748-8a2f-e8fbd1badc8f
+          - 235bfd85-13bb-4597-88cd-69af3f40af5b
+          - 20a05032-00e6-4400-8208-da4eb1b47312
+          - 3254f831-2e9f-40c7-baca-a409a561be18
+          - e432526a-78dd-4bfe-8150-70bc3a1d9643
+          - c429f77f-fe3e-417e-8555-f5a3d64b6e35
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -244,14 +289,15 @@ sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 select_transition_theme: bird
 template: home
-updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
-updated_at: 1727167119
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1741962049
 all_dates_page: f971080c-39a4-482d-a8ea-7e9bf7829075
 all_news_page: e1bace27-af9e-454e-a661-fe249340ae1d
 all_productions_page: c72b457f-66a2-4aa7-a7f2-1fc5a5df50a7
 related_productions:
-  - e3f61a48-d5da-4fe6-b316-77e76becce24
+  - 5e8ea375-f842-4f00-9f15-594ba8bb47a2
   - f6e765af-9770-4039-967b-4ca4897f312c
   - ce7784db-be0a-479f-8513-9c8a3e781e06
+  - 70797547-1ba0-41bf-80f5-0020e0973317
 quicklinks_enabled: false
 ---

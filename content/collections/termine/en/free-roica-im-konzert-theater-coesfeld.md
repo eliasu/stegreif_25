@@ -1,105 +1,9 @@
 ---
 id: 62a64737-5462-4e36-9a40-bb5f12c4e851
 origin: b9108b58-9573-4b9a-acc5-27b193fdfacf
-title: '#free∃roica in coesfeld'
+title: 'free∃roica in coesfeld'
 teaser_text: 'WITHOUT SHEET MUSIC, CONDUCTOR AND CHAIRS'
 details:
-  -
-    id: m1oz06f0
-    headline: Team
-    description:
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bts_span
-                attrs:
-                  class: text-skin-primary
-            text: 'recomposition, arrangement, musical lead'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Alistair Duncan'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bts_span
-                attrs:
-                  class: text-skin-primary
-            text: 'direction, Choreography'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'David Fernandez'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bts_span
-                attrs:
-                  class: text-skin-primary
-            text: 'direction, scenography'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Gineke Pranger'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bts_span
-                attrs:
-                  class: text-skin-primary
-            text: lightdesign
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Arnaud Poumarat'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bts_span
-                attrs:
-                  class: text-skin-primary
-            text: costume
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Lena Böckmann'
-    type: detail
-    enabled: true
   -
     id: m1oyrtuc
     headline: 'Where?'
@@ -121,12 +25,12 @@ details:
                   title: null
             text: 'konzert theater coesfeld'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Osterwicker Straße 31'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '48653 Coesfeld'
@@ -145,7 +49,7 @@ details:
             type: text
             text: "Ernsting Stiftung\_"
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Alter Hof Herding'
@@ -164,7 +68,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '25,00'
@@ -175,7 +79,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '28,00'
@@ -186,7 +90,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '31,00'
@@ -205,7 +109,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '12,50 '
@@ -216,7 +120,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '14,00 '
@@ -245,6 +149,84 @@ details:
           class: null
     type: detail
     enabled: true
+  -
+    id: m1oz06f0
+    headline: Team
+    description:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: 'musical lead'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Sebastian Caspar'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: 'recomposition, arrangement'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Mike Conrad, Alistair Duncan'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: statging
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'David Fernández, Franziska Ritter'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: 'light design'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Arnaud Poumarat'
+    type: detail
+    enabled: true
 headline: 'WITHOUT SHEET MUSIC, CONDUCTOR AND CHAIRS'
 article:
   -
@@ -259,7 +241,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'free spirits, revolutionaries and dissenters'
@@ -278,7 +260,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'without sheet music, without a conductor and without chairs'
@@ -289,7 +271,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Beethoven’s new and bold work.'
@@ -320,6 +302,6 @@ add_section:
         type: paragraph
         attrs:
           class: null
-updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
-updated_at: 1734963009
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1742469452
 ---

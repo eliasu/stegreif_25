@@ -18,12 +18,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Artistic director'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Juri de Marco'
@@ -36,15 +36,15 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Musical leader'
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
           -
@@ -59,12 +59,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Recomposition/arrangement
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Uri Caine, Juri de Marco, Alistair Duncan, Bertram Burkert'
@@ -77,12 +77,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Directing, Choreography'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'David Fernández'
@@ -95,12 +95,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Lighting design'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Andreas Harder'
@@ -113,12 +113,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Costume design'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Sophie Schliemann'
@@ -137,7 +137,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: borders
@@ -148,7 +148,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'European Symphony'
@@ -159,7 +159,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'folk musics'
@@ -182,23 +182,23 @@ article:
     content:
       -
         type: text
-        text: '#bfree was created as part of the '
+        text: 'bfree was created as part of the '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: '#beethoven'
       -
         type: text
-        text: ' project as a contribution to the Beethoven Year 2020. #bfree came of age during the pandemic became a different production than originally planned. Not only the process, but also the result were shaped by the crisis: Where Stegreif usually seeks closeness and motion, there were social distancing and other constraints. The possibilities for movement on stage were limited, direct contact with the audience impossible. And yet it has become a work about freedom, about longing for '
+        text: ' project as a contribution to the Beethoven Year 2020. bfree came of age during the pandemic became a different production than originally planned. Not only the process, but also the result were shaped by the crisis: Where Stegreif usually seeks closeness and motion, there were social distancing and other constraints. The possibilities for movement on stage were limited, direct contact with the audience impossible. And yet it has become a work about freedom, about longing for '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: intimacy
@@ -209,7 +209,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: togetherness
@@ -220,7 +220,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: flight
@@ -231,7 +231,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'across all border'
@@ -246,6 +246,20 @@ article:
       -
         type: text
         text: 'Fotos: Navina Neuschl'
+extend_section:
+  -
+    id: n3xBNNtu
+    article:
+      -
+        type: set
+        attrs:
+          id: WoJJytbb
+          values:
+            type: bard_media
+            size: big
+            select_type: video
+            video: 'https://youtu.be/x1UWpBR0LPc'
+            media_caption: 'bfree Teaser | YouTube-Kanal von Stegreif'
 add_section:
   -
     id: YjxKRJwx
@@ -289,5 +303,5 @@ add_section:
               - 82113a72-28ad-4a56-8979-cb3bfd8e05b3
               - 0ada25f7-f85a-48fb-b3ad-cbeb7aa45ce7
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1680268186
+updated_at: 1741961368
 ---

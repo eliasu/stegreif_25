@@ -4,88 +4,6 @@ origin: adff9ae9-3221-44a9-b346-a67fe801dc17
 teaser_text: 'WITHOUT SHEET MUSIC, CONDUCTOR AND CHAIRS'
 details:
   -
-    id: m4sk3bbz
-    headline: Team
-    description:
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bts_span
-                attrs:
-                  class: text-skin-primary
-            text: 'musical lead'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Sebastian Caspar'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bts_span
-                attrs:
-                  class: text-skin-primary
-            text: 'recomposition, arrangement'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Mike Conrad, Alistair Duncan'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bts_span
-                attrs:
-                  class: text-skin-primary
-            text: 'direction, szenography'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'David Fernández, Franziska Ritter'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bts_span
-                attrs:
-                  class: text-skin-primary
-            text: lightdesign
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Arnaud Poumarat'
-      -
-        type: paragraph
-        attrs:
-          class: null
-    type: detail
-    enabled: true
-  -
     id: m4sk23wi
     headline: 'Where?'
     description:
@@ -106,12 +24,12 @@ details:
                   title: null
             text: 'Jazzhall Hamburg '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Milchstraße 12'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '20148 Hamburg'
@@ -130,7 +48,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '35€ '
@@ -141,7 +59,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 24€
@@ -152,12 +70,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 11€
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: soli/regular/reduced
@@ -181,6 +99,84 @@ details:
         type: paragraph
         attrs:
           class: null
+    type: detail
+    enabled: true
+  -
+    id: m4sk3bbz
+    headline: Team
+    description:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: 'musical lead'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Sebastian Caspar'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: 'recomposition, arrangement'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Mike Conrad, Alistair Duncan'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: 'direction, szenography'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'David Fernández, Franziska Ritter'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: lightdesign
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Arnaud Poumarat'
     type: detail
     enabled: true
 article:
@@ -220,7 +216,21 @@ add_section:
       -
         type: set
         attrs:
-          id: m4ska08v
+          id: m8h9zaus
+          values:
+            type: bard_media
+            size: medium
+            select_type: video
+            video: 'https://youtu.be/mjyPpPwhwmU?si=nRQiyXYslTTgF3p_'
+            media_caption: 'Trailer free∃roica | Stegreif YouTube'
+  -
+    id: m8h9z3nw
+    theme_selector: dark
+    article:
+      -
+        type: set
+        attrs:
+          id: m8h9z6k8
           values:
             type: bard_partners
             headline: supporters
@@ -228,11 +238,8 @@ add_section:
               - e432526a-78dd-4bfe-8150-70bc3a1d9643
               - c429f77f-fe3e-417e-8555-f5a3d64b6e35
               - 26b2f31d-bc53-48d6-a321-a98646875e2a
-            text: '#free∃roica takes place as part of the Stegreif@Jazzhall project, sponsored by the ZEIT STIFTUNG BUCERIUS, the Claussen Simon Foundation and the Rusch Foundation.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
-updated_at: 1734962946
+              - 2176a336-f4ca-41f0-aac4-3695646c4ab6
+            text: 'free∃roica takes place as part of the Stegreif@Jazzhall project, sponsored by the ZEIT STIFTUNG BUCERIUS, the Claussen Simon Foundation and the Rusch Foundation.'
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1742470659
 ---

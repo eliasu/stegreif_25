@@ -1,7 +1,7 @@
 ---
 id: 94f89ebc-c1df-4bec-8a79-3aad0866df65
 origin: 5823a46a-e53f-4b1e-87ea-3c598b3a6d26
-teaser_text: '8 workshops with young orchestras form the basis of the #freesolo project. Together, they will explore how individual leadership styles and improvisation methods can be applied to a symphonic orchestra'
+teaser_text: '8 workshops with young orchestras form the basis of the freesolo project. Together, they will explore how individual leadership styles and improvisation methods can be applied to a symphonic orchestra'
 article:
   -
     type: paragraph
@@ -15,7 +15,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: hierarchically
@@ -26,7 +26,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Collective, democratic and collaborative work'
@@ -37,13 +37,13 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'necessary know-how'
       -
         type: text
-        text: '. Since its foundation, the Stegreif Orchestra has been cultivating a collective musical collaboration and is now passing on this experience with the #freesolo project. '
+        text: '. Since its foundation, the Stegreif Orchestra has been cultivating a collective musical collaboration and is now passing on this experience with the freesolo project. '
   -
     type: paragraph
     attrs:
@@ -56,7 +56,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'improvisation workshops'
@@ -67,7 +67,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'youth orchestras'
@@ -78,7 +78,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'requirements of each sound apparatus'
@@ -89,7 +89,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'improvisation and composition professor Noam Sivan'
@@ -121,7 +121,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Workbook
@@ -137,7 +137,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'didactic foundation'
@@ -148,7 +148,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'youth orchestras'
@@ -159,7 +159,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'improvisation approach'
@@ -189,10 +189,10 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
-                    text: '#freesolo'
+                    text: freesolo
               -
                 type: paragraph
                 attrs:
@@ -200,12 +200,12 @@ add_section:
                 content:
                   -
                     type: text
-                    text: '#freesolo deals with these '
+                    text: 'freesolo deals with these '
                   -
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'forms of social coexistence'
@@ -216,7 +216,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'autocracy '
@@ -227,7 +227,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: democracy
@@ -238,7 +238,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'loud demands'
@@ -249,7 +249,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'careful listening'
@@ -260,7 +260,7 @@ add_section:
                     type: text
                     marks:
                       -
-                        type: bts_span
+                        type: btsSpan
                         attrs:
                           class: text-skin-primary
                     text: 'classical orchestral system'
@@ -295,9 +295,9 @@ add_section:
           values:
             type: bard_partners
             headline: 'Förder*innen'
-            text: '#freesolo wird im Rahmen des Programms Exzellente Orchesterlandschaft gefördert von: Die Beauftragte der Bundesregierung für Kultur und Medien.'
+            text: 'freesolo wird im Rahmen des Programms Exzellente Orchesterlandschaft gefördert von: Die Beauftragte der Bundesregierung für Kultur und Medien.'
             entires:
               - 530d7673-e742-4ee9-be5d-3750c4220019
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1709294860
+updated_at: 1741960644
 ---

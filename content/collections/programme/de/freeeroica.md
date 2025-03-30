@@ -1,8 +1,8 @@
 ---
 id: 18ff1954-886b-4096-aefd-60e416f0d59e
 blueprint: programme
-title: '#free∃roica'
-header_headline: '#free∃roica'
+title: free∃roica
+header_headline: free∃roica
 header_theme_selector: dark
 header_select: image
 header_image: 04_was-wir-tun/reihen-und-programme/freeeroica/header_freeeroica_neubrandenburg_(c)-oliver-borchert-(38)_lowres.jpg
@@ -52,8 +52,8 @@ select_transition_theme: bird
 aktuell: true
 select_type: programm
 template: single_page
-updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
-updated_at: 1738234055
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1741960768
 headline: 'ohne Noten, Dirigent*in und Stühle'
 article:
   -
@@ -63,7 +63,7 @@ article:
     content:
       -
         type: text
-        text: 'Stegreif liebt sie, die Freigeister, Revolutionäre und Andersdenkenden. All jene, die ihre Vorstellungen von der Welt hatten und sich nicht scheuten, diese auch zu leben. Nach #freebeethoven widmet sich das Orchester noch einmal dem ersten selbstbestimmt freischaffenden Komponisten der Klassikgeschichte und seiner dritten Sinfonie.'
+        text: 'Stegreif liebt sie, die Freigeister, Revolutionäre und Andersdenkenden. All jene, die ihre Vorstellungen von der Welt hatten und sich nicht scheuten, diese auch zu leben. Nach freebeethoven widmet sich das Orchester noch einmal dem ersten selbstbestimmt freischaffenden Komponisten der Klassikgeschichte und seiner dritten Sinfonie.'
   -
     type: paragraph
     attrs:
@@ -76,7 +76,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Eroica
@@ -90,12 +90,12 @@ article:
     content:
       -
         type: text
-        text: '#free∃roica handelt von '
+        text: 'free∃roica handelt von '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Revolutionen '
@@ -106,7 +106,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Helden
@@ -117,7 +117,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Improvisation '
@@ -128,7 +128,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'gesprengte Orchesteraufstellungen'
@@ -139,7 +139,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Hörerwartungen '
@@ -169,15 +169,15 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
-            text: 'Künstlerische Leitung'
+            text: 'Musikalische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: 'Juri de Marco'
+            text: 'Sebastian Caspar'
       -
         type: paragraph
         attrs:
@@ -187,15 +187,15 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Rekomposition, Arrangement'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: 'Alistair Duncan, Mike Conrad'
+            text: 'Mike Conrad, Alistair Duncan'
       -
         type: paragraph
         attrs:
@@ -205,15 +205,15 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
-            text: 'Regie, Choreographie'
+            text: Inszenierung
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: 'David Fernandez'
+            text: 'David Fernández, Franziska Ritter'
       -
         type: paragraph
         attrs:
@@ -223,19 +223,15 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
-            text: Produktion
+            text: Lichtdesign
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: 'Lea Hladka'
-      -
-        type: paragraph
-        attrs:
-          class: null
+            text: 'Arnaud Poumarat'
     type: detail
     enabled: true
 featured: false
@@ -244,4 +240,5 @@ related_termine:
   - adff9ae9-3221-44a9-b346-a67fe801dc17
   - c58869e5-9441-49a7-abae-cc83fdd84a24
   - eb2ba480-d785-46df-8377-5bd82190e14f
+  - e00356ba-b927-4d5b-a91b-8e1c01b861f4
 ---

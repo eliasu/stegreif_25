@@ -16,22 +16,22 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Artistic Director'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Anne-Sophie Bereuter'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Juri de Marco'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Lorenz Blaumer'
@@ -44,12 +44,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Project manager'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Lorina Strange'
@@ -64,7 +64,7 @@ article:
     content:
       -
         type: text
-        text: '#burntolearn is something very special to Stegreif: a creative oasis, a place to try things out and to experiment. This is because,within the framework of this project, the orchestra members can join together to work on themselves.'
+        text: 'burntolearn is something very special to Stegreif: a creative oasis, a place to try things out and to experiment. This is because,within the framework of this project, the orchestra members can join together to work on themselves.'
   -
     type: paragraph
     attrs:
@@ -77,7 +77,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'interpretation '
@@ -88,7 +88,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'improvisation '
@@ -99,7 +99,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'composition '
@@ -110,7 +110,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: bodywork
@@ -133,12 +133,12 @@ article:
     content:
       -
         type: text
-        text: '#burntolearn is the burning desire for further development, for growing together: For one year, the musicians can learn from each other and from external lecturers. In several labs, Stegreif’s '
+        text: 'burntolearn is the burning desire for further development, for growing together: For one year, the musicians can learn from each other and from external lecturers. In several labs, Stegreif’s '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'four pillars'
@@ -163,7 +163,7 @@ article:
               rel: null
               target: null
               title: null
-        text: '#improFest'
+        text: improFest
       -
         type: text
         text: .
@@ -192,11 +192,11 @@ add_section:
           values:
             type: bard_partners
             headline: Partners
-            text: '#burntolearn is funded within the framework of NEUSTART KULTUR Ensembleförderung by: Die Beauftragte der Bundesregierung für Kultur und Medien.'
+            text: 'burntolearn is funded within the framework of NEUSTART KULTUR Ensembleförderung by: Die Beauftragte der Bundesregierung für Kultur und Medien.'
             entires:
               - 530d7673-e742-4ee9-be5d-3750c4220019
               - 90cc8a9e-1837-46bb-88f3-1bda9a49c29e
               - ef5ab1f0-49d7-48f8-b371-2e096c3564ac
-updated_by: 5c84a3c2-1f9f-4c46-ace2-d9eaf068d261
-updated_at: 1686051047
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1741961414
 ---

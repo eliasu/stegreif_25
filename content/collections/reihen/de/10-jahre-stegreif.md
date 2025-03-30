@@ -11,7 +11,7 @@ teaser_text: '2025 feiert Stegreif seinen 10-jährigen Geburtstag und präsentie
 details:
   -
     id: m5ze8w5c
-    headline: '#free∃roica im Theater im Delphi'
+    headline: 'Berlin: free∃roica im Theater im Delphi'
     description:
       -
         type: paragraph
@@ -72,39 +72,209 @@ details:
     enabled: true
   -
     id: m5ze9tc5
-    headline: '#explore_händel im Planetarium Vorverkauf ab Mitte Februar'
+    headline: 'Berlin: explore_händel im Zeiss Großplanetarium'
     description:
       -
         type: paragraph
         attrs:
           class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::cf27ddcc-ad0b-4395-9ba6-0dbc8b9c33e5'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: '05. Juni, 20 Uhr '
+          -
+            type: hardBreak
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::60d0ea83-59bb-416e-b391-5bc8e4b9e4b4'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: '06. Juni, 20 Uhr'
     type: detail
     enabled: true
   -
     id: m5ze9sai
-    headline: '#freesolo im Kühlhaus  Vorverkauf demnächst'
+    headline: 'Berlin: freesolo im Kühlhaus Vorverkauf demnächst'
     description:
       -
         type: paragraph
         attrs:
           class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::fce1efb7-86cd-481b-9ff2-7d2f35bd1560'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: underline
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: '05. Juli, 20 Uhr'
+          -
+            type: hardBreak
+            marks:
+              -
+                type: underline
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::e23119c0-51ed-4185-b8f2-a55c1e3c6a0a'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: underline
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: '06. Juli, 20 Uhr '
     type: detail
     enabled: true
   -
     id: m5ze9r7q
-    headline: '#freebruckner im Konzerthaus Berlin  Vorverkauf demnächst'
+    headline: 'Berlin: freebruckner im Konzerthaus Berlin  Vorverkauf demnächst'
     description:
       -
         type: paragraph
         attrs:
           class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::d0b04c04-978d-401d-9881-4478d8ad2b1c'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: underline
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: '04. Oktober, 20 Uhr'
+          -
+            type: hardBreak
+            marks:
+              -
+                type: underline
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::d0b04c04-978d-401d-9881-4478d8ad2b1c'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: underline
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: '05. Oktober, 20 Uhr'
     type: detail
     enabled: true
   -
     id: m6rq7qwz
-    headline: 'feel:free im Radialsystem Vorverkauf demnächst'
+    headline: 'Berlin: feel:free im Radialsystem Vorverkauf demnächst'
     type: detail
     enabled: true
+    description:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::195b13b4-f2b8-4a5c-99d8-4c34258a228c'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: underline
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: '30. Dezember, 20 Uhr'
+          -
+            type: hardBreak
+            marks:
+              -
+                type: underline
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::ac024edb-a6a2-4d0a-a223-b7bb773e260f'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: underline
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: '31. Dezember, 20 Uhr'
 theme_selector: yellow
 headline: '10 Jahre Stegreif - feiert mit uns!'
 article:
@@ -226,7 +396,7 @@ add_section:
                 type: btsSpan
                 attrs:
                   class: text-skin-primary
-            text: '#free∃roica'
+            text: free∃roica
           -
             type: text
             marks:
@@ -261,7 +431,7 @@ add_section:
                 type: btsSpan
                 attrs:
                   class: text-skin-primary
-            text: '#explore_händel:'
+            text: 'explore_händel:'
           -
             type: text
             text: " Im Juni laden wir euch ins Planetarium ein, wo in intimer Atmosphäre Barock und Jazz auf einzigartige Weise miteinander fusionieren.\_"
@@ -286,7 +456,7 @@ add_section:
                 type: btsSpan
                 attrs:
                   class: text-skin-primary
-            text: '#freesolo'
+            text: freesolo
           -
             type: text
             marks:
@@ -322,7 +492,7 @@ add_section:
                 type: btsSpan
                 attrs:
                   class: text-skin-primary
-            text: '#freebruckner:'
+            text: 'freebruckner:'
           -
             type: text
             text: " Im Oktober feiern wir unsern tatsächlichen Gründungstag im Konzerthaus Belrin mit einer großen bruckner Sinfonie.\_\_"
@@ -335,12 +505,19 @@ add_section:
             type: text
             marks:
               -
+                type: link
+                attrs:
+                  href: 'statamic://entry::195b13b4-f2b8-4a5c-99d8-4c34258a228c'
+                  rel: null
+                  target: null
+                  title: null
+              -
                 type: bold
               -
                 type: btsSpan
                 attrs:
                   class: text-skin-primary
-            text: '#feel:free: '
+            text: 'feel:free: '
           -
             type: text
             text: 'Silvesterparty im Radialsystem! Am Ort des aller ersten Stegreif-Konzerts schließen wir unser Jubiläumsjahr ab mit einem neuen Programm voller Improvisation.'
@@ -389,10 +566,6 @@ add_section:
               - 04_was-wir-tun/reihen-und-programme/explore_haendel/explore_handel_berlin-2024-c)-navina-neuschl--1518.jpg
               - 04_was-wir-tun/reihen-und-programme/freebruckner/20240810_-freebruckner_(c)oliver_erenyi_linz_brucknerfest(6).JPG
             gallery_title: Impressionen
-      -
-        type: paragraph
-        attrs:
-          class: null
   -
     id: m5ze1g26
     theme_selector: light
@@ -417,6 +590,6 @@ select_transition_theme: bird
 aktuell: true
 featured: false
 template: single_page
-updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
-updated_at: 1738749005
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1743169002
 ---

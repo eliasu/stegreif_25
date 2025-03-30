@@ -1,98 +1,12 @@
 ---
 id: b9108b58-9573-4b9a-acc5-27b193fdfacf
 blueprint: termine
-title: '#free∃roica im konzert theater coesfeld'
+title: 'free∃roica im konzert theater coesfeld'
 header_theme_selector: dark
 header_select: image
 quicklinks_enabled: false
 teaser_text: 'Stegreif liebt sie, die Freigeister, Revolutionäre und Andersdenkenden und widmet sich noch einmal dem ersten selbstbestimmt freischaffenden Komponisten der Klassikgeschichte und seiner 3. Sinfonie.'
 details:
-  -
-    id: m1oz06f0
-    headline: Team
-    description:
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: bts_span
-                attrs:
-                  class: text-skin-primary
-            text: 'Musikalische Leitung'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Sebastian Caspar'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: bts_span
-                attrs:
-                  class: text-skin-primary
-            text: 'Rekomposition, Arrangement'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Mike Conrad, Alistair Duncan'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: bts_span
-                attrs:
-                  class: text-skin-primary
-            text: 'Regie, Szenographie'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'David Fernández, Franziska Ritter'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: bts_span
-                attrs:
-                  class: text-skin-primary
-            text: Lichtdesign
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Arnaud Poumarat'
-    type: detail
-    enabled: true
   -
     id: m1oyrtuc
     headline: 'Wo?'
@@ -114,12 +28,12 @@ details:
                   title: null
             text: 'konzert theater coesfeld'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Osterwicker Straße 31'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '48653 Coesfeld'
@@ -138,7 +52,7 @@ details:
             type: text
             text: "Ernsting Stiftung\_"
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Alter Hof Herding'
@@ -157,7 +71,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '25,00'
@@ -168,7 +82,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '28,00'
@@ -179,7 +93,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '31,00'
@@ -195,7 +109,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '12,50 '
@@ -206,7 +120,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '14,00 '
@@ -235,7 +149,85 @@ details:
           class: null
     type: detail
     enabled: true
-theme_selector: dark
+  -
+    id: m1oz06f0
+    headline: Team
+    description:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: 'Musikalische Leitung'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Sebastian Caspar'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: 'Rekomposition, Arrangement'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Mike Conrad, Alistair Duncan'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: Inszenierung
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'David Fernández, Franziska Ritter'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: Lichtdesign
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Arnaud Poumarat'
+    type: detail
+    enabled: true
+theme_selector: light
 article:
   -
     type: paragraph
@@ -244,7 +236,7 @@ article:
     content:
       -
         type: text
-        text: 'Stegreif liebt sie, die Freigeister, Revolutionär*innen und Andersdenkenden. All jene, die ihre Vorstellungen von der Welt hatten und sich nicht scheuten, diese auch zu leben. Nach #freebeethoven widmet sich das Orchester noch einmal dem ersten selbstbestimmt freischaffenden Komponisten der Klassikgeschichte und seiner dritten Sinfonie.'
+        text: 'Stegreif liebt sie, die Freigeister, Revolutionär*innen und Andersdenkenden. All jene, die ihre Vorstellungen von der Welt hatten und sich nicht scheuten, diese auch zu leben. Nach freebeethoven widmet sich das Orchester noch einmal dem ersten selbstbestimmt freischaffenden Komponisten der Klassikgeschichte und seiner dritten Sinfonie.'
   -
     type: paragraph
     attrs:
@@ -254,7 +246,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Ludwig van Beethovens '
@@ -265,7 +257,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Eroica
@@ -279,12 +271,12 @@ article:
     content:
       -
         type: text
-        text: '#free∃roica handelt von '
+        text: 'free∃roica handelt von '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Revolutionen '
@@ -295,7 +287,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Helden
@@ -306,7 +298,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Improvisation '
@@ -317,7 +309,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'gesprengte Orchesteraufstellungen'
@@ -328,7 +320,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Hörerwartungen '
@@ -354,27 +346,51 @@ seo_nofollow: false
 seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
-updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
-updated_at: 1736326278
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1741959497
 header_image: 04_was-wir-tun/reihen-und-programme/freeeroica/header_freeeroica_neubrandenburg_(c)-oliver-borchert-(38)_lowres.jpg
 related_programm: 18ff1954-886b-4096-aefd-60e416f0d59e
 add_section:
   -
     id: m2vuvglw
+    theme_selector: dark
+    article:
+      -
+        type: set
+        attrs:
+          id: m88toczd
+          values:
+            type: bard_media
+            size: medium
+            select_type: video
+            video: 'https://youtu.be/mjyPpPwhwmU?si=TiLuNH2TJkXYivGn'
+            media_caption: 'YouTube Kanal von Stegreif'
+  -
+    id: m88to71u
+    theme_selector: light
+    article:
+      -
+        type: set
+        attrs:
+          id: m88tob0l
+          values:
+            type: bard_partners
+            headline: Förderung
+            text: 'Gefördert durch das Stipendium #MusikerZukunft der Deutschen Orchester-Stiftung.'
+            entires:
+              - f38c938f-0e62-45b1-8739-4415e6d9c23e
+  -
+    id: m88toy5e
     theme_selector: yellow
     article:
       -
         type: set
         attrs:
-          id: m2vuvlfz
+          id: m88tp0v9
           values:
-            type: bard_partners
-            headline: 'Förderung '
-            text: 'Gefördert durch das Stipendium #MusikerZukunft der Deutschen Orchester-Stiftung.'
-            entires:
-              - f38c938f-0e62-45b1-8739-4415e6d9c23e
-      -
-        type: paragraph
-        attrs:
-          class: null
+            type: bard_feature
+            alternate: false
+            feature_type: bird
+            reference_content: true
+            select_content: 18ff1954-886b-4096-aefd-60e416f0d59e
 ---

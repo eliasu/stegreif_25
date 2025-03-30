@@ -1,8 +1,8 @@
 ---
 id: c01db2b0-eb69-40e6-829c-64f24b4851cf
 blueprint: programme
-title: '#bechange: Feeling'
-header_headline: '#bechange: Feeling'
+title: 'bechange: Feeling'
+header_headline: 'bechange: Feeling'
 header_theme_selector: yellow
 header_select: image
 header_image: 04_was-wir-tun/reihen-und-programme/bechange_feeling/bild-von-ios-(4).jpg
@@ -19,7 +19,7 @@ select_type: programm
 related_reihe: 455ef639-911c-4d07-b57e-ed09648ff5e3
 template: single_page
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1709207361
+updated_at: 1741961167
 teaser_text: 'Rekomposition, Klangperformance und Improvisation auf der Grundlage der Musik von Hildegard von Bingen (1098-1179). Ihre mittelalterliche Sphäre der Spiritualität und Naturverbundenheit trifft auf zeitgenössische Ausdrucksformen und Fragestellungen.'
 related_termine:
   - ee351bf6-74a9-49c4-9a72-1bcac5790a54
@@ -62,22 +62,22 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Künstlerische Leitung'
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
           -
             type: text
             text: 'Juri de Marco'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Lorenz Blaumer'
@@ -90,12 +90,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Rekomposition/Arrangement
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Julia Biłat'
@@ -108,12 +108,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Musikalische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Nikola Djurica'
@@ -126,12 +126,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Regie & Choreographie'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'David Fernández'
@@ -144,12 +144,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Lichtdesign
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Vito Walter'
@@ -162,12 +162,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Projektleitung
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Immanuel de Gilde'
@@ -180,12 +180,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Ko-Künstlerische Leitung Komposition'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Alistair Duncan'
@@ -198,17 +198,17 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Workshopleitung
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Viola Schmitzer'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Bartosz Nowak'
@@ -221,12 +221,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Choreographische Mitarbeit'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Lea Hladka'
@@ -239,12 +239,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Projektassistenz & dramaturgische Unterstützung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Catriona Fadke'
@@ -257,12 +257,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Tourassistenz
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Paula Reiz'
@@ -277,12 +277,12 @@ article:
         type: text
         text: 'auf der Grundlage von Werken von '
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Hildegard von Bingens'
@@ -293,23 +293,23 @@ article:
     content:
       -
         type: text
-        text: 'In #bechange: Feeling werden die Themenfelder Spiritualität, Religion und Naturverbundenheit, sowie Geschlechtergerechtigkeit und Unterdrückung anvisiert, denn auch schon zu ihrer Zeit wurde '
+        text: 'In bechange: Feeling werden die Themenfelder Spiritualität, Religion und Naturverbundenheit, sowie Geschlechtergerechtigkeit und Unterdrückung anvisiert, denn auch schon zu ihrer Zeit wurde '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Hildegard von Bingens '
       -
         type: text
-        text: '(1098-1179) holistische Gedankenwelt verehrt und ihre visionäre kreative Kraft bewundert. In der Rekomposition von Julia Biłat und unter der Regie von David Fernández beruht #bechange: Feeling auf einer sich entwickelnden Dynamik, die Bingens musikdramatisches Werk '
+        text: '(1098-1179) holistische Gedankenwelt verehrt und ihre visionäre kreative Kraft bewundert. In der Rekomposition von Julia Biłat und unter der Regie von David Fernández beruht bechange: Feeling auf einer sich entwickelnden Dynamik, die Bingens musikdramatisches Werk '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Ordo Virtutum'
@@ -323,7 +323,7 @@ article:
     content:
       -
         type: text
-        text: 'Zur Reihe #bechange'
+        text: 'Zur Reihe bechange'
   -
     type: paragraph
     attrs:
@@ -331,12 +331,12 @@ article:
     content:
       -
         type: text
-        text: '#bechange ist ein neues Kapitel, eine Ermutigung an alle Neugierigen, ein Hauch von Zuversicht in einer Welt in Schieflage. Und vor allem eins: Eine musikalische Aufforderung sich einzubringen und Neues zu '
+        text: 'bechange ist ein neues Kapitel, eine Ermutigung an alle Neugierigen, ein Hauch von Zuversicht in einer Welt in Schieflage. Und vor allem eins: Eine musikalische Aufforderung sich einzubringen und Neues zu '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: denken
@@ -347,7 +347,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'fühlen '
@@ -358,7 +358,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: erschaffen
@@ -372,12 +372,12 @@ article:
     content:
       -
         type: text
-        text: '#bechange fragt nach der Veränderung in jedem und jeder von uns und lädt Musiker*innen und Publikum ein, ihrem Blickwinkel auf die Fragen unserer Zeit Raum zu geben. Laute wie leise Stimmen erklingen so in einer offenen Auseinandersetzung mit Hoffnung, Schuld und Verantwortlichkeit im Angesicht der '
+        text: 'bechange fragt nach der Veränderung in jedem und jeder von uns und lädt Musiker*innen und Publikum ein, ihrem Blickwinkel auf die Fragen unserer Zeit Raum zu geben. Laute wie leise Stimmen erklingen so in einer offenen Auseinandersetzung mit Hoffnung, Schuld und Verantwortlichkeit im Angesicht der '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'globalen ökologischen Krise'
@@ -406,7 +406,7 @@ add_section:
             size: big
             select_type: video
             video: 'https://youtube.com/watch?v=2FWip0_zn2c&feature=shares'
-            media_caption: 'Trailer #bechange: feeling | YouTube-Kanal von Stegreif'
+            media_caption: 'Trailer bechange: feeling | YouTube-Kanal von Stegreif'
       -
         type: paragraph
         attrs:
@@ -439,7 +439,7 @@ add_section:
           values:
             type: bard_partners
             headline: 'Förder*innen'
-            text: '#bechange wird gefördert von: Die Beauftragte der Bundesregierung für Kultur und Medien'
+            text: 'bechange wird gefördert von: Die Beauftragte der Bundesregierung für Kultur und Medien'
             entires:
               - 530d7673-e742-4ee9-be5d-3750c4220019
       -

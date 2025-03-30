@@ -1,7 +1,7 @@
 ---
 id: f6e765af-9770-4039-967b-4ca4897f312c
 blueprint: programme
-title: '#freebruckner'
+title: freebruckner
 header_theme_selector: dark
 header_select: image
 header_image: 04_was-wir-tun/reihen-und-programme/freebruckner/20240910_-freebruckner_(c)patrick-hurlimann_luzern_festival(2).jpg
@@ -21,12 +21,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Künstlerische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Juri de Marco, Lorenz Blaumer '
@@ -39,12 +39,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Musikalische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Valerie Leopold'
@@ -57,12 +57,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Rekomposition & Arrangement'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Alistair Duncan '
@@ -75,12 +75,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Choreografische Mitarbeit'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Lea Hladka'
@@ -93,12 +93,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Szenographie
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Franziska Ritter'
@@ -111,12 +111,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Lichtdesign
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Vito Walter'
@@ -135,7 +135,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '8. September 2024'
@@ -160,10 +160,10 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
-        text: '#freebruckner'
+        text: freebruckner
       -
         type: text
         text: ' sucht Stegreif die Auseinandersetzung mit diesem großen Sinfoniker der Romantik und erarbeitet eine '
@@ -177,9 +177,9 @@ article:
         type: text
         text: ' von dessen 7. Sinfonie. '
       -
-        type: hard_break
+        type: hardBreak
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Heute vor allem als Komponist großer Sinfonien im Konzertrepertoire präsent, war'
@@ -246,24 +246,38 @@ article:
 add_section:
   -
     id: lr5de214
+    theme_selector: light
+    article:
+      -
+        type: set
+        attrs:
+          id: m8rfjlo9
+          values:
+            type: bard_media
+            size: big
+            select_type: video
+            video: 'https://youtu.be/btOyuUMl9eI?si=SEvSa-neZJfJwrVz'
+            media_caption: 'Trailer freebruckner | Stegreif YouTube'
+  -
+    id: lr5dfon8
     theme_selector: yellow
     article:
       -
         type: set
         attrs:
-          id: lr5de7oa
+          id: m8rfp9np
           values:
             type: bard_quotes
-            size: small
+            size: big
             quote: 'Eine Bruckner-Sinfonie in einem interaktiven Format: Es ist einer der stärksten Gänsehautmomente dieses Abend und Magie pur. Selten erlebt man die Dringlichkeit und den Ausnahmecharakter dieser Musik derart am eigenen Leib, wie es hier der Fall war.'
-            author: ' Luzerner Zeitung, 12.09.2024'
+            author: 'Luzerner Zeitung, 12.09.2024'
       -
         type: set
         attrs:
-          id: m1qg9t66
+          id: m8rfmrow
           values:
             type: bard_gallery
-            size: big
+            size: small
             images:
               - 04_was-wir-tun/reihen-und-programme/freebruckner/20240910_-freebruckner_(c)patrick-hurlimann_luzern_festival(5).jpg
               - 04_was-wir-tun/reihen-und-programme/freebruckner/20240910_-freebruckner_(c)patrick-hurlimann_luzern_festival(3).jpg
@@ -275,34 +289,26 @@ add_section:
               - 04_was-wir-tun/reihen-und-programme/freebruckner/20240910_-freebruckner_(c)patrick-hurlimann_luzern_festival(4).jpg
               - 04_was-wir-tun/reihen-und-programme/freebruckner/20240810_-freebruckner_(c)oliver_erenyi_linz_brucknerfest.JPG
       -
-        type: paragraph
-        attrs:
-          class: null
-      -
         type: set
         attrs:
-          id: m1qdxu5v
+          id: m8rfm4wv
           values:
             type: bard_quotes
             size: small
             quote: 'Ein Markenzeichen von „Stegreif” [...] ist die überzeugende Bewegungschoreografie, bei der auch überbordende Freude am Musizieren und Improvisieren Platz hat. Dem Ausklingen einer Bruckner-Sinfonie folgen meist Momente der Stille. Für die Stegreif-Darbietung explodierte geradezu der Applaus.'
-            author: 'Oberösterreichisches Volksblatt, 09.09.2024 '
-      -
-        type: paragraph
-        attrs:
-          class: null
+            author: 'Oberösterreichisches Volksblatt, 09.09.2024'
   -
-    id: lr5dfon8
+    id: m8rfkt97
     theme_selector: light
     article:
       -
         type: set
         attrs:
-          id: lr5dfrr2
+          id: m8rflgs3
           values:
             type: bard_partners
             headline: 'Partner*innen'
-            text: '#freebruckner ist eine Auftragskomposition von und in Zusammenarbeit mit dem Brucknerhaus Linz und wird von der Rudolf Augstein Stiftung gefördert. '
+            text: 'freebruckner ist eine Auftragskomposition von und in Zusammenarbeit mit dem Brucknerhaus Linz und wird von der Rudolf Augstein Stiftung gefördert.'
             entires:
               - afd4c1be-8778-42e9-8fab-b1933c18c25f
               - 7118708f-3836-4e7c-8ede-ebc299d42f69
@@ -316,11 +322,13 @@ aktuell: true
 featured: true
 select_type: programm
 template: single_page
-updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
-updated_at: 1730389043
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1743084891
 related_termine:
   - 8211afe9-16a9-46b6-9e51-d1a4b47f29b0
   - 224ebe2c-4cc4-45e8-82df-04435f458c2b
   - 8ec628d9-0a6c-4b9a-bf7c-c8aabacb779a
   - 9cf9887b-df8e-4588-8bcd-81b9761e46ae
+  - d0b04c04-978d-401d-9881-4478d8ad2b1c
+  - 7751b734-7ebd-4c18-a880-e607a05ed9ff
 ---

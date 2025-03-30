@@ -1,13 +1,12 @@
 ---
 id: 2de4822a-9020-409c-8acf-710f2493fbe7
 blueprint: programme
-title: '#explorefreischütz'
-header_headline: '#explorefreischütz'
+title: explorefreischütz
+header_headline: explorefreischütz
 header_theme_selector: dark
 header_select: image
 header_image: 04_was-wir-tun/reihen-und-programme/explorefreischuetz/header_explorefreischutz(c)-stephan-boehme.jpeg
 quicklinks_enabled: false
-show_social: false
 theme_selector: dark
 seo_noindex: false
 seo_nofollow: false
@@ -19,7 +18,7 @@ aktuell: false
 select_type: programm
 template: single_page
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1657810167
+updated_at: 1741961465
 headline: 'Stegreifs Pakt mit dem Teufel?'
 article:
   -
@@ -34,7 +33,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: '200. Jubiläum'
@@ -53,7 +52,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Konzerthaus Berlin'
@@ -64,13 +63,13 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'DER PAKT MIT DEM TEUFEL'
       -
         type: text
-        text: ' – darunter auch #explorefreischütz.'
+        text: ' – darunter auch explorefreischütz.'
   -
     type: paragraph
     attrs:
@@ -83,7 +82,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Originalwerken
@@ -94,7 +93,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Improvisation '
@@ -105,7 +104,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Volkslied
@@ -116,7 +115,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Nationaloper '
@@ -143,7 +142,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Universalität '
@@ -154,7 +153,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Nationalgedanken
@@ -168,12 +167,12 @@ article:
     content:
       -
         type: text
-        text: 'In #explorefreischütz werden diese beiden epochenprägenden Werke verschränkt und mit europäischen Volksliedern erweitert, um Fragen nach '
+        text: 'In explorefreischütz werden diese beiden epochenprägenden Werke verschränkt und mit europäischen Volksliedern erweitert, um Fragen nach '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Nationalstil '
@@ -184,7 +183,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'europäischen Gedanken'
@@ -195,7 +194,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Gemeinsamkeit '
@@ -206,7 +205,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Zusammenhalt '
@@ -215,16 +214,18 @@ article:
         text: 'neu zu stellen. In Interaktion mit dem Publikum werden persönliche und doch universelle Erfahrungen unserer Zeit mit dem klassischen Werk verwoben und so ein neuer Ansatz für die Betrachtung des Originals geschaffen.'
 extend_section:
   -
+    id: UFzzTx9j
     article:
       -
         type: set
         attrs:
+          id: IbmckejM
           values:
             type: bard_media
             size: big
             select_type: video
             video: 'https://www.youtube.com/watch?v=JqJ6kmz_HBw'
-            media_caption: 'Trailer #explorefreischütz | YouTube-Kanal von Stegreif'
+            media_caption: 'Trailer explorefreischütz | YouTube-Kanal von Stegreif'
       -
         type: paragraph
         attrs:
@@ -232,12 +233,12 @@ extend_section:
         content:
           -
             type: text
-            text: 'Die Premiere von #explorefreischütz fand coronabedingt digital statt, nachdem unser Konzert am 06.04.2021 abgesagt werden musste. Am 13.04.2021 um 19 Uhr '
+            text: 'Die Premiere von explorefreischütz fand coronabedingt digital statt, nachdem unser Konzert am 06.04.2021 abgesagt werden musste. Am 13.04.2021 um 19 Uhr '
           -
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'streamte '
@@ -254,11 +255,13 @@ extend_section:
             text: 'Foto: NAVINAFOTOGRAFIERT'
 add_section:
   -
+    id: cbUMeUU1
     theme_selector: yellow
     article:
       -
         type: set
         attrs:
+          id: L2v3l9vI
           values:
             type: bard_gallery
             size: big
@@ -270,15 +273,17 @@ add_section:
               - 04_was-wir-tun/reihen-und-programme/explorefreischuetz/explorefreischutz(c)-mark-buss-kuchenbuch-04.jpg
               - 04_was-wir-tun/reihen-und-programme/explorefreischuetz/explorefreischutz(c)-mark-buss-kuchenbuch-05.jpg
   -
+    id: Wnut8W0a
     theme_selector: light
     article:
       -
         type: set
         attrs:
+          id: 4EVHCIn8
           values:
             type: bard_partners
             headline: 'Förder*innen'
-            text: 'Das Projekt #explorefreischütz wurde durch die Klangwert – Ensemble Förderung der Aventis Foundation untersützt'
+            text: 'Das Projekt explorefreischütz wurde durch die Klangwert – Ensemble Förderung der Aventis Foundation untersützt'
             entires:
               - 7319da4b-3664-4dd3-9898-cd672a5328a0
 teaser_text: |-
@@ -286,6 +291,7 @@ teaser_text: |-
   Stegreifs Pakt mit dem Teufel? Von wegen... Der Einladung des Konzerthauses Berlin, Webers "Nationaloper" neudenken zu dürfen, sind wir liebend gerne nachgekommen.
 details:
   -
+    id: NCRsrPEf
     headline: Team
     description:
       -
@@ -297,12 +303,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Künstlerische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Juri de Marco'
@@ -315,42 +321,42 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Rekomposition/Arrangement
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Julia Biłat'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Hiromu Seifert'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Paul Lapp'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Juri de Marco'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Bertram Burkert'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Alistair Duncan'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Uri Caine'
@@ -363,12 +369,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Regie/Choreographie
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Viola Schmitzer'
@@ -381,12 +387,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Kostümbild
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Sophie Schliemann'
@@ -399,12 +405,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Kamera
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Manuel Kinzer'
@@ -417,12 +423,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Kameraregie/Schnitt
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Stephan Böhme'
@@ -435,15 +441,16 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Ton
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Sascha Kramski'
     type: detail
     enabled: true
+featured: false
 ---

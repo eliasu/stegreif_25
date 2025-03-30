@@ -11,12 +11,12 @@ article:
     content:
       -
         type: text
-        text: 'The foundation of #bechange is laid with '
+        text: 'The foundation of bechange is laid with '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: '16 workshops'
@@ -27,7 +27,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'workshop concert'
@@ -50,10 +50,10 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
-        text: '#bechange '
+        text: 'bechange '
       -
         type: text
         text: series
@@ -64,12 +64,12 @@ article:
     content:
       -
         type: text
-        text: '#bechange is a new chapter, a word of encouragement to all curious people, a touch of confidence in a world in disarray, and above all a musical invitation to get involved: to '
+        text: 'bechange is a new chapter, a word of encouragement to all curious people, a touch of confidence in a world in disarray, and above all a musical invitation to get involved: to '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: think
@@ -80,7 +80,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: feel
@@ -91,7 +91,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: create
@@ -105,12 +105,12 @@ article:
     content:
       -
         type: text
-        text: '#bechange asks about change in each and every one of us and invites musicians and the audience to consider their perspective on the central questions of our time. All voices, whether loud or quiet, are heard in an open discussion of hope, guilt and responsibility in the face of the '
+        text: 'bechange asks about change in each and every one of us and invites musicians and the audience to consider their perspective on the central questions of our time. All voices, whether loud or quiet, are heard in an open discussion of hope, guilt and responsibility in the face of the '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'global ecological crisis.'
@@ -136,7 +136,7 @@ add_section:
             size: big
             select_type: video
             video: 'https://youtu.be/WRLKOFU3Y98'
-            media_caption: '#bechange: AUGSBURG SPIELT | YouTube-Kanal von Stegreif'
+            media_caption: 'bechange: AUGSBURG SPIELT | YouTube-Kanal von Stegreif'
       -
         type: heading
         attrs:
@@ -152,12 +152,12 @@ add_section:
         content:
           -
             type: text
-            text: "With #bechange, Stegreif approaches the topic of sustainability from a wide variety of perspectives. Addressing the UN's 17 Sustainable Development Goals (SDGs), four premiere programmes are developed  that focus on four historical female composers. Consisting of works from Wilhelmine "
+            text: "With bechange, Stegreif approaches the topic of sustainability from a wide variety of perspectives. Addressing the UN's 17 Sustainable Development Goals (SDGs), four premiere programmes are developed  that focus on four historical female composers. Consisting of works from Wilhelmine "
           -
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'von Bayreuth'
@@ -168,7 +168,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'von Bingen'
@@ -179,7 +179,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Schumann
@@ -190,7 +190,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Mayer
@@ -212,12 +212,12 @@ add_section:
         content:
           -
             type: text
-            text: 'The multi-layered musical, visual and social experiences from the #bechange programmes and the #bechange workshops culminate in the '
+            text: 'The multi-layered musical, visual and social experiences from the bechange programmes and the bechange workshops culminate in the '
           -
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'symphony of change'
@@ -235,7 +235,7 @@ add_section:
           values:
             type: bard_partners
             headline: Supporters
-            text: '#bechange wird gefördert von: Die Beauftragte der Bundesregierung für Kultur und Medien. Die Workshops im Rahmen von #bechange werden gefördert von con moto foundation'
+            text: 'bechange wird gefördert von: Die Beauftragte der Bundesregierung für Kultur und Medien. Die Workshops im Rahmen von bechange werden gefördert von con moto foundation'
             entires:
               - 530d7673-e742-4ee9-be5d-3750c4220019
               - 1ca1e23b-8c62-484f-967b-ee98ff09cc86
@@ -254,5 +254,5 @@ add_section:
             reference_content: true
             select_content: 455ef639-911c-4d07-b57e-ed09648ff5e3
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1680267560
+updated_at: 1741960697
 ---

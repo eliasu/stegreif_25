@@ -1,14 +1,14 @@
 ---
 id: e23119c0-51ed-4185-b8f2-a55c1e3c6a0a
 blueprint: termine
-title: '#freesolo im Kühlhaus'
+title: 'freesolo im Kühlhaus Berlin'
 header_theme_selector: dark
 header_select: image
 header_image: 04_was-wir-tun/reihen-und-programme/freesolo/20240928_-freesolo_premiere_theaterimdelphi_(c)navinafotografiert_navina_neuschl(2).jpg
 quicklinks_enabled: false
-teaser_text: 'Die Geburtstagsreihe “10 Jahre Stegreif” setzt sich im Juli mit einem Programm fort, das sich mit Stegreifs Kernthema der Improvisation intensiv befasst: #freesolo.'
-theme_selector: dark
-headline: '#freesolo im Kühlhaus'
+teaser_text: 'Die Geburtstagsreihe “10 Jahre Stegreif” setzt sich im Juli mit einem Programm fort, das sich mit Stegreifs Kernthema der Improvisation intensiv befasst: freesolo.'
+theme_selector: light
+headline: 'freesolo im Kühlhaus'
 article:
   -
     type: paragraph
@@ -28,7 +28,7 @@ article:
         text: 'Zum 10-jährigen Geburtstag'
       -
         type: text
-        text: ' reist Stegreif mit fünf Programmen durch die letzten musikalischen Stegreif-Jahre und im Juli geht es mit einem außergewöhnlichen Programm weiter: '
+        text: ' reist Stegreif mit fünf Programmen durch die letzten musikalischen Stegreif-Jahre und im Juli geht es mit einem außergewöhnlichen Programm weiter:'
       -
         type: text
         marks:
@@ -39,7 +39,7 @@ article:
               rel: null
               target: null
               title: null
-        text: '#freesolo'
+        text: ' freesolo'
       -
         type: text
         text: '. '
@@ -50,7 +50,7 @@ article:
     content:
       -
         type: text
-        text: 'Dieses Programm widmet sich der intensiven Auseinandersetzung mit den Kernthemen des Stegreif Orchesters – der Improvisation und der Gemeinschaft. Das klassische Solokonzert wird in #freesolo völlig neu gedacht: Wir rekomponieren unterschiedliche ikonische Werke, die mit unterschiedlichen Improvisationstechniken zu einem Ausdruck von Freiheit und Miteinander verschmelzen.'
+        text: 'Dieses Programm widmet sich der intensiven Auseinandersetzung mit den Kernthemen des Stegreif Orchesters – der Improvisation und der Gemeinschaft. Das klassische Solokonzert wird in freesolo völlig neu gedacht: Wir rekomponieren unterschiedliche ikonische Werke, die mit unterschiedlichen Improvisationstechniken zu einem Ausdruck von Freiheit und Miteinander verschmelzen.'
   -
     type: paragraph
     attrs:
@@ -129,16 +129,26 @@ article:
 add_section:
   -
     id: m6gpfu8s
-    theme_selector: yellow
+    theme_selector: dark
     article:
-      -
-        type: paragraph
-        attrs:
-          class: null
       -
         type: set
         attrs:
-          id: m6gpg0uz
+          id: m88t2k19
+          values:
+            type: bard_media
+            size: medium
+            select_type: video
+            video: 'https://youtu.be/TIPU7LdOBB8?si=m_i596Y1jMn3t68R'
+            media_caption: 'YouTube Kanal von Stegreif'
+  -
+    id: m88t2fwq
+    theme_selector: light
+    article:
+      -
+        type: set
+        attrs:
+          id: m88t2zyt
           values:
             type: bard_partners
             headline: Förderung
@@ -146,10 +156,20 @@ add_section:
             entires:
               - 20a05032-00e6-4400-8208-da4eb1b47312
               - 0ada25f7-f85a-48fb-b3ad-cbeb7aa45ce7
+  -
+    id: m88t31rm
+    theme_selector: yellow
+    article:
       -
-        type: paragraph
+        type: set
         attrs:
-          class: null
+          id: m88t34gk
+          values:
+            type: bard_feature
+            alternate: false
+            feature_type: bird
+            reference_content: true
+            select_content: 5e8ea375-f842-4f00-9f15-594ba8bb47a2
 select_transition_theme: bird
 date_field: '2025-07-06'
 time: '20:00'
@@ -161,9 +181,9 @@ seo_nofollow: false
 seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
-updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
-updated_at: 1738745317
-header_headline: '#freesolo im Kühlhaus'
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1742293256
+header_headline: 'freesolo im Kühlhaus'
 details:
   -
     id: m6gomyq1
@@ -327,4 +347,5 @@ details:
             text: 'der Vorverkauf startet in Kürze hier.'
     type: detail
     enabled: true
+related_programm: ce7784db-be0a-479f-8513-9c8a3e781e06
 ---

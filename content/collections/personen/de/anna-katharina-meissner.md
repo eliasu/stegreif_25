@@ -1,5 +1,6 @@
 ---
 id: 8c6ab5e1-2e82-4021-acf9-9438163f673a
+published: false
 blueprint: personen
 title: 'Anna Katharina Meißner'
 thumbnail: 03_wer-wir-sind/personenbilder_neu_c_navinafotografiert/anna-katharina-meissner_navina-neuschl_6986-b-a-web.jpg

@@ -1,8 +1,8 @@
 ---
 id: f4adcd2b-4104-43fd-ae80-ae8ad49fe5b7
 origin: c58869e5-9441-49a7-abae-cc83fdd84a24
-title: '#FREE∃ROICA at Theater im Delphi'
-header_headline: '#FREE∃ROICA at Theater im Delphi'
+title: 'FREE∃ROICA at Theater im Delphi'
+header_headline: 'FREE∃ROICA at Theater im Delphi'
 details:
   -
     id: m5l0a86w
@@ -17,12 +17,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Musical Lead'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Sebastian Caspar'
@@ -35,12 +35,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Recomposition, Arrangement'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Mike Conrad, Alistair Duncan'
@@ -53,12 +53,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Direction, Scenography'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'David Fernández, Franziska Ritter'
@@ -71,15 +71,33 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Lightdesign
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Arnaud Poumarat'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-skin-primary
+            text: 'project manager 10 years Stegreif'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Lea Hladka'
     type: detail
     enabled: true
   -
@@ -103,17 +121,17 @@ details:
                   title: 'Website des Theaters im Delphi'
             text: 'Theater im Delphi'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Gustav-Adolf-Straße 2'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '13086 Berlin'
           -
-            type: hard_break
+            type: hardBreak
     type: detail
     enabled: true
   -
@@ -129,7 +147,7 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '25 '
@@ -137,17 +155,17 @@ details:
             type: text
             text: '€ regular'
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
           -
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '16 '
@@ -176,7 +194,7 @@ details:
           class: null
     type: detail
     enabled: true
-headline: '#FREE∃ROICA at Theater im Delphi'
+headline: 'FREE∃ROICA at Theater im Delphi'
 article:
   -
     type: paragraph
@@ -199,7 +217,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: '10th anniversary,'
@@ -216,7 +234,7 @@ article:
               rel: null
               target: null
               title: null
-        text: '#free∃roica.'
+        text: free∃roica.
   -
     type: paragraph
     attrs:
@@ -224,7 +242,7 @@ article:
     content:
       -
         type: text
-        text: "#free∃roica is dedicated to revolutions and new beginnings - both historically and musically. Stegreif's founding vision is more evident in #free∃roica than in any other of our projects: Without sheet music, without a conductor and without seating arrangements, the orchestra breaks with the conventions of the classical concert from the very beginning and opens up new perspectives."
+        text: "free∃roica is dedicated to revolutions and new beginnings - both historically and musically. Stegreif's founding vision is more evident in free∃roica than in any other of our projects: Without sheet music, without a conductor and without seating arrangements, the orchestra breaks with the conventions of the classical concert from the very beginning and opens up new perspectives."
   -
     type: paragraph
     attrs:
@@ -232,7 +250,7 @@ article:
     content:
       -
         type: text
-        text: "#free∃roica is a performative and musical departure, inspired by Beethoven's Eroica - a symbol of Stegreif's revolutionary approach to traditional concepts of classical music. The familiar is deconstructed, recomposed and presented in a surprising light through improvisation. The result is a completely new interpretation of Beethoven's masterpiece: bars are broken up, oversized props set accents and the orchestra's positioning is constantly rethought."
+        text: "free∃roica is a performative and musical departure, inspired by Beethoven's Eroica - a symbol of Stegreif's revolutionary approach to traditional concepts of classical music. The familiar is deconstructed, recomposed and presented in a surprising light through improvisation. The result is a completely new interpretation of Beethoven's masterpiece: bars are broken up, oversized props set accents and the orchestra's positioning is constantly rethought."
   -
     type: paragraph
     attrs:
@@ -240,7 +258,7 @@ article:
     content:
       -
         type: text
-        text: "This program makes Beethoven's quest for the unexpected just as tangible as Stegreif's own vision of a musical awakening. #free∃roica is a tribute to the beginnings of Stegreif and at the same time a revolutionary journey through time - from the French Revolution of the 18th century to the present day."
+        text: "This program makes Beethoven's quest for the unexpected just as tangible as Stegreif's own vision of a musical awakening. free∃roica is a tribute to the beginnings of Stegreif and at the same time a revolutionary journey through time - from the French Revolution of the 18th century to the present day."
   -
     type: paragraph
     attrs:
@@ -255,7 +273,7 @@ article:
           -
             type: bold
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: '10 concerts with 5 different programs '
@@ -297,13 +315,14 @@ add_section:
           values:
             type: bard_partners
             headline: Supporter
-            text: '#freeeroica takes place as part of the project 10xStegreif, funded by the Hauptstadtkulturfonds. '
+            text: 'freeeroica takes place as part of the project 10xStegreif, funded by the Hauptstadtkulturfonds and the Karl Schlecht Stiftung.'
             entires:
               - 20a05032-00e6-4400-8208-da4eb1b47312
+              - 2df23599-4ef8-44d1-bef8-f6d91c3d85cb
       -
         type: paragraph
         attrs:
           class: null
-updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
-updated_at: 1737374015
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1743168463
 ---

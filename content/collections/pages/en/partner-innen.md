@@ -10,7 +10,7 @@ quick_links:
     anchor_id: 'board of trustees'
   -
     id: m2nagidu
-    anchor_name: supporter
+    anchor_name: supporters
     anchor_id: 'Förder*innen'
   -
     id: m2nagkzq
@@ -52,7 +52,7 @@ article:
             type: bold
         text: 'Hella Dunger-Löper'
       -
-        type: hard_break
+        type: hardBreak
         marks:
           -
             type: bold
@@ -71,7 +71,7 @@ article:
             type: bold
         text: 'Alexander Farenholtz'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Gründungsvorstand Kulturstiftung des Bundes (2002-2020)'
@@ -94,7 +94,7 @@ article:
             type: bold
         text: 'Rüdiger Nolte'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Vorsitzender des Hochschulrats der HfM Franz Liszt Weimar; ehem. Rektor Hochschule für Musik Freiburg'
@@ -117,7 +117,7 @@ article:
             type: bold
         text: 'Thomas Rietschel'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: Kulturberater
@@ -133,7 +133,7 @@ article:
             type: bold
         text: 'Brigitte Russ-Scherer '
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Vorsitzende Vorstand PODIUM Musikstiftung Esslingen / Oberbürgermeisterin a.D.'
@@ -156,7 +156,7 @@ article:
             type: bold
         text: 'Dr. Katrin Schlecht'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Vorstandsvorsitzende der Karl Schlecht Stiftung / Rechtsanwältin'
@@ -172,7 +172,7 @@ article:
             type: bold
         text: 'Albert Schmitt'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Geschäftsführer Deutsche Kammerphilharmonie Bremen'
@@ -195,7 +195,7 @@ article:
             type: bold
         text: 'Andrea Thilo'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Journalistin, Moderatorin, Trainerin'
@@ -218,7 +218,7 @@ article:
             type: bold
         text: 'Folkert Uhde'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Co-Gründer Radialsystem Berlin, Konzertdesigner, Festivalintendant'
@@ -275,6 +275,7 @@ add_section:
               - 26b2f31d-bc53-48d6-a321-a98646875e2a
               - e432526a-78dd-4bfe-8150-70bc3a1d9643
               - c429f77f-fe3e-417e-8555-f5a3d64b6e35
+              - 2176a336-f4ca-41f0-aac4-3695646c4ab6
       -
         type: set
         attrs:
@@ -299,10 +300,15 @@ add_section:
               - d6e39384-14db-4641-a6a0-b730df9085c0
               - 338aff19-b0fc-40ec-8c2d-b34025f99ce2
               - 48be385a-1829-4c20-af4f-fe378bc12318
+              - 86224cc4-0641-4240-b69e-1f98a5ab1760
+  -
+    id: m7karoyb
+    theme_selector: dark
+    article:
       -
         type: set
         attrs:
-          id: m2nb3wen
+          id: m7karwrt
           values:
             type: anchor
             anchor: Partner
@@ -323,7 +329,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Co-production partner'
@@ -336,32 +342,32 @@ add_section:
             type: text
             text: 'Neuköllner Oper Berlin'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'PODIUM Festival Esslingen'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Konzerthaus Dortmund'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Konzerthaus Berlin'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Deutsches Symphonie-Orchester Berlin'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'junge norddeutsche philharmonie (jnp)'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Radialsystem Berlin'
@@ -374,7 +380,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Co-operation partner'
@@ -387,52 +393,52 @@ add_section:
             type: text
             text: 'Beethovenfest Bonn'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'exploratorium Berlin'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Säälchen am Holzmarkt 25'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Kunst Uni Graz'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Staatstheater Augsburg'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Internationale Händelfestspiele Karlsruhe'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Dresdner Philharmonie'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Alte Oper Frankfurt'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Kissinger Sommer'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Ludwigsburger Schlossfestspiele'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: TONALi
@@ -445,7 +451,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Further partners'
@@ -458,35 +464,35 @@ add_section:
             type: text
             text: 'Andreas Richter Cultural Consulting'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'FREO | Freie Ensembles und Orchester in Deutschland e.V.'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Netzwerk Junge Ohren'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Orchester des Wandels e.V.'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'command+g | Grafik- und Webdesign'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'KLANG & BILDER WELTEN Stephan Böhme'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Noam Sivan | Komponist, Pianist, Improvisateur'
-updated_by: b89f1882-9bbc-44b7-9265-79a3230c2164
-updated_at: 1734960110
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1740747270
 ---

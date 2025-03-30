@@ -33,7 +33,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'einjährige vermittelnde und ermittelnde TONALi-Residenz'
@@ -44,7 +44,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'TONALi-Festival 2024 mitgestaltet und kuratiert'
@@ -55,7 +55,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Soziale Sinfonie'
@@ -74,7 +74,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'inhaltliches Umdenken'
@@ -137,12 +137,12 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 select_transition_theme: bird
-aktuell: true
+aktuell: false
 featured: false
 select_type: education
 template: single_page
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1719993269
+updated_at: 1741962723
 teaser_text: "Als Preisträger des TONALi Awards 2023 'Mut zur Utopie' verbringt das Stegreif Orchester auch eine einjährigen Residenz in Hamburg, in der Workshops an der TONALi Akademie und das TONALi-Festival 2024 mitgestaltet werden."
 headline: 'TONALi-RESIDENZ 2023/24 in Hamburg'
 add_section:

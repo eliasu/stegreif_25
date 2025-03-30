@@ -1,7 +1,7 @@
 ---
 id: 455ef639-911c-4d07-b57e-ed09648ff5e3
 blueprint: reihen
-title: '#bechange'
+title: bechange
 header_theme_selector: dark
 header_select: image
 header_image: 04_was-wir-tun/reihen-und-programme/bechange_awakening/2022_kasseler_musiktage/-bechange_c_kasseler-musiktage---bernd-schoelzchen_bz6_5595.jpg
@@ -15,7 +15,7 @@ article:
     content:
       -
         type: text
-        text: '#bechange ist ein neues Kapitel, eine Ermutigung an alle '
+        text: 'bechange ist ein neues Kapitel, eine Ermutigung an alle '
       -
         type: text
         marks:
@@ -67,7 +67,7 @@ article:
     content:
       -
         type: text
-        text: '#bechange fragt nach der Veränderung in jedem und jeder von uns und lädt Musiker*innen und Publikum ein, ihrem Blickwinkel auf die Fragen unserer Zeit Raum zu geben. Laute wie leise Stimmen erklingen so in einer offenen Auseinandersetzung mit Hoffnung, Schuld und Verantwortlichkeit im Angesicht der globalen '
+        text: 'bechange fragt nach der Veränderung in jedem und jeder von uns und lädt Musiker*innen und Publikum ein, ihrem Blickwinkel auf die Fragen unserer Zeit Raum zu geben. Laute wie leise Stimmen erklingen so in einer offenen Auseinandersetzung mit Hoffnung, Schuld und Verantwortlichkeit im Angesicht der globalen '
       -
         type: text
         marks:
@@ -103,7 +103,7 @@ article:
     content:
       -
         type: text
-        text: 'Mit #bechange nähert sich Stegreif dem Themenfeld '
+        text: 'Mit bechange nähert sich Stegreif dem Themenfeld '
       -
         type: text
         marks:
@@ -242,7 +242,7 @@ add_section:
                 content:
                   -
                     type: text
-                    text: 'Die vielschichtigen musikalischen, szenischen und gesellschaftlichen Erfahrungen aus den #bechange-Programmen und den '
+                    text: 'Die vielschichtigen musikalischen, szenischen und gesellschaftlichen Erfahrungen aus den bechange-Programmen und den '
                   -
                     type: text
                     marks:
@@ -253,7 +253,7 @@ add_section:
                           rel: null
                           target: null
                           title: null
-                    text: '#bechange-Workshops'
+                    text: bechange-Workshops
                   -
                     type: text
                     text: ' flossen schlussendlich in der '
@@ -324,10 +324,10 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 select_transition_theme: bechange
-aktuell: true
+aktuell: false
 template: single_page
-updated_by: 7d709850-5c35-4065-be68-b627c348051d
-updated_at: 1738645979
+updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
+updated_at: 1741961710
 details:
   -
     id: vP17VDHh

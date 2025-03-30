@@ -16,7 +16,7 @@ introduction_content:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: STEGREIF
@@ -43,7 +43,7 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: Musikalisches
@@ -62,7 +62,7 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'ohne Dirigent*in'
@@ -73,7 +73,7 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'ohne Noten'
@@ -84,7 +84,7 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'Improvisation '
@@ -95,7 +95,7 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: Bewegung
@@ -106,7 +106,7 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'lebendiger Ansatz'
@@ -147,7 +147,7 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'Organisatorisches '
@@ -166,7 +166,7 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'kollektive Arbeitsweise'
@@ -177,7 +177,7 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'gemeinschaftliche Prozesse'
@@ -188,7 +188,7 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'Potential '
@@ -216,7 +216,7 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: Gesellschaftliches
@@ -235,7 +235,7 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'achtsame Umgang'
@@ -246,18 +246,18 @@ introduction_content:
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'Vermittlungsformaten '
               -
                 type: text
-                text: 'und engagieren uns mit Projekten wie "#bechange – 17 Klänge der Nachhaltigkeit" leidenschaftlich für nachhaltige Entwicklungen. Dabei prägen uns die Werte: Mission – statt Ablenkung, Dynamische Entscheidung – statt Lähmung, Weisheit – statt Ego, Unterschiede wertschätzen – statt ausblenden, '
+                text: 'und engagieren uns mit Projekten wie "bechange – 17 Klänge der Nachhaltigkeit" leidenschaftlich für nachhaltige Entwicklungen. Dabei prägen uns die Werte: Mission – statt Ablenkung, Dynamische Entscheidung – statt Lähmung, Weisheit – statt Ego, Unterschiede wertschätzen – statt ausblenden, '
               -
                 type: text
                 marks:
                   -
-                    type: bts_span
+                    type: btsSpan
                     attrs:
                       class: text-skin-primary
                 text: 'verantwortliche Freiheit'
@@ -281,7 +281,7 @@ sitemap_priority: 0.5
 select_transition_theme: bird
 template: who_we_are_page
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1696516054
+updated_at: 1742475371
 section_headline_orchestra: 'Das Orchester'
 add_section:
   -
@@ -303,7 +303,21 @@ add_section:
         content:
           -
             type: text
-            text: 'Lust mitzuspielen? Gerne nehmen wir auch Initiativbewerbungen von Musiker*innen entgegen. Bitte wendet euch dafür per Mail an Lea Hladka (Tourmanagement & Produktion). Neben eurem Motivationsschreiben sendet uns bitte auch einige Hör- und Videobeispielen zu, damit wir einen Eindruck von eurer künstlerischen Tätigkeit bekommen können.'
+            text: 'Lust mitzuspielen? Gerne nehmen wir auch Initiativbewerbungen von Musiker*innen entgegen. Meldet euch gerne per Mail bei uns unter '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'mailto:info@stegreif.org'
+                  rel: null
+                  target: null
+                  title: null
+            text: info@stegreif.org
+          -
+            type: text
+            text: ' und sendet uns neben eurem Motivationsschreiben bitte auch einige Hör- und Videobeispielen zu, damit wir einen Eindruck von eurer künstlerischen Tätigkeit bekommen können.'
       -
         type: set
         attrs:
@@ -318,6 +332,15 @@ add_section:
                 button_type: background
                 link_type: email
                 email: lea@stegreif.org
+                type: button
+                enabled: false
+              -
+                id: m7lwggn7
+                label: E-Mail
+                target_blank: true
+                button_type: background
+                link_type: email
+                email: info@stegreif.org
                 type: button
                 enabled: true
   -
@@ -343,7 +366,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Geschichte
@@ -362,12 +385,7 @@ add_section:
         content:
           -
             type: text
-            marks:
-              -
-                type: bts_span
-                attrs:
-                  class: null
-            text: 'Seit der Gründung des Orchesters im Jahre 2015 wurde jedes Jahr mindestens ein neues Konzertprogramm erarbeitet:'
+            text: 'Seit der Gründung des Orchesters im Jahre 2015 wurde jedes Jahr mindestens ein neues Konzertprogramm erarbeitet: '
           -
             type: text
             marks:
@@ -378,18 +396,9 @@ add_section:
                   rel: null
                   target: null
                   title: null
-              -
-                type: bts_span
-                attrs:
-                  class: null
-            text: '#freebeethoven'
+            text: freebeethoven
           -
             type: text
-            marks:
-              -
-                type: bts_span
-                attrs:
-                  class: null
             text: ', '
           -
             type: text
@@ -401,18 +410,9 @@ add_section:
                   rel: null
                   target: null
                   title: null
-              -
-                type: bts_span
-                attrs:
-                  class: null
-            text: '#freeschubert'
+            text: freeschubert
           -
             type: text
-            marks:
-              -
-                type: bts_span
-                attrs:
-                  class: null
             text: ', '
           -
             type: text
@@ -424,18 +424,9 @@ add_section:
                   rel: null
                   target: null
                   title: null
-              -
-                type: bts_span
-                attrs:
-                  class: null
-            text: '#freebrahms'
+            text: freebrahms
           -
             type: text
-            marks:
-              -
-                type: bts_span
-                attrs:
-                  class: null
             text: ', '
           -
             type: text
@@ -447,18 +438,9 @@ add_section:
                   rel: null
                   target: null
                   title: null
-              -
-                type: bts_span
-                attrs:
-                  class: null
-            text: '#free∃roica'
+            text: free∃roica
           -
             type: text
-            marks:
-              -
-                type: bts_span
-                attrs:
-                  class: null
             text: ', '
           -
             type: text
@@ -470,18 +452,9 @@ add_section:
                   rel: null
                   target: null
                   title: null
-              -
-                type: bts_span
-                attrs:
-                  class: null
-            text: '#bfree'
+            text: bfree
           -
             type: text
-            marks:
-              -
-                type: bts_span
-                attrs:
-                  class: null
             text: ', '
           -
             type: text
@@ -493,18 +466,9 @@ add_section:
                   rel: null
                   target: null
                   title: null
-              -
-                type: bts_span
-                attrs:
-                  class: null
-            text: '#freemahler'
+            text: freemahler
           -
             type: text
-            marks:
-              -
-                type: bts_span
-                attrs:
-                  class: null
             text: ', '
           -
             type: text
@@ -516,18 +480,9 @@ add_section:
                   rel: null
                   target: null
                   title: null
-              -
-                type: bts_span
-                attrs:
-                  class: null
-            text: '#explore_mozart'
+            text: explore_mozart
           -
             type: text
-            marks:
-              -
-                type: bts_span
-                attrs:
-                  class: null
             text: ', '
           -
             type: text
@@ -539,18 +494,79 @@ add_section:
                   rel: null
                   target: null
                   title: null
-              -
-                type: bts_span
-                attrs:
-                  class: null
-            text: '#explorefreischütz'
+            text: explorefreischütz
+          -
+            type: text
+            text: ', '
           -
             type: text
             marks:
               -
-                type: bts_span
+                type: link
                 attrs:
-                  class: null
+                  href: 'statamic://entry::434cd158-842b-430a-9081-8f0d87a853f0'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: improphonie
+          -
+            type: text
+            text: ', '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::e3f61a48-d5da-4fe6-b316-77e76becce24'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'symphony of change'
+          -
+            type: text
+            text: ', '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::70797547-1ba0-41bf-80f5-0020e0973317'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: explore_händel
+          -
+            type: text
+            text: ', '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::f6e765af-9770-4039-967b-4ca4897f312c'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: freebruckner
+          -
+            type: text
+            text: ' oder '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::ce7784db-be0a-479f-8513-9c8a3e781e06'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: freesolo
+          -
+            type: text
             text: '. Zudem wurden Koproduktionen u.a. mit der Neuköllner Oper ('
           -
             type: text
@@ -562,18 +578,9 @@ add_section:
                   rel: null
                   target: null
                   title: null
-              -
-                type: bts_span
-                attrs:
-                  class: null
             text: 'GIOVANNI. Eine Passion'
           -
             type: text
-            marks:
-              -
-                type: bts_span
-                attrs:
-                  class: null
             text: ', '
           -
             type: text
@@ -585,19 +592,24 @@ add_section:
                   rel: null
                   target: null
                   title: null
-              -
-                type: bts_span
-                attrs:
-                  class: null
             text: 'MOON MUSIC'
+          -
+            type: text
+            text: ', '
           -
             type: text
             marks:
               -
-                type: bts_span
+                type: link
                 attrs:
-                  class: null
-            text: '), dem PODIUM Esslingen (#bfree, #freebrahms), sowie dem Deutschen Symphonie-Orchester Berlin und der jungen norddeutschen Philharmonie ('
+                  href: 'statamic://entry::1f3370c5-58eb-405e-aec1-3768947dc1aa'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Neue Lieder von der Erde'
+          -
+            type: text
+            text: '), dem PODIUM Esslingen, dem Deutschen Symphonie-Orchester Berlin und der jungen norddeutschen philharmonie ('
           -
             type: text
             marks:
@@ -608,19 +620,18 @@ add_section:
                   rel: null
                   target: null
                   title: null
-              -
-                type: bts_span
-                attrs:
-                  class: null
             text: TRIKESTRA
           -
             type: text
-            marks:
-              -
-                type: bts_span
-                attrs:
-                  class: null
-            text: ') realisiert. Stegreif spielte dabei Konzerte auf renommierten Bühnen wie der Berliner Philharmonie, dem Konzerthaus Berlin, der Elbphilharmonie Hamburg, der Alten Oper Frankfurt, dem Brucknerhaus Linz, dem Radialsystem Berlin, dem Beethovenfest Bonn oder dem Prinzregententheater München sowie bei alternativen Festivals wie z. B. der FUSION, dem Detect Classic, PODIUM Esslingen, dem Düsseldorf Festival oder dem Oranjewoud Festival (NL).'
+            text: '), den Berliner Festspielen (Down to Earth), dem Into The Open Festival oder dem Beethovenfest Bonn realisiert.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Stegreif spielte dabei Konzerte auf renommierten Bühnen wie der Berliner Philharmonie, dem Konzerthaus Berlin, der Elbphilharmonie Hamburg, dem Brucknerhaus Linz, der Tonhalle Düsseldorf, dem Radialsystem Berlin, beim Lucerne Festival, den Ludwigsburger Schlossfestspielen, dem ION Nürnberg sowie bei der FUSION, dem Detect Classic Festival, dem Ancient Trance Festival, dem Oranjewoud Festival (NL), auf dem Holzmarkt oder im exploratorium Berlin.'
       -
         type: set
         attrs:
@@ -636,7 +647,16 @@ add_section:
         content:
           -
             type: text
-            text: 'Neben den Komponisten des Ensembles wie Juri de Marco, Alistair Duncan, Julia Bilat, Tabea Schenk, Nina Kazourian, Sebastian Caspar oder Bertram Burkert, gab Stegreif Werke und Arrangements in Auftrag bei Uri Caine, Mike Conrad, Wolf Kerschek, Evelyn Saylor, Malte Schiller sowie Claas Krause. Außerdem arbeitete es mit den Regisseur*innen Ulrike Schwab, David Fernandez, Theresa von Halle und Ela Baumann sowie mit musikalischen Gästen wie Caroline Widmann, Nils Landgren, Markus Stockhausen und Rosanne Philippens zusammen.'
+            text: 'Neben den Komponist'
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'innen des Ensembles wie Juri de Marco, Alistair Duncan, Julia Bilat, Franziska Aller, Tabea Schenk, Nina Kazourian, Sebastian Caspar oder Bertram Burkert, gab Stegreif Werke und Arrangements in Auftrag bei Uri Caine, Mike Conrad, Wolf Kerschek, Malte Schiller sowie Claas Krause. Außerdem arbeitete es mit den Regisseur'
+          -
+            type: text
+            text: 'innen Tristan Braun, Gineke Pranger, Ulrike Schwab, Tino Sehgal, Sommer Ulrickson, David Fernández, Theresa von Halle und Ela Baumann sowie mit musikalischen Gästen Abel Selaocoe, Caroline Widmann, Nils Landgren, Markus Stockhausen, Thomas Klug und Rosanne Philippens zusammen.'
       -
         type: set
         attrs:
@@ -670,13 +690,13 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Musikvermittlungskonzepte '
           -
             type: text
-            text: 'aufgebaut. Das Orchester gibt regelmäßig Workshops, Kinder-Konzerte, hat mehrfach mit Laien oder Jugendlichen gemeinsame Konzertprogramme entwickelt wie z.B. #Carmen mit den Weimarer Stadtstreichern oder '
+            text: 'aufgebaut. Das Orchester gibt regelmäßig Workshops, Kinder-Konzerte, hat mehrfach mit Laien oder Jugendlichen gemeinsame Konzertprogramme entwickelt wie z.B. Carmen mit den Weimarer Stadtstreichern oder '
           -
             type: text
             marks:
@@ -725,7 +745,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Startup-Music-Preis
@@ -736,7 +756,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Europäische Trendmarke'
@@ -747,7 +767,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'TONALi Award'

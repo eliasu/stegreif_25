@@ -13,12 +13,12 @@ article:
         type: text
         text: 'based on works by'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Hildegard von Bingen'
@@ -29,12 +29,12 @@ article:
     content:
       -
         type: text
-        text: '#bechange: Feeling adresses the themes of '
+        text: 'bechange: Feeling adresses the themes of '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: spirituality
@@ -45,7 +45,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: religion
@@ -56,18 +56,18 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'connection to nature'
       -
         type: text
-        text: ", as well as gender justice and oppression. Even in her own time, Hildegard von Bingen's (1098-1179) holistic worldview was revered and her visionary creativity admired. Recomposed by Julia Biłat and directed by David Fernández, #bechange: Feeling is based on an evolving dynamic that places Bingen's "
+        text: ", as well as gender justice and oppression. Even in her own time, Hildegard von Bingen's (1098-1179) holistic worldview was revered and her visionary creativity admired. Recomposed by Julia Biłat and directed by David Fernández, bechange: Feeling is based on an evolving dynamic that places Bingen's "
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Ordo Virtutum'
@@ -86,10 +86,10 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
-        text: '#bechange '
+        text: 'bechange '
       -
         type: text
         text: series
@@ -100,12 +100,12 @@ article:
     content:
       -
         type: text
-        text: '#bechange is a new chapter, a word of encouragement to all curious people, a touch of confidence in a world in disarray, and above all a musical invitation to get involved: to '
+        text: 'bechange is a new chapter, a word of encouragement to all curious people, a touch of confidence in a world in disarray, and above all a musical invitation to get involved: to '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: think
@@ -116,7 +116,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: feel
@@ -127,7 +127,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: create
@@ -141,12 +141,12 @@ article:
     content:
       -
         type: text
-        text: '#bechange asks about change in each and every one of us and invites musicians and the audience to consider their perspective on the central questions of our time. All voices, whether loud or quiet, are heard in an open discussion of hope, guilt and responsibility in the face of the '
+        text: 'bechange asks about change in each and every one of us and invites musicians and the audience to consider their perspective on the central questions of our time. All voices, whether loud or quiet, are heard in an open discussion of hope, guilt and responsibility in the face of the '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'global ecological crisis'
@@ -175,7 +175,7 @@ add_section:
             size: big
             select_type: video
             video: 'https://youtube.com/watch?v=2FWip0_zn2c&feature=shares'
-            media_caption: 'Trailer #bechange: feeling | YouTube-Kanal von Stegreif'
+            media_caption: 'Trailer bechange: feeling | YouTube-Kanal von Stegreif'
   -
     id: st98rrnw
     theme_selector: light
@@ -187,7 +187,7 @@ add_section:
           values:
             type: bard_partners
             headline: Supporters
-            text: '#bechange wird gefördert von: Die Beauftragte der Bundesregierung für Kultur und Medien'
+            text: 'bechange wird gefördert von: Die Beauftragte der Bundesregierung für Kultur und Medien'
             entires:
               - 530d7673-e742-4ee9-be5d-3750c4220019
       -
@@ -201,5 +201,5 @@ add_section:
             reference_content: true
             select_content: 455ef639-911c-4d07-b57e-ed09648ff5e3
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1680266195
+updated_at: 1741961203
 ---

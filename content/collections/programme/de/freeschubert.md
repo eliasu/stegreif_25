@@ -1,13 +1,12 @@
 ---
 id: d3f1f0f7-52fa-4ef1-96b2-46822adaf312
 blueprint: programme
-title: '#freeschubert'
-header_headline: '#freeschubert'
+title: freeschubert
+header_headline: freeschubert
 header_theme_selector: dark
 header_select: image
 header_image: 04_was-wir-tun/reihen-und-programme/freeschubert/img_1716_grabowsee_schubert_c_iken-keune.jpg
 quicklinks_enabled: false
-show_social: false
 theme_selector: dark
 seo_noindex: false
 seo_nofollow: false
@@ -19,10 +18,11 @@ aktuell: false
 select_type: programm
 template: single_page
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1657809978
+updated_at: 1741961572
 teaser_text: 'Die Große Sinfonie in C-Dur ist Franz Schuberts letzte Sinfonie. Doch Gottseidank nicht die letzte, die das Stegreif Orchester rekomponiert.'
 details:
   -
+    id: xMggAE6j
     headline: Team
     description:
       -
@@ -34,12 +34,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Künstlerische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Juri de Marco'
@@ -52,12 +52,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Regie
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Theresa von Halle'
@@ -70,12 +70,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Dramaturgie
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Viola Schmitzer'
@@ -88,12 +88,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Ko-Komposition
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Alistair Duncan'
@@ -106,12 +106,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Ko-Komposition
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Jonas Urbat'
@@ -124,12 +124,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Produktionsleitung
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Clemens Seemann'
@@ -142,12 +142,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Öffentlichkeitsarbeit
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Nina Eckhardt'
@@ -160,12 +160,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Marketing
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Konstantin Zimmermann'
@@ -184,7 +184,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'postum '
@@ -195,7 +195,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Felix Mendelssohn Bartholdy'
@@ -214,7 +214,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'nicht '
@@ -233,7 +233,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Masse '
@@ -244,7 +244,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Individuum '
@@ -255,7 +255,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Schubert Choral'
@@ -282,7 +282,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Nein
@@ -301,7 +301,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Polka
@@ -312,7 +312,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Techno '
@@ -323,7 +323,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Funk
@@ -334,7 +334,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Geht es gut aus?'
@@ -344,23 +344,27 @@ article:
 headline: 'Schuberts Große Sinfonie in C-Dur...'
 extend_section:
   -
+    id: KNZTUYoe
     article:
       -
         type: set
         attrs:
+          id: eWRatQD1
           values:
             type: bard_media
             size: big
             select_type: video
             video: 'https://youtu.be/fL_6HUm5hFk'
-            media_caption: 'Trailer #freeschubert | YouTube-Kanal von Stegreif'
+            media_caption: 'Trailer freeschubert | YouTube-Kanal von Stegreif'
 add_section:
   -
+    id: rS8VE5s5
     theme_selector: yellow
     article:
       -
         type: set
         attrs:
+          id: mJrNBAkC
           values:
             type: bard_quotes
             size: small
@@ -369,6 +373,7 @@ add_section:
       -
         type: set
         attrs:
+          id: fICevsbB
           values:
             type: bard_gallery
             size: big
@@ -382,4 +387,5 @@ add_section:
               - 04_was-wir-tun/reihen-und-programme/freeschubert/dsc_1098_delphi_schubert_c_linnea_lowres.jpg
               - 04_was-wir-tun/reihen-und-programme/freeschubert/dsc_0996_delphi_schubert_c_linnea_lowres.jpg
               - 04_was-wir-tun/reihen-und-programme/freeschubert/dsc_1148_delphi_schubert_c_linnea_lowres.jpg
+featured: false
 ---

@@ -16,12 +16,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Artistic director'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Juri de Marco & Lorenz Blaumer'
@@ -34,12 +34,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Composition, arrangement and conception'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Bertram Burkert'
@@ -52,15 +52,15 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Direction, Choreography'
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
           -
@@ -75,12 +75,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Costume and stage'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Anja Kreher'
@@ -100,7 +100,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'improvisation '
@@ -111,7 +111,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'composition '
@@ -127,18 +127,18 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Groove - movement - eye contact'
       -
         type: text
-        text: '. The aim of the #improphonie is to capture the magic of collective, '
+        text: '. The aim of the improphonie is to capture the magic of collective, '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'free improvisation'
@@ -149,7 +149,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'independent work'
@@ -163,12 +163,12 @@ article:
     content:
       -
         type: text
-        text: "Unlike most of Stegreif's programmes, the #improphonie is not centered around the"
+        text: "Unlike most of Stegreif's programmes, the improphonie is not centered around the"
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: ' recomposition of an existing symphonic work'
@@ -179,7 +179,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'experienced only once'
@@ -194,7 +194,7 @@ article:
         type: bard_quotes
         size: small
         quote: 'The most striking overall impression was the atmosphere: away from the spectacular, theatrical, merely entertaining; towards attentiveness, humility and appreciation.'
-        author: ' FAZ, 27.09.2022'
+        author: 'FAZ, 27.09.2022'
   -
     type: paragraph
     attrs:
@@ -215,12 +215,12 @@ add_section:
         content:
           -
             type: text
-            text: 'Like a classical symphony, the #improphonie consists of '
+            text: 'Like a classical symphony, the improphonie consists of '
           -
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '4 movements'
@@ -231,7 +231,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: melody
@@ -242,7 +242,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'harmony '
@@ -253,7 +253,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: rhythm
@@ -264,7 +264,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'toys with the contrasts between individual melodic voices and full orchestral sound'
@@ -297,7 +297,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'the border between composition and improvisation is blurred'
@@ -308,7 +308,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'classical '
@@ -319,7 +319,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'jazz '
@@ -330,7 +330,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'collective singing'
@@ -341,7 +341,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'intense silence'
@@ -359,10 +359,10 @@ add_section:
           values:
             type: bard_partners
             headline: Supporters
-            text: '#Improphonie is supported by:'
+            text: 'Improphonie is supported by:'
             entires:
               - 7319da4b-3664-4dd3-9898-cd672a5328a0
               - 0ada25f7-f85a-48fb-b3ad-cbeb7aa45ce7
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1686050038
+updated_at: 1741960979
 ---

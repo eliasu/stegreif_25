@@ -1,7 +1,7 @@
 ---
 id: c0c4ac0a-71be-4e04-b312-271ed61025da
 blueprint: programme
-title: '#freemahler - what the earth tells us'
+title: 'freemahler - what the earth tells us'
 header_theme_selector: dark
 header_select: image
 header_image: 04_was-wir-tun/reihen-und-programme/freemahler/header_freemahler_(c)-sophia-hegewald-4_lowres.jpg
@@ -22,12 +22,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Künstlerische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Juri de Marco'
@@ -40,12 +40,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Musikalische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Franziska Aller'
@@ -58,12 +58,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Choreographie
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Viola Schmitzer'
@@ -76,12 +76,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Kostümbild
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Sophie Schliemann'
@@ -97,10 +97,10 @@ details:
                 type: bold
             text: REKOMPOSITION
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
           -
@@ -110,17 +110,17 @@ details:
                 type: bold
             text: '1. Satz: Arrangement #1'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Sebastian Caspar '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             marks:
@@ -139,17 +139,17 @@ details:
                 type: bold
             text: '2. Satz: Ablösung im Sommer'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Malte Schiller '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             marks:
@@ -168,7 +168,7 @@ details:
                 type: bold
             text: '3. Satz: Your Majesty, Earth'
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
                 type: bold
@@ -176,17 +176,17 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Franziska Aller & Alistair Duncan'
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
                 type: italic
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
           -
@@ -207,17 +207,17 @@ details:
                 type: bold
             text: '4. Satz: Arrangement #2'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Sebastian Caspar'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'based on 1st Symphony'
@@ -233,12 +233,12 @@ details:
                 type: bold
             text: '5. Satz: Eure Kinder wären aus bloßem Feuer mit Messern als Finger'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Claas Krause'
@@ -246,7 +246,7 @@ details:
             type: text
             text: ' '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             marks:
@@ -269,7 +269,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Schönheit der Natur'
@@ -280,7 +280,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'menschengemachten Klimawandel '
@@ -299,7 +299,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Sinfonien '
@@ -310,7 +310,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Lied von der Erde'
@@ -321,7 +321,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Wunderhornliedern '
@@ -340,7 +340,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Lösungsansätze '
@@ -351,7 +351,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Bewusstseinswandel '
@@ -370,7 +370,7 @@ add_section:
           values:
             type: bard_quotes
             size: small
-            quote: 'Der abwechslungsreiche Abend befreit Mahler, zeigt dabei das moderne künstlerische Potential dieses Komponisten, dessen Werke sinfonisch interpretiert werden, sich aber auch mit Jazz und Rock vertragen. Solche stilistischen Überraschungen sind in dieser Perfektion ein Merkmal des jungen Ensembles, das sich aus exzellenten Musikern zusammensetzt. '
+            quote: 'Der abwechslungsreiche Abend befreit Mahler, zeigt dabei das moderne künstlerische Potential dieses Komponisten, dessen Werke sinfonisch interpretiert werden, sich aber auch mit Jazz und Rock vertragen. Solche stilistischen Überraschungen sind in dieser Perfektion ein Merkmal des jungen Ensembles, das sich aus exzellenten Musikern zusammensetzt.'
             author: 'rbb24, 23.11.2020'
       -
         type: set
@@ -400,7 +400,7 @@ add_section:
           values:
             type: bard_partners
             headline: 'UNSERE PARTNER UND KOOPERATIONEN'
-            text: '#freemahler - what the earth tells us wurde uraufgeführt als ein interaktives Online-Konzert im Rahmen der Reihe #made-to-measure, gefördert von: Die Beauftragte der Regierung für Kultur und Medien.'
+            text: 'freemahler - what the earth tells us wurde uraufgeführt als ein interaktives Online-Konzert im Rahmen der Reihe made-to-measure, gefördert von: Die Beauftragte der Regierung für Kultur und Medien.'
             entires:
               - 530d7673-e742-4ee9-be5d-3750c4220019
               - 90cc8a9e-1837-46bb-88f3-1bda9a49c29e
@@ -416,8 +416,8 @@ tags:
   - chamber
 template: single_page
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1709207395
-header_headline: '#freemahler - what the earth tells us'
+updated_at: 1741961533
+header_headline: 'freemahler - what the earth tells us'
 extend_section:
   -
     id: 78rKL3Eh
@@ -431,7 +431,7 @@ extend_section:
             size: big
             select_type: video
             video: 'https://www.youtube.com/watch?v=QXczxSvg-Rg'
-            media_caption: 'Trailer #freemahler | YouTube-Kanal von Stegreif'
+            media_caption: 'Trailer freemahler | YouTube-Kanal von Stegreif'
 related_reihe: 09b7a50f-b2c0-413a-b623-a2d7e74c83ac
 quicklinks_enabled: false
 headline: '1 ERDE — 11 MUSIKER*INNEN — 111 MELODIEN'

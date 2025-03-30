@@ -11,12 +11,12 @@ article:
     content:
       -
         type: text
-        text: '#bechange is a new chapter, a word of encouragement to all '
+        text: 'bechange is a new chapter, a word of encouragement to all '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'curious people'
@@ -27,7 +27,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: think
@@ -38,7 +38,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: feel
@@ -49,7 +49,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: create
@@ -63,12 +63,12 @@ article:
     content:
       -
         type: text
-        text: '#bechange asks about change in each and every one of us and invites musicians and the audience to consider their perspective on the central questions of our time. All voices, whether loud or quiet, are heard in an open discussion of hope, guilt and responsibility in the face of the '
+        text: 'bechange asks about change in each and every one of us and invites musicians and the audience to consider their perspective on the central questions of our time. All voices, whether loud or quiet, are heard in an open discussion of hope, guilt and responsibility in the face of the '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'global ecological crisis'
@@ -99,12 +99,12 @@ article:
     content:
       -
         type: text
-        text: 'With #bechange, Stegreif approaches the topic of '
+        text: 'With bechange, Stegreif approaches the topic of '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: sustainability
@@ -115,7 +115,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: '17 Sustainable Development Goals'
@@ -126,7 +126,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'female composers'
@@ -137,7 +137,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'von Bayreuth'
@@ -148,7 +148,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'von Bingen'
@@ -159,7 +159,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Schumann
@@ -170,7 +170,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Mayer
@@ -218,7 +218,7 @@ add_section:
         content:
           -
             type: text
-            text: 'The multi-layered musical, visual and social experiences from the #bechange programmes and the '
+            text: 'The multi-layered musical, visual and social experiences from the bechange programmes and the '
           -
             type: text
             marks:
@@ -229,7 +229,7 @@ add_section:
                   rel: null
                   target: _blank
                   title: null
-            text: '#bechange workshops'
+            text: 'bechange workshops'
           -
             type: text
             text: ' culminate in the '
@@ -237,7 +237,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'symphony of change'
@@ -273,5 +273,5 @@ add_section:
             reference_content: true
             select_content: dfdfb3b5-0e09-4346-854e-e825d2782acb
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1680264487
+updated_at: 1741961741
 ---

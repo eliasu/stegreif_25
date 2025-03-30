@@ -1,12 +1,12 @@
 ---
 id: dfdfb3b5-0e09-4346-854e-e825d2782acb
 blueprint: programme
-title: '#bechange: Thinking'
+title: 'bechange: Thinking'
 header_theme_selector: yellow
 header_select: image
 header_image: 04_was-wir-tun/reihen-und-programme/bechange_thinking/stegreif-bechange-thinking-(c)juliamilberger-038.jpg
 quicklinks_enabled: false
-teaser_text: 'Rekomposition, Klangperformance und Improvisation auf der Grundlage der Musik von Clara Schumann. Das dritte Programm der #bechange Reihe widmet sich dem Wechselspiel von gesellschaftlichem Wandel und technologischem Fortschritt.'
+teaser_text: 'Rekomposition, Klangperformance und Improvisation auf der Grundlage der Musik von Clara Schumann. Das dritte Programm der bechange Reihe widmet sich dem Wechselspiel von gesellschaftlichem Wandel und technologischem Fortschritt.'
 details:
   -
     id: lemzrqaw
@@ -43,17 +43,17 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Künstlerische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Juri de Marco'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Lorenz Blaumer'
@@ -66,12 +66,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Projektleitung
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Immanuel de Gilde'
@@ -84,12 +84,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Rekomposition & Arrangement'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Helena Weinstock-Montag'
@@ -102,12 +102,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Musikalische Leitung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Nikola Djurica'
@@ -120,12 +120,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Ko-Künstlerische Leitung Komposition'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Alistair Duncan'
@@ -138,12 +138,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Regie & Choreographie'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'David Fernandez'
@@ -156,12 +156,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Choreographische Mitarbeit'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Lea Hladka'
@@ -174,12 +174,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: Lichtdesign
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Vito Walter'
@@ -192,12 +192,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Bühne und Kostüm'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Anja Kreher'
@@ -215,12 +215,12 @@ article:
         type: text
         text: 'auf der Grundlage der Musik von '
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Clara Schumann'
@@ -231,7 +231,7 @@ article:
     content:
       -
         type: text
-        text: 'Fortschritt, Gleichschritt, Rückschritt? #bechange: Thinking, das dritte Programm der '
+        text: 'Fortschritt, Gleichschritt, Rückschritt? bechange: Thinking, das dritte Programm der '
       -
         type: text
         marks:
@@ -242,7 +242,7 @@ article:
               rel: null
               target: null
               title: null
-        text: '#bechange-Reihe'
+        text: bechange-Reihe
       -
         type: text
         text: ' des Stegreif Orchesters, erzählt von Zeiten des Aufbruchs, der Entschleunigung und fragt nach dem Wert der allgegenwärtigen Innovation. Wie lebt es sich im Zeitalter des höher, schneller, weiter und können nachhaltige Technologien auch gesellschaftlich'
@@ -250,7 +250,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: ' nachhaltige Strukturen'
@@ -261,7 +261,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Veränderung
@@ -277,10 +277,10 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
-        text: '#bechange: Thinking'
+        text: 'bechange: Thinking'
       -
         type: text
         text: ' bedient sich dieser historischen Zeit als Ausgangspunkt und überträgt sie ins Heute. Aktueller denn je zuvor stellt sich die Frage nach der Ausgewogenheit zwischen '
@@ -288,7 +288,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Innovation '
@@ -299,18 +299,18 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Reflektion
       -
         type: text
-        text: ', zwischen Retrospektive und Fortschritt. Somit werden in #bechange: Thinking - wie der Titel schon andeutet - '
+        text: ', zwischen Retrospektive und Fortschritt. Somit werden in bechange: Thinking - wie der Titel schon andeutet - '
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'individuelle '
@@ -321,7 +321,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'kollektive Denkprozesse'
@@ -340,7 +340,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Helena Weinstock-Montag'
@@ -351,7 +351,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Klavierromanze op.21, Nr.1'
@@ -362,7 +362,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Klavierkonzerts in a-Moll'
@@ -373,7 +373,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'David Fernández'
@@ -402,7 +402,7 @@ add_section:
             size: big
             select_type: video
             video: 'https://www.youtube.com/watch?v=MIIZVJsmzv0'
-            media_caption: 'Trailer #bechange: Thinking | Youtube-Kanal von Stegreif'
+            media_caption: 'Trailer bechange: Thinking | Youtube-Kanal von Stegreif'
       -
         type: set
         attrs:
@@ -410,7 +410,7 @@ add_section:
           values:
             type: bard_quotes
             size: small
-            quote: '»Musik und Szene werden eins, Auskomponiertes wechselt mit Improvisation. [...] Ein bewegender Abend.« '
+            quote: '»Musik und Szene werden eins, Auskomponiertes wechselt mit Improvisation. [...] Ein bewegender Abend.«'
             author: 'Reutlinger General-Anzeiger, 17.05.2022'
       -
         type: set
@@ -440,7 +440,7 @@ add_section:
           values:
             type: bard_partners
             headline: 'Förder*innen'
-            text: '#bechange wird gefördert von: Die Beauftragte der Bundesregierung für Kultur und Medien'
+            text: 'bechange wird gefördert von: Die Beauftragte der Bundesregierung für Kultur und Medien'
             entires:
               - 530d7673-e742-4ee9-be5d-3750c4220019
       -
@@ -466,6 +466,6 @@ related_termine:
   - bd4ecb42-7e1f-4114-83c6-b53f662cd887
 template: single_page
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1709207365
+updated_at: 1741961266
 featured: false
 ---

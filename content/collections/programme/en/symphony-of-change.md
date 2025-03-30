@@ -1,7 +1,7 @@
 ---
 id: 83d9de5d-8cd8-4ea6-a5cb-64f7968e0a7d
 origin: e3f61a48-d5da-4fe6-b316-77e76becce24
-teaser_text: 'The sustainability symphony "symphony of change" by the Stegreif Orchestra is the final production of the two-year concert and workshop series #bechange - 17 sounds of sustainability.'
+teaser_text: 'The sustainability symphony "symphony of change" by the Stegreif Orchestra is the final production of the two-year concert and workshop series bechange - 17 sounds of sustainability.'
 details:
   -
     id: lnd4sojq
@@ -38,12 +38,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'artistic lead'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Juri de Marco & Lorenz Blaumer'
@@ -56,15 +56,15 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'project lead'
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
           -
@@ -79,12 +79,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'recomposition & arrangement'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Tabea Schrenk, Nina Kazourian, Julia Biłat, Helena Montag, Franziska Aller'
@@ -97,12 +97,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'musical lead'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Nikola Djurica'
@@ -115,12 +115,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'co-artistic lead composition'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Alistair Duncan'
@@ -133,12 +133,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'direction and choreography'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'David Fernández'
@@ -151,12 +151,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: choreography
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Lea Hladka'
@@ -169,15 +169,15 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: lights
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
           -
@@ -192,12 +192,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'stage & costume'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Anja Kreher'
@@ -210,12 +210,12 @@ details:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Dramaturgical collaboration'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Catriona Fadke'
@@ -231,17 +231,17 @@ article:
         type: text
         text: 'Hildegard von Bingen '
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'to Clara Schumann '
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Sounds of Sustainability'
@@ -257,7 +257,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'symphony of change'
@@ -274,7 +274,7 @@ article:
               rel: null
               target: null
               title: null
-        text: '#bechange'
+        text: bechange
       -
         type: text
         text: ' series. It focuses on the interplay between music and sustainability and develops a musical invitation to contribute towards the change that is necessary for addressing the big challenges of our time.'
@@ -308,7 +308,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'change sounds like'
@@ -319,7 +319,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'four female composers'
@@ -330,7 +330,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Hildegard von Bingen'
@@ -341,7 +341,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Wilhelmine von Bayreuth'
@@ -352,7 +352,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Emilie Mayer '
@@ -363,7 +363,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Clara Schumann'
@@ -374,7 +374,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'ordo virtutum'
@@ -385,7 +385,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: Argenore
@@ -396,7 +396,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'Klavierromanze '
@@ -407,7 +407,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: '7th symphony'
@@ -418,7 +418,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'breaks '
@@ -429,7 +429,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'genre boundaries'
@@ -440,7 +440,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: jazz
@@ -451,7 +451,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: classical
@@ -462,7 +462,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'contemporary '
@@ -473,7 +473,7 @@ article:
         type: text
         marks:
           -
-            type: bts_span
+            type: btsSpan
             attrs:
               class: text-skin-primary
         text: 'improvised '
@@ -497,7 +497,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'symphony of change'
@@ -508,7 +508,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: '17 Sustainable Development Goals'
@@ -519,7 +519,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'goal 5 of gender equality'
@@ -530,7 +530,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'high-quality education'
@@ -541,7 +541,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'poverty reduction'
@@ -592,7 +592,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'climate change'
@@ -603,7 +603,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'symphony of change'
@@ -614,7 +614,7 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: ' we have to change before it is no longer possible'
@@ -633,18 +633,18 @@ add_section:
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'its greatest radiance'
           -
             type: text
-            text: ' when we make music, listen and act together - in the middle of the audience, between you and me.  Stegreif deliberately places the last of the 17 Sustainable Development Goals at the end of its #bechange series and asks directly: Are you a partner in achieving these goals? '
+            text: ' when we make music, listen and act together - in the middle of the audience, between you and me.  Stegreif deliberately places the last of the 17 Sustainable Development Goals at the end of its bechange series and asks directly: Are you a partner in achieving these goals? '
           -
             type: text
             marks:
               -
-                type: bts_span
+                type: btsSpan
                 attrs:
                   class: text-skin-primary
             text: 'Are we shaping change together?'
@@ -659,7 +659,7 @@ add_section:
           values:
             type: bard_partners
             headline: 'Förder*innen'
-            text: '#bechange wird gefördert von: Die Beauftragte der Bundesregierung für Kultur und Medien'
+            text: 'bechange wird gefördert von: Die Beauftragte der Bundesregierung für Kultur und Medien'
             entires:
               - 530d7673-e742-4ee9-be5d-3750c4220019
       -
@@ -673,5 +673,5 @@ add_section:
             reference_content: true
             select_content: 455ef639-911c-4d07-b57e-ed09648ff5e3
 updated_by: f6128d7d-0471-44e5-b89a-e3213d7a0925
-updated_at: 1709293508
+updated_at: 1741960929
 ---
